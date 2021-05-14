@@ -121,22 +121,6 @@ if generate_graph:
                        lon=str(float(node.get('lon'))),
                        node_type='crossroad')
 
-
-    # for node_1 in graph.nodes:
-    #     if graph.nodes[node_1]['node_type'] == 'crossroad':
-    #         min_distance = None
-    #         min_node_1 = None
-    #         min_node_2 = None
-    #         for node_2 in graph.nodes:
-    #             if graph.nodes[node_2]['node_type'] == 'crossroad' and node_1 != node_2:
-    #                 distance = geo_distance(graph.nodes[node_1]['lon'], graph.nodes[node_1]['lat'], graph.nodes[node_2]['lon'], graph.nodes[node_2]['lat'])
-    #                 if min_distance is None or min_distance > distance:
-    #                     min_distance = distance
-    #                     min_node_1 = node_1
-    #                     min_node_2 = node_2
-    #
-    #         graph.add_edge(min_node_1, min_node_2, geo_dist=min_distance)
-
     for node_1 in graph.nodes:
         if graph.nodes[node_1]['node_type'] == 'address':
             min_distance = None
