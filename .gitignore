@@ -1,2 +1,5 @@
 *.tif
 venv
+/.env
+/.idea/
+.idea
