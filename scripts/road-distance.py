@@ -67,8 +67,11 @@ if __name__ == '__main__':
 
         os.system('cls')
         print(f'{index} / {number_of_edges}')
+        
+        if index > 10:
+            break
 
     print(f'Total time: {(time.time() - start_time) / 60:.2f} min')
     current_time = datetime.now().strftime("%m-%d-%Y-%H-%M-%S")
-    nx.write_pajek(g, f'{args.path}-distances-{current_time}')
-    print(f'Graph saved to: {args.path}-distances-{current_time}')
+    nx.write_pajek(g, f'{args.path[:-4]}-distances-{current_time}.net')
+    print(f'Graph saved to: {args.path[:-4]}-distances-{current_time}.net')
