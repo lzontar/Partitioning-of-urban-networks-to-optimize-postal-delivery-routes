@@ -4,6 +4,7 @@ import networkx as nx
 import math
 
 import requests
+from pyvis.network import Network
 
 
 def geo_distance(lon1, lat1, lon2, lat2):
@@ -158,6 +159,11 @@ if generate_graph:
     graph = nx.subgraph(graph, list(nx.connected_components(graph))[0])
     nx.write_pajek(graph, f'data/graphs/{obcina_filename}.net')
 
+graph = nx.read_pajek(f'data/graphs/{obcina_filename}.net')
+net = Network(notebook=True)
+net.from_nx(graph)
+net.barnes_hut()
+net.show("plot.html")
 
 # graph = nx.read_pajek(f'data/graphs/{obcina_filename}.net')
 # naslovi_obcina = pd.read_excel(f'data/e-prostor/{obcina_filename}.xlsx')
