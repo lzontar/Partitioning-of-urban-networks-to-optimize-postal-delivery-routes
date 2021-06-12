@@ -26,38 +26,46 @@ def geo_distance(lon1, lat1, lon2, lat2):
 
     return distance
 
+naselje = 'Pungert'
 obcina = 'Škofja Loka'
-obcina_filename = obcina \
+
+filename = (obcina if naselje is None else naselje) \
     .replace(' ', '-') \
     .lower() \
     .replace('č', 'c') \
     .replace('š', 's') \
     .replace('ž', 'z')
 
-generate_graph = False
+generate_graph = True
 zgeneriraj_csv = False
 
 if zgeneriraj_csv:
     # To izvedemo le prvič, da se zgenerira Excel datoteka
-    # ulice_vse = pd.read_csv('data/UL_VSE.csv', encoding='utf-8', delimiter=';')
-    # ulice_vse.to_excel('data/ulice.xlsx')
+    # ulice_vse = pd.read_csv('../data/UL_VSE.csv', encoding='utf-8', delimiter=';')
+    # ulice_vse.to_excel('../data/ulice.xlsx')
 
-    ulice = pd.read_excel('data/e-prostor/ulice.xlsx')
-    obcine = pd.read_excel('data/e-prostor/obcine.xlsx')
-    hisne_stevilke = pd.read_excel('data/e-prostor/hisne-stevilke.xlsx')
+    ulice = pd.read_excel('../data/e-prostor/ulice.xlsx')
+    obcine = pd.read_excel('../data/e-prostor/obcine.xlsx')
+    hisne_stevilke = pd.read_excel('../data/e-prostor/hisne-stevilke.xlsx')
 
     # Vzamemo le željeno občino
     obcine = obcine[obcine['OB_UIME'] == obcina]
 
     # Združimo tabele skupaj, da dobimo vse naslove iz občine
     ulice_obcina = pd.merge(obcine, ulice, how="inner", on=["OB_MID"])
-    naslovi_obcina = pd.merge(ulice_obcina, hisne_stevilke, how="inner", on=["UL_MID"])['']
+    naslovi_obcina = pd.merge(ulice_obcina, hisne_stevilke, how="inner", on=["UL_MID"])
 
-    # Shranimo dataframe v excel
-    naslovi_obcina.to_excel(f'data/e-prostor/{obcina_filename}.xlsx')
+    if naselje is not None:
+        naslovi_obcina = naslovi_obcina[naslovi_obcina['UL_UIME'] == naselje]
+
+        # Shranimo dataframe v excel
+        naslovi_obcina.to_excel(f'../data/e-prostor/{filename}.xlsx')
+    else:
+        # Shranimo dataframe v excel
+        naslovi_obcina.to_excel(f'../data/e-prostor/{filename}.xlsx')
 
 if generate_graph:
-    naslovi_obcina = pd.read_excel(f'data/e-prostor/{obcina_filename}.xlsx')
+    naslovi_obcina = pd.read_excel(f'../data/e-prostor/{filename}.xlsx')
     reported_by_gov = list(zip(naslovi_obcina['OB_UIME'], naslovi_obcina['LABELA'], naslovi_obcina['UL_UIME']))
 
     # reported_by_gov = dict()
@@ -69,7 +77,7 @@ if generate_graph:
     #
     #     reported_by_gov[row['OB_UIME']][row['UL_IME']].append(naslovi_obcina['LABELA'])
 
-    node_tree = ET.parse(f'data/osm/{obcina_filename}/{obcina_filename}-nodes.osm')
+    node_tree = ET.parse(f'../data/osm/{filename}/{filename}-nodes.osm')
     root = node_tree.getroot()
     nodes = root.findall('node')
 
@@ -109,7 +117,7 @@ if generate_graph:
                                    ulica=node_['ulica'],
                                    node_type='address')
 
-    node_tree = ET.parse(f'data/osm/{obcina_filename}/{obcina_filename}-crossroads.osm')
+    node_tree = ET.parse(f'../data/osm/{filename}/{filename}-crossroads.osm')
     root = node_tree.getroot()
     nodes = root.findall('node')
 
@@ -137,11 +145,11 @@ if generate_graph:
 
             graph.add_edge(min_node_1, min_node_2, geo_dist=str(min_distance))
 
-    way_tree = ET.parse(f'data/osm/{obcina_filename}/{obcina_filename}-ways.osm')
+    way_tree = ET.parse(f'../data/osm/{filename}/{filename}-ways.osm')
     root = way_tree.getroot()
     ways = root.findall('way')
 
-    node_tree = ET.parse(f'data/osm/{obcina_filename}/{obcina_filename}-crossroads.osm')
+    node_tree = ET.parse(f'../data/osm/{filename}/{filename}-crossroads.osm')
     root = node_tree.getroot()
     nodes = root.findall('node')
 
@@ -157,32 +165,10 @@ if generate_graph:
 
     # We take only the biggest component.
     graph = nx.subgraph(graph, list(nx.connected_components(graph))[0])
-    nx.write_pajek(graph, f'data/graphs/{obcina_filename}.net')
+    nx.write_pajek(graph, f'../data/graphs/{filename}.net')
 
-graph = nx.read_pajek(f'data/graphs/{obcina_filename}.net')
+graph = nx.read_pajek(f'../data/graphs/{filename}.net')
 net = Network(notebook=True)
 net.from_nx(graph)
 net.barnes_hut()
 net.show("plot.html")
-
-# graph = nx.read_pajek(f'data/graphs/{obcina_filename}.net')
-# naslovi_obcina = pd.read_excel(f'data/e-prostor/{obcina_filename}.xlsx')
-#
-# available_addresses = list(filter(lambda x: x is not None, [(graph.nodes[node]['obcina'], graph.nodes[node]['hisna_st'], graph.nodes[node]['ulica']) if graph.nodes[node]['node_type'] == 'address' else None for node in graph.nodes]))
-# reported_by_gov = list(zip(naslovi_obcina['OB_UIME'], naslovi_obcina['LABELA'], naslovi_obcina['UL_UIME']))
-#
-# missing = []
-#
-# for address1 in reported_by_gov:
-#     not_in_addresses = True
-#     for address2 in available_addresses:
-#         if address1[0] == address2[0] and str(address1[1]).upper() == str(address2[1]).upper() and address1[2] == address2[2]:
-#             not_in_addresses = False
-#     if not_in_addresses:
-#         missing.append(address1)
-# print(f'Number of missing addresses: {len(missing)}')
-# API_KEY = 'fa1549b5-21e1-4082-9ab7-a915315f0df5'
-# data = {'username':'Olivia','password':'123'}
-#
-# r = requests.post(f'https://graphhopper.com/api/1/matrix?key={API_KEY}', data=data)
-

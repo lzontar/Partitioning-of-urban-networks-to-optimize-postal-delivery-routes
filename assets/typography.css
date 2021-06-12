@@ -1,0 +1,109 @@
+body {
+    font-family: Favorit,Helvetica,sans-serif !important;
+}
+.ds-dropdown button {
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.ds-dropdown button {
+    height: 100%;
+    font-size: 1.15rem;
+    font-weight: 400;
+    /*font-variant: all-small-caps;*/
+    font-family: Favorit,Helvetica,sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    border:none;
+    cursor:pointer;
+}
+
+
+.ds-dropdown button:hover {
+    border-bottom: 3px solid #008fff;
+    border-radius: 0 !important;
+    background-color: #f8f8f8;
+    color: #444;
+    transition        : all 0.05s linear;
+    -moz-transition   : all 0.05s linear;
+    -webkit-transition: all 0.05s linear;
+    -o-transition     : all 0.05s linear;
+}
+.ds-dropdown button:active {
+    border-bottom: 3px solid #008fff;
+    border-radius: 0 !important;
+    background-color: #f8f8f8;
+    color: #444;
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+    border-bottom: 3px solid #008fff;
+    border-radius: 0 !important;
+    background-color: #f8f8f8;
+    color: #444;
+}
+.btn-secondary.focus, .btn-secondary:focus {
+    border-bottom: 3px solid #008fff;
+    border-radius: 0 !important;
+    background-color: #f8f8f8;
+    color: #444;
+}
+.ds-nav-el {
+    display: flex;
+    align-items: center;
+    font-variant: all-small-caps;
+    font-size: 1.15rem;
+    font-weight: 400;
+    border:none;
+    font-family: Favorit,Helvetica,sans-serif;
+    color: #333;
+    cursor:pointer;
+}
+
+.ds-nav-el:hover {
+    border-bottom: 3px solid #008fff;
+    border-radius: 0 !important;
+    background-color: #f8f8f8;
+    color: #444;
+    transition        : all 0.05s linear;
+    -moz-transition   : all 0.05s linear;
+    -webkit-transition: all 0.05s linear;
+    -o-transition     : all 0.05s linear;
+}
+
+.ds-nav-title {
+    font-size: 1.4rem;
+    font-weight: 400;
+    font-variant: all-small-caps;
+    font-family: Favorit,Helvetica,sans-serif;
+    color: #333;
+}
+
+.ds-nav {
+    background-color: #f8f8f8;
+    z-index: 100;
+}
+
+.ds-content {
+    margin-left: 25%;
+    margin-right: 5%;
+    padding: 20px 10px;
+}
+
+.ds-sidebar {
+    position: fixed;
+    top: 3.63rem;
+    left: 0;
+    bottom: 0;
+    width: 23%;
+    padding: 20px 10px;
+    background-color: #f8f8f8;
+}
+
+.ds-control-label {
+    text-align: left;
+    margin-top: 3%;
+    font-variant: all-small-caps;
+    font-size: 1rem;
+}
