@@ -9,7 +9,6 @@ def _updateGraphViz(filename):
     title = f"{filename.replace('.net', '').replace('-', ' ').upper()} PLOT"
     edge_x = []
     edge_y = []
-    # texts = []
     for edge in G.edges():
         x0, y0, _, _ = utm.from_latlon(float(G.nodes[edge[0]]['lat']), float(G.nodes[edge[0]]['lon']))
         x1, y1, _, _ = utm.from_latlon(float(G.nodes[edge[1]]['lat']), float(G.nodes[edge[1]]['lon']))
@@ -20,16 +19,9 @@ def _updateGraphViz(filename):
         edge_y.append(y1)
         edge_y.append(None)
 
-        edge_data = G.get_edge_data(edge[0], edge[1])[0]
-        # texts.append(f"""
-        # Geo. dist.: {"nan" if 'geo_dist' not in edge_data.keys() else edge_data['geo_dist']}
-        # """)
-
     edge_trace = go.Scatter(
         x=edge_x, y=edge_y,
         mode='lines',
-        # hoverinfo='text',
-        # text=texts,
         name='Edges',
         line=dict(width=0.5, color='#888'),
         )

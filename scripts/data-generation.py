@@ -1,3 +1,5 @@
+import itertools
+
 import pandas as pd
 import xml.etree.cElementTree as ET
 import networkx as nx
@@ -25,6 +27,7 @@ def geo_distance(lon1, lat1, lon2, lat2):
     distance = R * c
 
     return distance
+
 
 naselje = 'Pungert'
 obcina = 'Škofja Loka'
@@ -137,7 +140,8 @@ if generate_graph:
             min_node_2 = None
             for node_2 in graph.nodes:
                 if graph.nodes[node_2]['node_type'] == 'crossroad' and node_1 != node_2:
-                    distance = geo_distance(float(graph.nodes[node_1]['lon']), float(graph.nodes[node_1]['lat']), float(graph.nodes[node_2]['lon']), float(graph.nodes[node_2]['lat']))
+                    distance = geo_distance(float(graph.nodes[node_1]['lon']), float(graph.nodes[node_1]['lat']),
+                                            float(graph.nodes[node_2]['lon']), float(graph.nodes[node_2]['lat']))
                     if min_distance is None or min_distance > distance:
                         min_distance = distance
                         min_node_1 = node_1
@@ -160,8 +164,23 @@ if generate_graph:
         if len(crs_in_way) > 1:
             edges = list(zip(crs_in_way, crs_in_way[1:]))
             # Calculate the duration of travel between crossroads and add it as attribute (weight)
-            graph.add_edges_from(edges)
+            for edge in edges:
+                node_1 = edge[0]
+                node_2 = edge[1]
+                distance = geo_distance(float(graph.nodes[node_1]['lon']), float(graph.nodes[node_1]['lat']),
+                                        float(graph.nodes[node_2]['lon']), float(graph.nodes[node_2]['lat']))
+                graph.add_edge(node_1, node_2, geo_dist=str(distance))
 
+    # Make complete subgraphs on each crossroad
+    for crs in crossroads:
+        nodes = list(filter(lambda x: graph.nodes[x]['node_type'] == 'address', map(lambda x: x[1] if crs != x[1] else x[0], graph.edges(crs))))
+        combs = itertools.combinations(nodes, 2)
+        for comb in combs:
+            node_1 = comb[0]
+            node_2 = comb[1]
+            distance = geo_distance(float(graph.nodes[node_1]['lon']), float(graph.nodes[node_1]['lat']),
+                                    float(graph.nodes[node_2]['lon']), float(graph.nodes[node_2]['lat']))
+            graph.add_edge(node_1, node_2, geo_dist=str(distance))
 
     # We take only the biggest component.
     graph = nx.subgraph(graph, list(nx.connected_components(graph))[0])
