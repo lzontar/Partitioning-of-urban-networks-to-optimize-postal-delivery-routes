@@ -18,6 +18,7 @@ external_stylesheets = [
 ]
 
 app = dash.Dash("INA", external_stylesheets=external_stylesheets, suppress_callback_exceptions=True)
+server = app.server
 
 app.layout = html.Div(LAYOUT())
 
