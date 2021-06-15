@@ -1,3 +1,6 @@
 *.tif
 venv
 sandbox.ipynb
+/.env
+/.idea/
+.idea

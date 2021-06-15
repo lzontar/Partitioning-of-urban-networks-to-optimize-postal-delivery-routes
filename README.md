@@ -11,4 +11,12 @@ Here, we present the structure of our network, which will represent the city roa
 Each edge is weighted by distance (in km) and time needed to get from one crossroad to another.
  
  
- Crossroads
+Crossroads
+
+## How to run
+For running `road-distance.py` you need to set HERE Api key in environment variables.
+To do that, create `.env` file and add the following line, where you replace `API_KEY`
+with an actual api key:
+```
+HERE_API_KEY={API_KEY}
+```
