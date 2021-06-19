@@ -28,6 +28,7 @@ if __name__ == '__main__':
 
     # ==================================================
     #   METIS GRAPH PARTITIONING
+    #   https://metis.readthedocs.io/en/latest/
     # ==================================================
     crossroad_graph = nx.Graph()
     for node in g.nodes():
@@ -68,6 +69,7 @@ if __name__ == '__main__':
 
     # ==================================================
     #   GIRVAN NEWMAN COMMUNITY DETECTION
+    #   https://cdlib.readthedocs.io/en/0.2.0/reference/cd_algorithms/algs/cdlib.algorithms.girvan_newman.html#cdlib.algorithms.girvan_newman
     # ==================================================
     g: nx.Graph = nx.read_pajek(args.path)
     coms = algorithms.girvan_newman(g, level=k-1)
@@ -79,6 +81,7 @@ if __name__ == '__main__':
 
     # ==================================================
     #   GRAPH-BASED AGGLOMERATIVE ALGORITHM
+    #   https://cdlib.readthedocs.io/en/0.2.0/reference/cd_algorithms/algs/cdlib.algorithms.agdl.html#cdlib.algorithms.agdl
     # ==================================================
     g: nx.Graph = nx.read_pajek(args.path)
     coms = algorithms.agdl(g, k, 10)
@@ -90,6 +93,7 @@ if __name__ == '__main__':
 
     # ==================================================
     #   FLUID COMMUNITY DETECTION
+    #   https://cdlib.readthedocs.io/en/0.2.0/reference/cd_algorithms/algs/cdlib.algorithms.async_fluid.html#cdlib.algorithms.async_fluid
     # ==================================================
     g: nx.Graph = nx.read_pajek(args.path)
     coms = algorithms.async_fluid(g, k)
