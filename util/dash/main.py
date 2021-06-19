@@ -69,7 +69,7 @@ def _updateGraphCity(filename):
 def _updateGraphPartition(filename):
     # Read graph
     G = nx.read_pajek(f'data/graphs/{filename}')
-    # for node in G.nodes:
+
 
     title = f"{filename.replace('.net', '').replace('-', ' ').upper()} PARTITIONING"
     edge_x = []
