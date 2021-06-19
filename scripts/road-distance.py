@@ -64,7 +64,7 @@ if __name__ == '__main__':
         duration, distance = create_request(f'{from_latitude},{from_longitude}', f'{to_latitude},{to_longitude}')
         edge = g.edges[edge]
         edge['duration'] = str(duration)
-        edge['distance'] = str(distance)
+        edge['duration'] = str(distance)
 
         os.system('cls')
         print(f'{index} / {number_of_edges}')

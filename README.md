@@ -89,4 +89,3 @@ with an actual api key:
 ```
 HERE_API_KEY={API_KEY}
 ```
-
