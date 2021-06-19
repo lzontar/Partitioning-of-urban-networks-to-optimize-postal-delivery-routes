@@ -29,8 +29,8 @@ def geo_distance(lon1, lat1, lon2, lat2):
     return distance
 
 
-naselje = 'Pungert'
 obcina = 'Škofja Loka'
+naselje = 'Pungert'
 
 filename = (obcina if naselje is None else naselje) \
     .replace(' ', '-') \
@@ -40,7 +40,7 @@ filename = (obcina if naselje is None else naselje) \
     .replace('ž', 'z')
 
 generate_graph = True
-zgeneriraj_csv = False
+zgeneriraj_csv = True
 
 if zgeneriraj_csv:
     # To izvedemo le prvič, da se zgenerira Excel datoteka
@@ -171,16 +171,16 @@ if generate_graph:
                                         float(graph.nodes[node_2]['lon']), float(graph.nodes[node_2]['lat']))
                 graph.add_edge(node_1, node_2, geo_dist=str(distance))
 
-    # Make complete subgraphs on each crossroad
-    for crs in crossroads:
-        nodes = list(filter(lambda x: graph.nodes[x]['node_type'] == 'address', map(lambda x: x[1] if crs != x[1] else x[0], graph.edges(crs))))
-        combs = itertools.combinations(nodes, 2)
-        for comb in combs:
-            node_1 = comb[0]
-            node_2 = comb[1]
-            distance = geo_distance(float(graph.nodes[node_1]['lon']), float(graph.nodes[node_1]['lat']),
-                                    float(graph.nodes[node_2]['lon']), float(graph.nodes[node_2]['lat']))
-            graph.add_edge(node_1, node_2, geo_dist=str(distance))
+    # # Make complete subgraphs on each crossroad
+    # for crs in crossroads:
+    #     nodes = list(filter(lambda x: graph.nodes[x]['node_type'] == 'address', map(lambda x: x[1] if crs != x[1] else x[0], graph.edges(crs))))
+    #     combs = itertools.combinations(nodes, 2)
+    #     for comb in combs:
+    #         node_1 = comb[0]
+    #         node_2 = comb[1]
+    #         distance = geo_distance(float(graph.nodes[node_1]['lon']), float(graph.nodes[node_1]['lat']),
+    #                                 float(graph.nodes[node_2]['lon']), float(graph.nodes[node_2]['lat']))
+    #         graph.add_edge(node_1, node_2, geo_dist=str(distance))
 
     # We take only the biggest component.
     graph = nx.subgraph(graph, list(nx.connected_components(graph))[0])
