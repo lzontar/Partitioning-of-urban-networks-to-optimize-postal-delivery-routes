@@ -2,10 +2,13 @@ import plotly.graph_objects as go
 import networkx as nx
 import utm
 import plotly.express as px
+import dash_html_components as html
 
+import util.lib.helper as help
+import math
 
 def _updateGraphCity(filename):
-    G = nx.read_pajek(f'data/graphs/{filename}')
+    G = nx.read_pajek(f'data/graphs/{filename}.net')
     title = f"{filename.replace('.net', '').replace('-', ' ').upper()} PLOT"
     edge_x = []
     edge_y = []
@@ -66,12 +69,10 @@ def _updateGraphCity(filename):
 
     return fig
 
-def _updateGraphPartition(filename):
-    # Read graph
-    G = nx.read_pajek(f'data/graphs/{filename}')
+def _updateGraphPartition(net, alg):
+    G = nx.read_pajek(f'data/graphs/with_communities/{net}-{alg}.net')
 
-
-    title = f"{filename.replace('.net', '').replace('-', ' ').upper()} PARTITIONING"
+    title = f"{net.replace('-', ' ').upper()} PARTITIONING ({alg.replace('-', ' ').upper()})"
     edge_x = []
     edge_y = []
     for edge in G.edges():
@@ -92,8 +93,9 @@ def _updateGraphPartition(filename):
         )
 
     traces = [edge_trace]
-    for ix, type in enumerate(set([G.nodes[node]['node_type'] for node in G.nodes])):
-        nodes = list(filter(lambda x: G.nodes[x]['node_type'] == type, G.nodes))
+    cluster_enumerator = list(enumerate(set([G.nodes[node]['cluster_id'] for node in G.nodes])))
+    for ix, type in cluster_enumerator:
+        nodes = list(filter(lambda x: G.nodes[x]['cluster_id'] == type, G.nodes))
         node_x = []
         node_y = []
         texts = []
@@ -102,7 +104,7 @@ def _updateGraphPartition(filename):
             x, y, _, _ = utm.from_latlon(float(G.nodes[node]['lat']), float(G.nodes[node]['lon']))
             node_x.append(x)
             node_y.append(y)
-            groups.append(G.nodes[node]['node_type'])
+            groups.append(G.nodes[node]['cluster_id'])
             if G.nodes[node]['node_type'] == 'crossroad':
                 texts.append(f'Type: crossroad, <br>Lon:  {round(float(G.nodes[node]["lon"]), 4)}, Lat: {round(float(G.nodes[node]["lat"]), 4)}')
             else:
@@ -129,4 +131,13 @@ def _updateGraphPartition(filename):
                         yaxis=dict(showgrid=True, zeroline=True, showticklabels=False))
                     )
 
-    return fig
+    children = [html.H5('Partition traversal results')]
+    for ix, type in cluster_enumerator:
+        subgraph_nodes = list(filter(lambda x: G.nodes[x]['cluster_id'] == type, G.nodes))
+        distanceMatrix = help.distance_matrix(G)
+        optimalRoute, optimalPrice = help.optimalTraversal(G, subgraph_nodes, distanceMatrix)
+
+        children.append(html.Div[f"Duration: {math.floor(optimalPrice / 60)} min {optimalPrice - math.floor(optimalPrice / 60) * 60} sec"])
+
+
+    return fig, children
