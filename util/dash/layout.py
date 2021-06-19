@@ -19,12 +19,23 @@ def CONTROLS():
             value='pungert.net',
             multi=False
         ),
+        dbc.Button(
+            id='partition_button',
+            n_clicks=0,
+            children='Partition',
+            color='primary',
+            block=True,
+            style={
+                'marginTop': '2%'
+            }
+        )
     ], className="ds-sidebar border-right")
 
 
 def CONTENT():
     return html.Div(children=[
-        dcc.Graph(id='city_graph')
+        dcc.Graph(id='city_graph'),
+        dcc.Graph(id='partition_graph')
     ], className='ds-content')
 
 

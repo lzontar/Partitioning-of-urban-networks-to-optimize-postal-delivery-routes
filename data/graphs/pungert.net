@@ -1,4 +1,4 @@
-*vertices 44
+*vertices 43
 1 5055255754 0.0 0.0 ellipse lat 46.1549926 lon 14.3390126 obcina "Škofja Loka" hisna_st 32 ulica Pungert node_type address
 2 5055255755 0.0 0.0 ellipse lat 46.1553428 lon 14.3388789 obcina "Škofja Loka" hisna_st 2 ulica Pungert node_type address
 3 5055255756 0.0 0.0 ellipse lat 46.1551172 lon 14.3387651 obcina "Škofja Loka" hisna_st 3 ulica Pungert node_type address
@@ -41,8 +41,7 @@
 40 1786348136 0.0 0.0 ellipse lat 46.1564172 lon 14.3369096 node_type crossroad
 41 3378708309 0.0 0.0 ellipse lat 46.1562003 lon 14.3368677 node_type crossroad
 42 94194781 0.0 0.0 ellipse lat 46.1567555 lon 14.336457 node_type crossroad
-43 94194713 0.0 0.0 ellipse lat 46.1606297 lon 14.3305596 node_type crossroad
-44 94194835 0.0 0.0 ellipse lat 46.1547454 lon 14.3421091 node_type crossroad
+43 94194835 0.0 0.0 ellipse lat 46.1547454 lon 14.3421091 node_type crossroad
 *edges
 1 41 1.0 geo_dist 0.21297167791504848
 1 2 1.0 geo_dist 0.04029185866311837
@@ -98,7 +97,7 @@
 3 33 1.0 geo_dist 0.260110933627816
 3 34 1.0 geo_dist 0.31248867872594027
 3 36 1.0 geo_dist 0.20593723601257677
-4 44 1.0 geo_dist 0.19546398451946967
+4 43 1.0 geo_dist 0.19546398451946967
 5 41 1.0 geo_dist 0.15297551224808958
 5 7 1.0 geo_dist 0.14839063385682238
 5 8 1.0 geo_dist 0.15600198485643815
@@ -305,5 +304,4 @@
 39 42 1.0 geo_dist 0.03256344667091437
 39 40 1.0 geo_dist 0.01973066456206224
 40 41 1.0 geo_dist 0.024340786576883985
-40 44 1.0 geo_dist 0.4416707752060269
-42 43 1.0 geo_dist 0.6262144617994917
+40 43 1.0 geo_dist 0.4416707752060269

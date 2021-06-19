@@ -5,7 +5,7 @@ from util.dash.layout import *
 
 import dash
 
-from util.dash.main import _updateGraphViz
+from util.dash.main import _updateGraphCity, _updateGraphPartition
 
 external_stylesheets = [
     dbc.themes.BOOTSTRAP,
@@ -27,8 +27,18 @@ app.layout = html.Div(LAYOUT())
     Output(component_id='city_graph', component_property='figure'),
     Input(component_id='dropdown_nets', component_property='value'),
 )
-def updateGraphViz(dropdown_net):
-    return _updateGraphViz(dropdown_net)
+def updateGraphCity(dropdown_net):
+    return _updateGraphCity(dropdown_net)
+
+@app.callback(
+    Output(component_id='partition_graph', component_property='figure'),
+    Input(component_id='partition_button', component_property='n_clicks'),
+    [
+        State(component_id='dropdown_nets', component_property='value')
+    ]
+)
+def updateGraphPartition(partition_button, net):
+    return _updateGraphPartition(net)
 
 
 if __name__ == '__main__':
