@@ -28,6 +28,7 @@ def create_request(origin: str, destination: str) -> tuple:
         'origin': origin,
         'destination': destination,
         'transportMode': 'car',
+        'departureTime': '2021-06-1T00:00:00',
         'return': 'summary'
     })
 
@@ -67,9 +68,6 @@ if __name__ == '__main__':
 
         os.system('cls')
         print(f'{index} / {number_of_edges}')
-        
-        if index > 10:
-            break
 
     print(f'Total time: {(time.time() - start_time) / 60:.2f} min')
     current_time = datetime.now().strftime("%m-%d-%Y-%H-%M-%S")
