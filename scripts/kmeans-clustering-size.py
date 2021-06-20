@@ -12,7 +12,7 @@ parser = argparse.ArgumentParser(
 
 parser.add_argument('-n', '--name',
                     type=str,
-                    default='tolmin',
+                    default='skofja-loka',
                     help='settlement name'
                     )
 
@@ -20,12 +20,6 @@ parser.add_argument('-i', '--iterations',
                     type=int,
                     default=100,
                     help='max number of iterations'
-                    )
-
-parser.add_argument('-p', '--path',
-                    type=str,
-                    default='../data/graphs/with_distances/tolmin.net',
-                    help='path to the graph file'
                     )
 
 parser.add_argument('-k',
@@ -51,7 +45,16 @@ def minmax_diff(it):
 if __name__ == '__main__':
     args = parser.parse_args()
 
-    g: nx.Graph = nx.read_pajek(args.path)
+    name = args.name
+
+    name = name \
+        .replace(' ', '-') \
+        .lower() \
+        .replace('č', 'c') \
+        .replace('š', 's') \
+        .replace('ž', 'z')
+
+    g: nx.Graph = nx.read_pajek(f"../data/graphs/with_distances/{name}.net")
 
     nodes = {}
     centers = {center: [] for center in random.sample(g.nodes, args.k)}
@@ -187,4 +190,4 @@ if __name__ == '__main__':
             g.nodes[node]['cluster_id'] = str(cluster_id)
 
     current_time = datetime.now().strftime("%m-%d-%Y-%H-%M-%S")
-    nx.write_pajek(g, f'../data/graphs/with_communities/{args.name}-k-means-size.net')
+    nx.write_pajek(g, f'../data/graphs/with_communities/{name}-k-means-size.net')
