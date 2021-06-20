@@ -37,6 +37,12 @@ def CONTROLS():
                 'marginTop': '2%'
             }
         ),
+        html.Div('Average time postman waits for delivery recipient (seconds)', className="ds-control-label-inline"),
+        dcc.Input(id='mu', type="number", value=60,
+                  className='ds-control-input-inline'),
+        html.Div('Standard deviation postman waits for delivery recipient (seconds)', className="ds-control-label-inline"),
+        dcc.Input(id='sigma', type="number", value=120,
+                  className='ds-control-input-inline'),
         dbc.Button(
             id='partition_button',
             n_clicks=0,

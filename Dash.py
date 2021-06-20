@@ -39,10 +39,12 @@ def updateGraphCity(dropdown_net):
     [
         State(component_id='dropdown_nets', component_property='value'),
         State(component_id='dropdown_algs', component_property='value'),
+        State(component_id='mu', component_property='value'),
+        State(component_id='sigma', component_property='value'),
     ]
 )
-def updateGraphPartition(partition_button, net, alg):
-    return _updateGraphPartition(net, alg)
+def updateGraphPartition(partition_button, net, alg, mu, sigma):
+    return _updateGraphPartition(net, alg, mu, sigma)
 
 
 if __name__ == '__main__':

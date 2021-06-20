@@ -3,9 +3,11 @@ import networkx as nx
 import utm
 import plotly.express as px
 import dash_html_components as html
-
+import numpy as np
 import util.lib.helper as help
 import math
+import pickle
+
 
 def _updateGraphCity(filename):
     G = nx.read_pajek(f'data/graphs/{filename}.net')
@@ -69,7 +71,7 @@ def _updateGraphCity(filename):
 
     return fig
 
-def _updateGraphPartition(net, alg):
+def _updateGraphPartition(net, alg, mu, sigma):
     G = nx.read_pajek(f'data/graphs/with_communities/{net}-{alg}.net')
 
     title = f"{net.replace('-', ' ').upper()} PARTITIONING ({alg.replace('-', ' ').upper()})"
@@ -131,13 +133,38 @@ def _updateGraphPartition(net, alg):
                         yaxis=dict(showgrid=True, zeroline=True, showticklabels=False))
                     )
 
-    children = [html.H5('Partition traversal results')]
-    for ix, type in cluster_enumerator:
-        subgraph_nodes = list(filter(lambda x: G.nodes[x]['cluster_id'] == type, G.nodes))
-        distanceMatrix = help.distance_matrix(G)
-        optimalRoute, optimalPrice = help.optimalTraversal(G, subgraph_nodes, distanceMatrix)
+    cached_file = f"cache/{net}-{alg}-{mu}-{sigma}.pickle"
 
-        children.append(html.Div[f"Duration: {math.floor(optimalPrice / 60)} min {optimalPrice - math.floor(optimalPrice / 60) * 60} sec"])
+    try:
+        with open(cached_file, "rb") as cached:
+            children = pickle.load(cached)
+    except IOError:
 
+        children = [html.H5('Partition traversal results')]
+        for ix, type in cluster_enumerator:
+            subgraph_nodes = list(filter(lambda x: G.nodes[x]['cluster_id'] == type, G.nodes))
+            distanceMatrix = help.distance_matrix(G)
+            optimalRoute, optimalPrice = help.optimalTraversal(G, subgraph_nodes, distanceMatrix)
+
+            optimalPriceRecWait = sum(np.random.normal(mu, sigma, len(subgraph_nodes)))
+
+            hoursOpt = math.floor(optimalPrice / 3600)
+            hoursRecWait = math.floor(optimalPriceRecWait / 3600)
+            minOpt = math.floor((optimalPrice - hoursOpt * 3600) / 60)
+            minRecWait = math.floor((optimalPriceRecWait - hoursRecWait * 3600) / 60)
+            secondsOpt = round(optimalPrice - 3600 * hoursOpt - 60 * minOpt, 2)
+            secondsRecWait = round(optimalPriceRecWait - 3600 * hoursRecWait - 60 * minRecWait, 2)
+
+            children.append(html.Div(children=[
+                html.Div(f"Partition {type}:"),
+                html.Ul(children=[
+                            html.Li(f"number of houses: {len(subgraph_nodes)},"),
+                            html.Li(f"duration driving: {hoursOpt} h {minOpt} min {secondsOpt} sec"),
+                            html.Li(f"duration waiting for recipient: {hoursRecWait} h {minRecWait} min {secondsRecWait} sec"),
+                        ])
+            ]))
+
+            with open(cached_file, "wb") as out:
+                pickle.dump(children, out)
 
     return fig, children

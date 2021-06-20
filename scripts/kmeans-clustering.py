@@ -9,7 +9,7 @@ parser = argparse.ArgumentParser(
 
 parser.add_argument('-p', '--path',
                     type=str,
-                    default='../data/graphs/temp/skofja-loka-distances-06-19-2021-12-58-20.net',
+                    default='../data/graphs/with_distances/skofja-loka-distances.net',
                     help='path to the graph file'
                     )
 
@@ -55,8 +55,8 @@ if __name__ == '__main__':
                     g.nodes[node]['cluster_id'] = str(cluster_id)
 
             current_time = datetime.now().strftime("%m-%d-%Y-%H-%M-%S")
-            nx.write_pajek(g, f'{args.path[:-4]}-kmeans-{current_time}.net')
-            print(f'Graph saved to: {args.path[:-4]}-kmeans-{current_time}.net')
+            nx.write_pajek(g, f'{args.path[:-4]}-k-means.net')
+            print(f'Graph saved to: {args.path[:-4]}-k-means.net')
             break
 
         centers = new_centers

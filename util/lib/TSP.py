@@ -177,7 +177,7 @@ def geneticAlgorithm(population, popSize, eliteSize, mutationRate, generations, 
 
 # crossroadList = []
 # addressList = []
-# with open('../data/graphs/temp/pungert-distances-06-19-2021-14-02-38.net', 'r', encoding="utf-8") as f:
+# with open('../data/graphs/temp/pungert-distances.net', 'r', encoding="utf-8") as f:
 #     for line in f.readlines():
 #         if(line.strip().endswith("crossroad")):
 #             vals = line.strip().split(" ")
