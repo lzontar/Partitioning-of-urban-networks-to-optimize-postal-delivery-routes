@@ -8,7 +8,7 @@ import os
 def CONTROLS():
     filenames = list(filter(lambda x: x.endswith('.net'), os.listdir('data/graphs/')))
     nets = [
-        {'label': x.replace('.net', '').replace('-', ' ').upper(), 'value': x}
+        {'label': x.replace('.net', '').replace('-', ' ').upper(), 'value': x.replace('.net', '')}
         for x in filenames
     ]
     return html.Div(children=[
@@ -16,8 +16,26 @@ def CONTROLS():
         dcc.Dropdown(
             id='dropdown_nets',
             options=nets,
-            value='pungert.net',
-            multi=False
+            value='tolmin',
+            multi=False,
+            style={
+                'marginTop': '2%'
+            }
+        ),
+        dcc.Dropdown(
+            id='dropdown_algs',
+            options=[
+                {'label': 'K-MEANS', 'value': 'k-means'},
+                {'label': 'ASYNC FLUID', 'value': 'async-fluid'},
+                {'label': 'AGDL', 'value': 'agdl'},
+                {'label': 'GIRVAN NEWMAN', 'value': 'girvan-newman'},
+                {'label': 'METIS', 'value': 'metis'},
+            ],
+            value='k-means',
+            multi=False,
+            style={
+                'marginTop': '2%'
+            }
         ),
         dbc.Button(
             id='partition_button',
@@ -35,7 +53,8 @@ def CONTROLS():
 def CONTENT():
     return html.Div(children=[
         dcc.Graph(id='city_graph'),
-        dcc.Graph(id='partition_graph')
+        dcc.Graph(id='partition_graph'),
+        html.Div(id='results')
     ], className='ds-content')
 
 

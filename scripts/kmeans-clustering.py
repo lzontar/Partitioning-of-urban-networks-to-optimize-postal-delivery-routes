@@ -24,7 +24,7 @@ if __name__ == '__main__':
     g: nx.Graph = nx.read_pajek(args.path)
 
     centers = {center: [] for center in random.sample(g.nodes, args.k)}
-    distances = dict(nx.all_pairs_dijkstra_path_length(g, weight=lambda u, v, d: int(d[0]['distance'])))
+    distances = dict(nx.all_pairs_dijkstra_path_length(g, weight=lambda u, v, d: int(d[0]['duration'])))
 
     for i in range(0, 10):
         # for each node, find closest center
