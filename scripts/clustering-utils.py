@@ -72,8 +72,8 @@ if __name__ == '__main__':
             crossroad_graph.add_edge(node1, node2)
 
     for n in crossroad_graph.nodes():
-        g.nodes[n]['kcut_partition_id'] = str(crossroad_graph.nodes[n]['kcut_partition_id'])
-    nx.write_pajek(g, f'../data/graphs/with_communities/{name}-kcut_weighted_nodes.net')
+        g.nodes[n]['cluster_id'] = str(crossroad_graph.nodes[n]['kcut_partition_id'])
+    nx.write_pajek(g, f'../data/graphs/with_communities/{name}-kcut-weighted-nodes.net')
 
     # ==================================================
     #   GIRVAN NEWMAN COMMUNITY DETECTION
@@ -83,9 +83,9 @@ if __name__ == '__main__':
     coms = algorithms.girvan_newman(g, level=k-1)
 
     for i in coms.to_node_community_map():
-        g.nodes[i]['girvan_newman_cluster_id'] = str(coms.to_node_community_map()[i][0])
+        g.nodes[i]['cluster_id'] = str(coms.to_node_community_map()[i][0])
 
-    nx.write_pajek(g, f'../data/graphs/with_communities/{name}-girvan_newman.net')
+    nx.write_pajek(g, f'../data/graphs/with_communities/{name}-girvan-newman.net')
 
     # ==================================================
     #   GRAPH-BASED AGGLOMERATIVE ALGORITHM
@@ -95,7 +95,7 @@ if __name__ == '__main__':
     coms = algorithms.agdl(g, k, 10)
 
     for i in coms.to_node_community_map():
-        g.nodes[i]['agdl_cluster_id'] = str(coms.to_node_community_map()[i][0])
+        g.nodes[i]['cluster_id'] = str(coms.to_node_community_map()[i][0])
 
     nx.write_pajek(g, f'../data/graphs/with_communities/{name}-agdl.net')
 
@@ -107,9 +107,9 @@ if __name__ == '__main__':
     coms = algorithms.async_fluid(g, k)
 
     for i in coms.to_node_community_map():
-        g.nodes[i]['async_fluid_cluster_id'] = str(coms.to_node_community_map()[i][0])
+        g.nodes[i]['cluster_id'] = str(coms.to_node_community_map()[i][0])
 
-    nx.write_pajek(g, f'../data/graphs/with_communities/{name}-async_fluid.net')
+    nx.write_pajek(g, f'../data/graphs/with_communities/{name}-async-fluid.net')
 
     # ==================================================
     #   GRAPH PARTITIONING USING K-CUT WITH EDGE WEIGHTS (distance)
@@ -121,9 +121,9 @@ if __name__ == '__main__':
     (cut, parts) = metis.part_graph(g, k)
 
     for i, part in enumerate(parts):
-        g.nodes[list(g.nodes)[i]]['kcut_partition_id'] = str(part)
+        g.nodes[list(g.nodes)[i]]['cluster_id'] = str(part)
 
-    nx.write_pajek(g, f'../data/graphs/with_communities/{name}-kcut_edge_distance.net')
+    nx.write_pajek(g, f'../data/graphs/with_communities/{name}-kcut-edge-distance.net')
 
     # ==================================================
     #   GRAPH PARTITIONING USING K-CUT WITH EDGE WEIGHTS (duration)
@@ -135,6 +135,6 @@ if __name__ == '__main__':
     (cut, parts) = metis.part_graph(g, k)
 
     for i, part in enumerate(parts):
-        g.nodes[list(g.nodes)[i]]['kcut_partition_id'] = str(part)
+        g.nodes[list(g.nodes)[i]]['cluster_id'] = str(part)
 
-    nx.write_pajek(g, f'../data/graphs/with_communities/{name}-kcut_edge_duration.net')
+    nx.write_pajek(g, f'../data/graphs/with_communities/{name}-kcut-edge-duration.net')
