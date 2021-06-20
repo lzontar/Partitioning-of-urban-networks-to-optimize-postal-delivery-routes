@@ -15,9 +15,9 @@ HERE_ROUTES_URL = 'https://router.hereapi.com/v8/routes'
 
 parser = argparse.ArgumentParser(
     description='Simple script that adds road distance (meters) and duration (seconds) to edges')
-parser.add_argument('-p', '--path',
+parser.add_argument('-n', '--name',
                     type=str,
-                    default='../data/graphs/skofja-loka.net',
+                    default='Tolmin',
                     help='path to the graph file'
                     )
 
@@ -27,7 +27,7 @@ def create_request(origin: str, destination: str) -> tuple:
         'apiKey': HERE_API_KEY,
         'origin': origin,
         'destination': destination,
-        'transportMode': 'car',
+        'transportMode': 'scooter',
         'departureTime': '2021-06-1T00:00:00',
         'return': 'summary'
     })
@@ -43,11 +43,18 @@ def create_request(origin: str, destination: str) -> tuple:
 if __name__ == '__main__':
     args = parser.parse_args()
 
+    name = args.name \
+        .replace(' ', '-') \
+        .lower() \
+        .replace('č', 'c') \
+        .replace('š', 's') \
+        .replace('ž', 'z')
+
     HERE_API_KEY = os.getenv('HERE_API_KEY')
     if HERE_API_KEY is None:
         raise RuntimeError('HERE_API_KEY environment variable is not set!')
 
-    g: nx.Graph = nx.read_pajek(args.path)
+    g: nx.Graph = nx.read_pajek(f'../data/graphs/{name}.net')
     number_of_edges = g.number_of_edges()
 
     start_time = time.time()
@@ -71,5 +78,5 @@ if __name__ == '__main__':
 
     print(f'Total time: {(time.time() - start_time) / 60:.2f} min')
     current_time = datetime.now().strftime("%m-%d-%Y-%H-%M-%S")
-    nx.write_pajek(g, f'{args.path[:-4]}-distances-{current_time}.net')
-    print(f'Graph saved to: {args.path[:-4]}-distances-{current_time}.net')
+    nx.write_pajek(g, f'../data/graphs/with_distances/{name}.net')
+    print(f'Graph saved to: ../data/graphs/with_distances/{name}.net')

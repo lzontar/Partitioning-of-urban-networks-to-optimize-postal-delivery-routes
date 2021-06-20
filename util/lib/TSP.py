@@ -174,14 +174,3 @@ def geneticAlgorithm(population, popSize, eliteSize, mutationRate, generations, 
         print(bestRoute)
 
     return bestRoute, 1 / rankRoutes(pop)[0][1]
-
-# crossroadList = []
-# addressList = []
-# with open('../data/graphs/temp/pungert.net', 'r', encoding="utf-8") as f:
-#     for line in f.readlines():
-#         if(line.strip().endswith("crossroad")):
-#             vals = line.strip().split(" ")
-#             crossroadList.append(Address(int(vals[0]) - 1))
-#         elif(line.strip().endswith("address")):
-#             vals = line.strip().split(" ")
-#             addressList.append(Address(int(vals[0]) - 1))
