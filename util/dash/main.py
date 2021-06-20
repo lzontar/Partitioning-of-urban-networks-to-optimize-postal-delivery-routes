@@ -158,7 +158,7 @@ def _updateGraphPartition(net, alg, mu, sigma):
             children.append(html.Div(children=[
                 html.Div(f"Partition {type}:"),
                 html.Ul(children=[
-                            html.Li(f"number of houses: {len(subgraph_nodes)},"),
+                            html.Li(f"number of houses: {len(list(filter(lambda x: x['node_type'] == 'address', [G.nodes[node] for node in subgraph_nodes])))},"),
                             html.Li(f"duration driving: {hoursOpt} h {minOpt} min {secondsOpt} sec"),
                             html.Li(f"duration waiting for recipient: {hoursRecWait} h {minRecWait} min {secondsRecWait} sec"),
                         ])

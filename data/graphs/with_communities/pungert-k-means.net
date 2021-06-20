@@ -2,306 +2,306 @@
 1 5055255754 0.0 0.0 ellipse lat 46.1549926 lon 14.3390126 obcina "Škofja Loka" hisna_st 32 ulica Pungert node_type address cluster_id 3
 2 5055255755 0.0 0.0 ellipse lat 46.1553428 lon 14.3388789 obcina "Škofja Loka" hisna_st 2 ulica Pungert node_type address cluster_id 3
 3 5055255756 0.0 0.0 ellipse lat 46.1551172 lon 14.3387651 obcina "Škofja Loka" hisna_st 3 ulica Pungert node_type address cluster_id 3
-4 5055255757 0.0 0.0 ellipse lat 46.1547169 lon 14.3395726 obcina "Škofja Loka" hisna_st 20 ulica Pungert node_type address cluster_id 2
+4 5055255757 0.0 0.0 ellipse lat 46.1547169 lon 14.3395726 obcina "Škofja Loka" hisna_st 20 ulica Pungert node_type address cluster_id 1
 5 5055255758 0.0 0.0 ellipse lat 46.1556024 lon 14.3386557 obcina "Škofja Loka" hisna_st 22 ulica Pungert node_type address cluster_id 3
-6 5055255759 0.0 0.0 ellipse lat 46.1561936 lon 14.3397621 obcina "Škofja Loka" hisna_st 1 ulica Pungert node_type address cluster_id 2
-7 5055255760 0.0 0.0 ellipse lat 46.1557263 lon 14.3367381 obcina "Škofja Loka" hisna_st 6B ulica Pungert node_type address cluster_id 0
-8 5055255761 0.0 0.0 ellipse lat 46.1554918 lon 14.3366373 obcina "Škofja Loka" hisna_st 6 ulica Pungert node_type address cluster_id 0
-9 5055255762 0.0 0.0 ellipse lat 46.156098 lon 14.3372256 obcina "Škofja Loka" hisna_st 4 ulica Pungert node_type address cluster_id 2
-10 5055255763 0.0 0.0 ellipse lat 46.1548842 lon 14.335816 obcina "Škofja Loka" hisna_st 31 ulica Pungert node_type address cluster_id 0
-11 5055255764 0.0 0.0 ellipse lat 46.1555535 lon 14.3364165 obcina "Škofja Loka" hisna_st 6A ulica Pungert node_type address cluster_id 2
-12 5055255765 0.0 0.0 ellipse lat 46.1550483 lon 14.3361895 obcina "Škofja Loka" hisna_st 30 ulica Pungert node_type address cluster_id 0
-13 5055255766 0.0 0.0 ellipse lat 46.1555023 lon 14.3369091 obcina "Škofja Loka" hisna_st 5A ulica Pungert node_type address cluster_id 0
-14 5055255767 0.0 0.0 ellipse lat 46.1551524 lon 14.3370686 obcina "Škofja Loka" hisna_st 5 ulica Pungert node_type address cluster_id 0
-15 5055255768 0.0 0.0 ellipse lat 46.1570549 lon 14.3346635 obcina "Škofja Loka" hisna_st 14 ulica Pungert node_type address cluster_id 1
-16 5055255769 0.0 0.0 ellipse lat 46.1569905 lon 14.3375256 obcina "Škofja Loka" hisna_st 18 ulica Pungert node_type address cluster_id 2
-17 5055255770 0.0 0.0 ellipse lat 46.1568367 lon 14.3373851 obcina "Škofja Loka" hisna_st 24 ulica Pungert node_type address cluster_id 2
-18 5055255771 0.0 0.0 ellipse lat 46.1572081 lon 14.3378079 obcina "Škofja Loka" hisna_st 33 ulica Pungert node_type address cluster_id 2
-19 5055255772 0.0 0.0 ellipse lat 46.1570599 lon 14.3370846 obcina "Škofja Loka" hisna_st 35 ulica Pungert node_type address cluster_id 2
-20 5055255773 0.0 0.0 ellipse lat 46.1571608 lon 14.3374071 obcina "Škofja Loka" hisna_st 13 ulica Pungert node_type address cluster_id 2
-21 5055255774 0.0 0.0 ellipse lat 46.1562902 lon 14.337793 obcina "Škofja Loka" hisna_st 19 ulica Pungert node_type address cluster_id 2
-22 5055255775 0.0 0.0 ellipse lat 46.1564399 lon 14.3372215 obcina "Škofja Loka" hisna_st 25 ulica Pungert node_type address cluster_id 2
-23 5055255776 0.0 0.0 ellipse lat 46.1567006 lon 14.3371795 obcina "Škofja Loka" hisna_st 23 ulica Pungert node_type address cluster_id 2
-24 5055255777 0.0 0.0 ellipse lat 46.1566213 lon 14.3374783 obcina "Škofja Loka" hisna_st 26 ulica Pungert node_type address cluster_id 2
-25 5055255778 0.0 0.0 ellipse lat 46.1558593 lon 14.3363998 obcina "Škofja Loka" hisna_st 7 ulica Pungert node_type address cluster_id 2
-26 5055255779 0.0 0.0 ellipse lat 46.1564728 lon 14.3351366 obcina "Škofja Loka" hisna_st 29 ulica Pungert node_type address cluster_id 1
-27 5055255780 0.0 0.0 ellipse lat 46.1566889 lon 14.3351599 obcina "Škofja Loka" hisna_st 36 ulica Pungert node_type address cluster_id 1
+6 5055255759 0.0 0.0 ellipse lat 46.1561936 lon 14.3397621 obcina "Škofja Loka" hisna_st 1 ulica Pungert node_type address cluster_id 1
+7 5055255760 0.0 0.0 ellipse lat 46.1557263 lon 14.3367381 obcina "Škofja Loka" hisna_st 6B ulica Pungert node_type address cluster_id 1
+8 5055255761 0.0 0.0 ellipse lat 46.1554918 lon 14.3366373 obcina "Škofja Loka" hisna_st 6 ulica Pungert node_type address cluster_id 1
+9 5055255762 0.0 0.0 ellipse lat 46.156098 lon 14.3372256 obcina "Škofja Loka" hisna_st 4 ulica Pungert node_type address cluster_id 3
+10 5055255763 0.0 0.0 ellipse lat 46.1548842 lon 14.335816 obcina "Škofja Loka" hisna_st 31 ulica Pungert node_type address cluster_id 1
+11 5055255764 0.0 0.0 ellipse lat 46.1555535 lon 14.3364165 obcina "Škofja Loka" hisna_st 6A ulica Pungert node_type address cluster_id 1
+12 5055255765 0.0 0.0 ellipse lat 46.1550483 lon 14.3361895 obcina "Škofja Loka" hisna_st 30 ulica Pungert node_type address cluster_id 1
+13 5055255766 0.0 0.0 ellipse lat 46.1555023 lon 14.3369091 obcina "Škofja Loka" hisna_st 5A ulica Pungert node_type address cluster_id 1
+14 5055255767 0.0 0.0 ellipse lat 46.1551524 lon 14.3370686 obcina "Škofja Loka" hisna_st 5 ulica Pungert node_type address cluster_id 1
+15 5055255768 0.0 0.0 ellipse lat 46.1570549 lon 14.3346635 obcina "Škofja Loka" hisna_st 14 ulica Pungert node_type address cluster_id 0
+16 5055255769 0.0 0.0 ellipse lat 46.1569905 lon 14.3375256 obcina "Škofja Loka" hisna_st 18 ulica Pungert node_type address cluster_id 1
+17 5055255770 0.0 0.0 ellipse lat 46.1568367 lon 14.3373851 obcina "Škofja Loka" hisna_st 24 ulica Pungert node_type address cluster_id 1
+18 5055255771 0.0 0.0 ellipse lat 46.1572081 lon 14.3378079 obcina "Škofja Loka" hisna_st 33 ulica Pungert node_type address cluster_id 1
+19 5055255772 0.0 0.0 ellipse lat 46.1570599 lon 14.3370846 obcina "Škofja Loka" hisna_st 35 ulica Pungert node_type address cluster_id 1
+20 5055255773 0.0 0.0 ellipse lat 46.1571608 lon 14.3374071 obcina "Škofja Loka" hisna_st 13 ulica Pungert node_type address cluster_id 1
+21 5055255774 0.0 0.0 ellipse lat 46.1562902 lon 14.337793 obcina "Škofja Loka" hisna_st 19 ulica Pungert node_type address cluster_id 1
+22 5055255775 0.0 0.0 ellipse lat 46.1564399 lon 14.3372215 obcina "Škofja Loka" hisna_st 25 ulica Pungert node_type address cluster_id 1
+23 5055255776 0.0 0.0 ellipse lat 46.1567006 lon 14.3371795 obcina "Škofja Loka" hisna_st 23 ulica Pungert node_type address cluster_id 1
+24 5055255777 0.0 0.0 ellipse lat 46.1566213 lon 14.3374783 obcina "Škofja Loka" hisna_st 26 ulica Pungert node_type address cluster_id 1
+25 5055255778 0.0 0.0 ellipse lat 46.1558593 lon 14.3363998 obcina "Škofja Loka" hisna_st 7 ulica Pungert node_type address cluster_id 1
+26 5055255779 0.0 0.0 ellipse lat 46.1564728 lon 14.3351366 obcina "Škofja Loka" hisna_st 29 ulica Pungert node_type address cluster_id 0
+27 5055255780 0.0 0.0 ellipse lat 46.1566889 lon 14.3351599 obcina "Škofja Loka" hisna_st 36 ulica Pungert node_type address cluster_id 0
 28 5055255781 0.0 0.0 ellipse lat 46.1555574 lon 14.3355489 obcina "Škofja Loka" hisna_st 21 ulica Pungert node_type address cluster_id 2
-29 5055255782 0.0 0.0 ellipse lat 46.1565381 lon 14.3355372 obcina "Škofja Loka" hisna_st 27 ulica Pungert node_type address cluster_id 1
-30 5055255783 0.0 0.0 ellipse lat 46.1563796 lon 14.3361346 obcina "Škofja Loka" hisna_st 11 ulica Pungert node_type address cluster_id 1
+29 5055255782 0.0 0.0 ellipse lat 46.1565381 lon 14.3355372 obcina "Škofja Loka" hisna_st 27 ulica Pungert node_type address cluster_id 0
+30 5055255783 0.0 0.0 ellipse lat 46.1563796 lon 14.3361346 obcina "Škofja Loka" hisna_st 11 ulica Pungert node_type address cluster_id 0
 31 5055255784 0.0 0.0 ellipse lat 46.1557022 lon 14.3356896 obcina "Škofja Loka" hisna_st 8 ulica Pungert node_type address cluster_id 2
 32 5055255785 0.0 0.0 ellipse lat 46.1559433 lon 14.335376 obcina "Škofja Loka" hisna_st 9 ulica Pungert node_type address cluster_id 2
 33 5055255786 0.0 0.0 ellipse lat 46.1558995 lon 14.3355837 obcina "Škofja Loka" hisna_st 9B ulica Pungert node_type address cluster_id 2
 34 5055255787 0.0 0.0 ellipse lat 46.1556069 lon 14.3347715 obcina "Škofja Loka" hisna_st 21A ulica Pungert node_type address cluster_id 2
-35 5055255788 0.0 0.0 ellipse lat 46.1561966 lon 14.335606 obcina "Škofja Loka" hisna_st 10 ulica Pungert node_type address cluster_id 1
-36 5055255789 0.0 0.0 ellipse lat 46.1562295 lon 14.3366284 obcina "Škofja Loka" hisna_st 12 ulica Pungert node_type address cluster_id 2
-37 5055255790 0.0 0.0 ellipse lat 46.1565587 lon 14.3344364 obcina "Škofja Loka" hisna_st 28 ulica Pungert node_type address cluster_id 1
-38 5055255791 0.0 0.0 ellipse lat 46.1560944 lon 14.3350505 obcina "Škofja Loka" hisna_st 9A ulica Pungert node_type address cluster_id 1
-39 94194786 0.0 0.0 ellipse lat 46.1565732 lon 14.3367877 node_type crossroad cluster_id 2
-40 1786348136 0.0 0.0 ellipse lat 46.1564172 lon 14.3369096 node_type crossroad cluster_id 2
-41 3378708309 0.0 0.0 ellipse lat 46.1562003 lon 14.3368677 node_type crossroad cluster_id 2
-42 94194781 0.0 0.0 ellipse lat 46.1567555 lon 14.336457 node_type crossroad cluster_id 2
-43 94194835 0.0 0.0 ellipse lat 46.1547454 lon 14.3421091 node_type crossroad cluster_id 2
+35 5055255788 0.0 0.0 ellipse lat 46.1561966 lon 14.335606 obcina "Škofja Loka" hisna_st 10 ulica Pungert node_type address cluster_id 0
+36 5055255789 0.0 0.0 ellipse lat 46.1562295 lon 14.3366284 obcina "Škofja Loka" hisna_st 12 ulica Pungert node_type address cluster_id 1
+37 5055255790 0.0 0.0 ellipse lat 46.1565587 lon 14.3344364 obcina "Škofja Loka" hisna_st 28 ulica Pungert node_type address cluster_id 0
+38 5055255791 0.0 0.0 ellipse lat 46.1560944 lon 14.3350505 obcina "Škofja Loka" hisna_st 9A ulica Pungert node_type address cluster_id 0
+39 94194786 0.0 0.0 ellipse lat 46.1565732 lon 14.3367877 node_type crossroad cluster_id 1
+40 1786348136 0.0 0.0 ellipse lat 46.1564172 lon 14.3369096 node_type crossroad cluster_id 1
+41 3378708309 0.0 0.0 ellipse lat 46.1562003 lon 14.3368677 node_type crossroad cluster_id 1
+42 94194781 0.0 0.0 ellipse lat 46.1567555 lon 14.336457 node_type crossroad cluster_id 1
+43 94194835 0.0 0.0 ellipse lat 46.1547454 lon 14.3421091 node_type crossroad cluster_id 1
 *edges
-1 41 1.0 geo_dist 0.21297167791504848 duration 248
-1 2 1.0 geo_dist 0.04029185866311837 duration 38
-1 3 1.0 geo_dist 0.02357409281489661 duration 6
-1 5 1.0 geo_dist 0.07319034014140754 duration 73
-1 7 1.0 geo_dist 0.19331922231703771 duration 302
-1 8 1.0 geo_dist 0.1912537743704293 duration 335
-1 9 1.0 geo_dist 0.1845948487293336 duration 200
-1 10 1.0 geo_dist 0.24659325280404032 duration 424
-1 11 1.0 geo_dist 0.20953226152502177 duration 326
-1 12 1.0 geo_dist 0.2176079845284551 duration 402
-1 13 1.0 geo_dist 0.171703684891368 duration 325
-1 14 1.0 geo_dist 0.1508359378700264 duration 384
-1 25 1.0 geo_dist 0.22320644768038372 duration 304
-1 28 1.0 geo_dist 0.27417125762715316 duration 370
-1 31 1.0 geo_dist 0.2679252330886688 duration 370
-1 32 1.0 geo_dist 0.2994878603005181 duration 401
-1 33 1.0 geo_dist 0.2827974858409975 duration 354
-1 34 1.0 geo_dist 0.33384227276022077 duration 429
-1 36 1.0 geo_dist 0.22950861546578513 duration 269
-2 41 1.0 geo_dist 0.1819618353903704 duration 210
-2 3 1.0 geo_dist 0.026581262504385465 duration 32
-2 5 1.0 geo_dist 0.03360850923295882 duration 35
-2 7 1.0 geo_dist 0.17037345287797145 duration 264
-2 8 1.0 geo_dist 0.17350731128301145 duration 297
-2 9 1.0 geo_dist 0.15258798087253322 duration 162
-2 10 1.0 geo_dist 0.2414458756022123 duration 386
-2 11 1.0 geo_dist 0.1911683766369434 duration 288
-2 12 1.0 geo_dist 0.2097907008282117 duration 364
-2 13 1.0 geo_dist 0.15280531762160832 duration 287
-2 14 1.0 geo_dist 0.1410815992639911 duration 346
-2 25 1.0 geo_dist 0.19946510166016257 duration 266
-2 28 1.0 geo_dist 0.25768235217987157 duration 332
-2 31 1.0 geo_dist 0.24896365214720312 duration 332
-2 32 1.0 geo_dist 0.2780374786909021 duration 363
-2 33 1.0 geo_dist 0.2613342410934897 duration 316
-2 34 1.0 geo_dist 0.31783287939697374 duration 391
-2 36 1.0 geo_dist 0.19948543271567815 duration 231
-3 41 1.0 geo_dist 0.18943632363973384 duration 242
-3 5 1.0 geo_dist 0.05462301592926338 duration 67
-3 7 1.0 geo_dist 0.17024101145469958 duration 296
-3 8 1.0 geo_dist 0.16915800531964983 duration 329
-3 9 1.0 geo_dist 0.16115700544827577 duration 194
-3 10 1.0 geo_dist 0.22870133172941395 duration 418
-3 11 1.0 geo_dist 0.18735289521308252 duration 320
-3 12 1.0 geo_dist 0.19859760257126574 duration 396
-3 13 1.0 geo_dist 0.14928143114469192 duration 319
-3 14 1.0 geo_dist 0.1307736267418072 duration 378
-3 25 1.0 geo_dist 0.20006649606086477 duration 298
-3 28 1.0 geo_dist 0.2525976367902812 duration 364
-3 31 1.0 geo_dist 0.24573702449659182 duration 364
-3 32 1.0 geo_dist 0.2768227881647428 duration 395
-3 33 1.0 geo_dist 0.260110933627816 duration 348
-3 34 1.0 geo_dist 0.31248867872594027 duration 423
-3 36 1.0 geo_dist 0.20593723601257677 duration 263
-4 43 1.0 geo_dist 0.19546398451946967 duration 188
-5 41 1.0 geo_dist 0.15297551224808958 duration 175
-5 7 1.0 geo_dist 0.14839063385682238 duration 229
-5 8 1.0 geo_dist 0.15600198485643815 duration 262
-5 9 1.0 geo_dist 0.12320757565869894 duration 127
-5 10 1.0 geo_dist 0.23292527352530448 duration 351
-5 11 1.0 geo_dist 0.17261426128320445 duration 253
-5 12 1.0 geo_dist 0.19976486460216647 duration 329
-5 13 1.0 geo_dist 0.13503398640790956 duration 252
-5 14 1.0 geo_dist 0.13213258125578003 duration 311
-5 25 1.0 geo_dist 0.17614796772192304 duration 231
-5 28 1.0 geo_dist 0.23942873872782064 duration 297
-5 31 1.0 geo_dist 0.2288047339899006 duration 297
-5 32 1.0 geo_dist 0.25552638880387035 duration 328
-5 33 1.0 geo_dist 0.23899013896868707 duration 281
-5 34 1.0 geo_dist 0.29927473561752266 duration 356
-5 36 1.0 geo_dist 0.17106748045950582 duration 196
-6 40 1.0 geo_dist 0.22118267141677206 duration 220
-6 21 1.0 geo_dist 0.15209573667400234 duration 153
-6 22 1.0 geo_dist 0.19765633782134032 duration 219
-6 24 1.0 geo_dist 0.18227977580343593 duration 247
-7 41 1.0 geo_dist 0.053660216302496976 duration 54
-7 8 1.0 geo_dist 0.027215122654743927 duration 33
-7 9 1.0 geo_dist 0.05585861296254191 duration 102
-7 10 1.0 geo_dist 0.11756349080091179 duration 122
-7 11 1.0 geo_dist 0.03135963365172483 duration 132
-7 12 1.0 geo_dist 0.08645196185177347 duration 100
-7 13 1.0 geo_dist 0.02818461481327478 duration 23
-7 14 1.0 geo_dist 0.06872655221778602 duration 82
-7 25 1.0 geo_dist 0.02997110590857147 duration 110
-7 28 1.0 geo_dist 0.09353293232621797 duration 176
-7 31 1.0 geo_dist 0.08083033749188892 duration 176
-7 32 1.0 geo_dist 0.10768804825511823 duration 207
-7 33 1.0 geo_dist 0.09100763673392682 duration 160
-7 34 1.0 geo_dist 0.1521055985435601 duration 235
-7 36 1.0 geo_dist 0.05660544632523744 duration 75
-8 41 1.0 geo_dist 0.08078102433270586 duration 87
-8 9 1.0 geo_dist 0.08124706742767795 duration 135
-8 10 1.0 geo_dist 0.09258495336577606 duration 89
-8 11 1.0 geo_dist 0.018344578077621455 duration 165
-8 12 1.0 geo_dist 0.06019913641304187 duration 67
-8 13 1.0 geo_dist 0.020974541884455567 duration 10
-8 14 1.0 geo_dist 0.05029412695922237 duration 115
-8 25 1.0 geo_dist 0.04478599173700468 duration 143
-8 28 1.0 geo_dist 0.08417726187271182 duration 209
-8 31 1.0 geo_dist 0.07667812726841094 duration 209
-8 32 1.0 geo_dist 0.10939102550754061 duration 240
-8 33 1.0 geo_dist 0.09298647081969925 duration 193
-8 34 1.0 geo_dist 0.14432739899978667 duration 268
-8 36 1.0 geo_dist 0.08205711329349236 duration 108
-9 41 1.0 geo_dist 0.029831059474629936 duration 48
-9 10 1.0 geo_dist 0.17327365676176393 duration 224
-9 11 1.0 geo_dist 0.0869159305326794 duration 126
-9 12 1.0 geo_dist 0.1414402931188009 duration 202
-9 13 1.0 geo_dist 0.07060461508732381 duration 125
-9 14 1.0 geo_dist 0.10587227129871649 duration 184
-9 25 1.0 geo_dist 0.06894415542055282 duration 104
-9 28 1.0 geo_dist 0.14249632950308516 duration 170
-9 31 1.0 geo_dist 0.12627018666909964 duration 170
-9 32 1.0 geo_dist 0.14354412069604766 duration 201
-9 33 1.0 geo_dist 0.1284183795804406 duration 154
-9 34 1.0 geo_dist 0.19681769120507392 duration 229
-9 36 1.0 geo_dist 0.04828212439117107 duration 69
-10 41 1.0 geo_dist 0.16732066890853378 duration 176
-10 11 1.0 geo_dist 0.08765263940418827 duration 254
-10 12 1.0 geo_dist 0.03407858015132133 duration 22
-10 13 1.0 geo_dist 0.10872095234231056 duration 99
-10 14 1.0 geo_dist 0.10101811038428264 duration 204
-10 25 1.0 geo_dist 0.11741784902019517 duration 232
-10 28 1.0 geo_dist 0.07765654016120041 duration 298
-10 31 1.0 geo_dist 0.09150575005202222 duration 298
-10 32 1.0 geo_dist 0.12258465138708911 duration 329
-10 33 1.0 geo_dist 0.11434123020762706 duration 282
-10 34 1.0 geo_dist 0.11374816084631047 duration 357
-10 36 1.0 geo_dist 0.16220199441420005 duration 197
-11 41 1.0 geo_dist 0.07990259551201881 duration 78
-11 12 1.0 geo_dist 0.058852334478700835 duration 232
-11 13 1.0 geo_dist 0.03837934460377266 duration 155
-11 14 1.0 geo_dist 0.06719294791602919 duration 214
-11 25 1.0 geo_dist 0.03403841193178746 duration 22
-11 28 1.0 geo_dist 0.06684931174063104 duration 158
-11 31 1.0 geo_dist 0.05839822026090331 duration 158
-11 32 1.0 geo_dist 0.09114275200545442 duration 189
-11 33 1.0 geo_dist 0.07482286599011854 duration 142
-11 34 1.0 geo_dist 0.12688501036430996 duration 217
-11 36 1.0 geo_dist 0.0769434894340477 duration 57
-12 41 1.0 geo_dist 0.13838203158894832 duration 154
-12 13 1.0 geo_dist 0.07499479920777678 duration 77
-12 14 1.0 geo_dist 0.06871710448361987 duration 182
-12 25 1.0 geo_dist 0.09165111493217411 duration 210
-12 28 1.0 geo_dist 0.07511882154652531 duration 276
-12 31 1.0 geo_dist 0.08230235941250329 duration 276
-12 32 1.0 geo_dist 0.11763959980264324 duration 307
-12 33 1.0 geo_dist 0.10555934863657625 duration 260
-12 34 1.0 geo_dist 0.12568784949791273 duration 335
-12 36 1.0 geo_dist 0.13566692061407762 duration 175
-13 41 1.0 geo_dist 0.07770392379847511 duration 77
-13 14 1.0 geo_dist 0.04081351195757077 duration 105
-13 25 1.0 geo_dist 0.055827152569463155 duration 133
-13 28 1.0 geo_dist 0.10498144906163837 duration 199
-13 31 1.0 geo_dist 0.09655641596338062 duration 199
-13 32 1.0 geo_dist 0.12790373799287896 duration 230
-13 33 1.0 geo_dist 0.11126799575769791 duration 183
-13 34 1.0 geo_dist 0.1651108488714003 duration 258
-13 36 1.0 geo_dist 0.08372784472755494 duration 98
-14 41 1.0 geo_dist 0.11758108479240986 duration 136
-14 25 1.0 geo_dist 0.0940096782903771 duration 192
-14 28 1.0 geo_dist 0.1254587429548582 duration 258
-14 31 1.0 geo_dist 0.12259336351935499 duration 258
-14 32 1.0 geo_dist 0.15731085257677563 duration 289
-14 33 1.0 geo_dist 0.1414048413978486 duration 242
-14 34 1.0 geo_dist 0.18406868320783595 duration 317
-14 36 1.0 geo_dist 0.12451408096168873 duration 157
-15 42 1.0 geo_dist 0.14214064368645815 duration 234
-15 26 1.0 geo_dist 0.07430241046819411 duration 242
-15 27 1.0 geo_dist 0.05585780747525266 duration 129
-15 29 1.0 geo_dist 0.08852037947722671 duration 213
-15 30 1.0 geo_dist 0.13597449584842067 duration 222
-15 35 1.0 geo_dist 0.11994809398228777 duration 233
-15 37 1.0 geo_dist 0.05789944325190165 duration 164
-15 38 1.0 geo_dist 0.11091919775025147 duration 273
-16 39 1.0 geo_dist 0.07339460650378463 duration 77
-16 17 1.0 geo_dist 0.02024446498122251 duration 20
-16 18 1.0 geo_dist 0.03254065246636706 duration 32
-16 19 1.0 geo_dist 0.0348436392375844 duration 15
-16 20 1.0 geo_dist 0.02102794391512462 duration 10
-16 23 1.0 geo_dist 0.04184322590760096 duration 42
-17 39 1.0 geo_dist 0.05456757491300965 duration 56
-17 18 1.0 geo_dist 0.05260936087410149 duration 53
-17 19 1.0 geo_dist 0.03394705858021779 duration 5
-17 20 1.0 geo_dist 0.03608941698953983 duration 30
-17 23 1.0 geo_dist 0.021911342000573174 duration 22
-18 39 1.0 geo_dist 0.10566788569821917 duration 109
-18 19 1.0 geo_dist 0.05811499232508356 duration 47
-18 20 1.0 geo_dist 0.03132538697761479 duration 23
-18 23 1.0 geo_dist 0.07436842672194455 duration 74
-19 39 1.0 geo_dist 0.05877024998655167 duration 62
-19 20 1.0 geo_dist 0.027264712391460395 duration 25
-19 23 1.0 geo_dist 0.040628240261243 duration 27
-20 39 1.0 geo_dist 0.08092745014774377 duration 86
-20 23 1.0 geo_dist 0.05410839348938167 duration 51
-21 40 1.0 geo_dist 0.06951472799674747 duration 67
-21 22 1.0 geo_dist 0.04707613874924569 duration 66
-21 24 1.0 geo_dist 0.04409345564388891 duration 94
-22 40 1.0 geo_dist 0.024163550695310867 duration 31
-22 24 1.0 geo_dist 0.02825944884740281 duration 28
-23 39 1.0 geo_dist 0.03334787497929653 duration 35
-24 40 1.0 geo_dist 0.049348977903193356 duration 59
-25 41 1.0 geo_dist 0.05232889617399841 duration 56
-25 28 1.0 geo_dist 0.0736605755044614 duration 136
-25 31 1.0 geo_dist 0.05744250026888131 duration 136
-25 32 1.0 geo_dist 0.07943390756094122 duration 167
-25 33 1.0 geo_dist 0.06303828350764436 duration 120
-25 34 1.0 geo_dist 0.1285616329160725 duration 195
-25 36 1.0 geo_dist 0.04478612414237225 duration 35
-26 42 1.0 geo_dist 0.1064825833290559 duration 110
-26 27 1.0 geo_dist 0.024103712515893626 duration 113
-26 29 1.0 geo_dist 0.03170847905025034 duration 29
-26 30 1.0 geo_dist 0.07758955851087473 duration 98
-26 35 1.0 geo_dist 0.047453446096695 duration 49
-26 37 1.0 geo_dist 0.05478847969517929 duration 214
-26 38 1.0 geo_dist 0.04260895377566049 duration 31
-27 42 1.0 geo_dist 0.10021260411625083 duration 105
-27 29 1.0 geo_dist 0.03356218622661505 duration 84
-27 30 1.0 geo_dist 0.08260377582648518 duration 93
-27 35 1.0 geo_dist 0.06465183872679565 duration 104
-27 37 1.0 geo_dist 0.05759451986961966 duration 101
-27 38 1.0 geo_dist 0.06666119440873823 duration 144
-28 41 1.0 geo_dist 0.12425221464075367 duration 122
-28 31 1.0 geo_dist 0.019414659055019035 duration 0
-28 32 1.0 geo_dist 0.04494334409902929 duration 31
-28 33 1.0 geo_dist 0.03814607766547261 duration 15
-28 34 1.0 geo_dist 0.06015055550200487 duration 59
-28 36 1.0 geo_dist 0.11183304162531374 duration 101
-29 42 1.0 geo_dist 0.07488042613161457 duration 81
-29 30 1.0 geo_dist 0.04928927371321335 duration 69
-29 35 1.0 geo_dist 0.03835308259822762 duration 20
-29 37 1.0 geo_dist 0.08484519779423172 duration 185
-29 38 1.0 geo_dist 0.06198295764278507 duration 60
-30 42 1.0 geo_dist 0.048633532312207274 duration 80
-30 35 1.0 geo_dist 0.04553100088713535 duration 89
-30 37 1.0 geo_dist 0.13235066641923074 duration 194
-30 38 1.0 geo_dist 0.0893491125355543 duration 129
-31 41 1.0 geo_dist 0.10634348770372935 duration 122
-31 32 1.0 geo_dist 0.036097178373136585 duration 31
-31 33 1.0 geo_dist 0.023413424210609334 duration 15
-31 34 1.0 geo_dist 0.07152857350682947 duration 59
-31 36 1.0 geo_dist 0.09312410673856218 duration 101
-32 41 1.0 geo_dist 0.1184348511631739 duration 153
-32 33 1.0 geo_dist 0.01672816881586725 duration 46
-32 34 1.0 geo_dist 0.059744586341411186 duration 90
-32 36 1.0 geo_dist 0.10161095558533349 duration 132
-33 41 1.0 geo_dist 0.1044348589824256 duration 106
-33 34 1.0 geo_dist 0.07053639223125786 duration 74
-33 36 1.0 geo_dist 0.08846679579363267 duration 85
-34 41 1.0 geo_dist 0.17447588912935239 duration 181
-34 36 1.0 geo_dist 0.15895069796829603 duration 160
-35 42 1.0 geo_dist 0.0903536975584009 duration 101
-35 37 1.0 geo_dist 0.09870649192944232 duration 205
-35 38 1.0 geo_dist 0.044284276797907064 duration 80
-36 41 1.0 geo_dist 0.018721542317901498 duration 21
-37 42 1.0 geo_dist 0.15721395154349688 duration 206
-37 38 1.0 geo_dist 0.07004168835289963 duration 245
-38 42 1.0 geo_dist 0.13096137824613063 duration 141
-39 42 1.0 geo_dist 0.03256344667091437 duration 31
-39 40 1.0 geo_dist 0.01973066456206224 duration 28
-40 41 1.0 geo_dist 0.024340786576883985 duration 21
-40 43 1.0 geo_dist 0.4416707752060269 duration 456
+1 41 1.0 geo_dist 0.21297167791504848 duration 54 distance 248
+1 2 1.0 geo_dist 0.04029185866311837 duration 24 distance 38
+1 3 1.0 geo_dist 0.02357409281489661 duration 1 distance 6
+1 5 1.0 geo_dist 0.07319034014140754 duration 27 distance 73
+1 7 1.0 geo_dist 0.19331922231703771 duration 65 distance 302
+1 8 1.0 geo_dist 0.1912537743704293 duration 70 distance 335
+1 9 1.0 geo_dist 0.1845948487293336 duration 38 distance 200
+1 10 1.0 geo_dist 0.24659325280404032 duration 83 distance 424
+1 11 1.0 geo_dist 0.20953226152502177 duration 74 distance 326
+1 12 1.0 geo_dist 0.2176079845284551 duration 80 distance 402
+1 13 1.0 geo_dist 0.171703684891368 duration 69 distance 325
+1 14 1.0 geo_dist 0.1508359378700264 duration 76 distance 384
+1 25 1.0 geo_dist 0.22320644768038372 duration 70 distance 304
+1 28 1.0 geo_dist 0.27417125762715316 duration 72 distance 370
+1 31 1.0 geo_dist 0.2679252330886688 duration 72 distance 370
+1 32 1.0 geo_dist 0.2994878603005181 duration 79 distance 401
+1 33 1.0 geo_dist 0.2827974858409975 duration 70 distance 354
+1 34 1.0 geo_dist 0.33384227276022077 duration 79 distance 429
+1 36 1.0 geo_dist 0.22950861546578513 duration 58 distance 269
+2 41 1.0 geo_dist 0.1819618353903704 duration 31 distance 210
+2 3 1.0 geo_dist 0.026581262504385465 duration 6 distance 32
+2 5 1.0 geo_dist 0.03360850923295882 duration 3 distance 35
+2 7 1.0 geo_dist 0.17037345287797145 duration 42 distance 264
+2 8 1.0 geo_dist 0.17350731128301145 duration 47 distance 297
+2 9 1.0 geo_dist 0.15258798087253322 duration 15 distance 162
+2 10 1.0 geo_dist 0.2414458756022123 duration 60 distance 386
+2 11 1.0 geo_dist 0.1911683766369434 duration 51 distance 288
+2 12 1.0 geo_dist 0.2097907008282117 duration 57 distance 364
+2 13 1.0 geo_dist 0.15280531762160832 duration 46 distance 287
+2 14 1.0 geo_dist 0.1410815992639911 duration 53 distance 346
+2 25 1.0 geo_dist 0.19946510166016257 duration 47 distance 266
+2 28 1.0 geo_dist 0.25768235217987157 duration 49 distance 332
+2 31 1.0 geo_dist 0.24896365214720312 duration 49 distance 332
+2 32 1.0 geo_dist 0.2780374786909021 duration 56 distance 363
+2 33 1.0 geo_dist 0.2613342410934897 duration 47 distance 316
+2 34 1.0 geo_dist 0.31783287939697374 duration 56 distance 391
+2 36 1.0 geo_dist 0.19948543271567815 duration 35 distance 231
+3 41 1.0 geo_dist 0.18943632363973384 duration 53 distance 242
+3 5 1.0 geo_dist 0.05462301592926338 duration 26 distance 67
+3 7 1.0 geo_dist 0.17024101145469958 duration 64 distance 296
+3 8 1.0 geo_dist 0.16915800531964983 duration 69 distance 329
+3 9 1.0 geo_dist 0.16115700544827577 duration 37 distance 194
+3 10 1.0 geo_dist 0.22870133172941395 duration 82 distance 418
+3 11 1.0 geo_dist 0.18735289521308252 duration 73 distance 320
+3 12 1.0 geo_dist 0.19859760257126574 duration 79 distance 396
+3 13 1.0 geo_dist 0.14928143114469192 duration 68 distance 319
+3 14 1.0 geo_dist 0.1307736267418072 duration 75 distance 378
+3 25 1.0 geo_dist 0.20006649606086477 duration 69 distance 298
+3 28 1.0 geo_dist 0.2525976367902812 duration 71 distance 364
+3 31 1.0 geo_dist 0.24573702449659182 duration 71 distance 364
+3 32 1.0 geo_dist 0.2768227881647428 duration 78 distance 395
+3 33 1.0 geo_dist 0.260110933627816 duration 69 distance 348
+3 34 1.0 geo_dist 0.31248867872594027 duration 78 distance 423
+3 36 1.0 geo_dist 0.20593723601257677 duration 57 distance 263
+4 43 1.0 geo_dist 0.19546398451946967 duration 13 distance 188
+5 41 1.0 geo_dist 0.15297551224808958 duration 28 distance 175
+5 7 1.0 geo_dist 0.14839063385682238 duration 39 distance 229
+5 8 1.0 geo_dist 0.15600198485643815 duration 44 distance 262
+5 9 1.0 geo_dist 0.12320757565869894 duration 12 distance 127
+5 10 1.0 geo_dist 0.23292527352530448 duration 57 distance 351
+5 11 1.0 geo_dist 0.17261426128320445 duration 48 distance 253
+5 12 1.0 geo_dist 0.19976486460216647 duration 54 distance 329
+5 13 1.0 geo_dist 0.13503398640790956 duration 43 distance 252
+5 14 1.0 geo_dist 0.13213258125578003 duration 50 distance 311
+5 25 1.0 geo_dist 0.17614796772192304 duration 44 distance 231
+5 28 1.0 geo_dist 0.23942873872782064 duration 46 distance 297
+5 31 1.0 geo_dist 0.2288047339899006 duration 46 distance 297
+5 32 1.0 geo_dist 0.25552638880387035 duration 53 distance 328
+5 33 1.0 geo_dist 0.23899013896868707 duration 44 distance 281
+5 34 1.0 geo_dist 0.29927473561752266 duration 53 distance 356
+5 36 1.0 geo_dist 0.17106748045950582 duration 32 distance 196
+6 40 1.0 geo_dist 0.22118267141677206 duration 32 distance 220
+6 21 1.0 geo_dist 0.15209573667400234 duration 20 distance 153
+6 22 1.0 geo_dist 0.19765633782134032 duration 36 distance 219
+6 24 1.0 geo_dist 0.18227977580343593 duration 40 distance 247
+7 41 1.0 geo_dist 0.053660216302496976 duration 7 distance 54
+7 8 1.0 geo_dist 0.027215122654743927 duration 4 distance 33
+7 9 1.0 geo_dist 0.05585861296254191 duration 21 distance 102
+7 10 1.0 geo_dist 0.11756349080091179 duration 17 distance 122
+7 11 1.0 geo_dist 0.03135963365172483 duration 39 distance 132
+7 12 1.0 geo_dist 0.08645196185177347 duration 14 distance 100
+7 13 1.0 geo_dist 0.02818461481327478 duration 3 distance 23
+7 14 1.0 geo_dist 0.06872655221778602 duration 11 distance 82
+7 25 1.0 geo_dist 0.02997110590857147 duration 35 distance 110
+7 28 1.0 geo_dist 0.09353293232621797 duration 37 distance 176
+7 31 1.0 geo_dist 0.08083033749188892 duration 37 distance 176
+7 32 1.0 geo_dist 0.10768804825511823 duration 44 distance 207
+7 33 1.0 geo_dist 0.09100763673392682 duration 35 distance 160
+7 34 1.0 geo_dist 0.1521055985435601 duration 44 distance 235
+7 36 1.0 geo_dist 0.05660544632523744 duration 23 distance 75
+8 41 1.0 geo_dist 0.08078102433270586 duration 15 distance 87
+8 9 1.0 geo_dist 0.08124706742767795 duration 29 distance 135
+8 10 1.0 geo_dist 0.09258495336577606 duration 13 distance 89
+8 11 1.0 geo_dist 0.018344578077621455 duration 47 distance 165
+8 12 1.0 geo_dist 0.06019913641304187 duration 10 distance 67
+8 13 1.0 geo_dist 0.020974541884455567 duration 1 distance 10
+8 14 1.0 geo_dist 0.05029412695922237 duration 19 distance 115
+8 25 1.0 geo_dist 0.04478599173700468 duration 43 distance 143
+8 28 1.0 geo_dist 0.08417726187271182 duration 45 distance 209
+8 31 1.0 geo_dist 0.07667812726841094 duration 45 distance 209
+8 32 1.0 geo_dist 0.10939102550754061 duration 52 distance 240
+8 33 1.0 geo_dist 0.09298647081969925 duration 43 distance 193
+8 34 1.0 geo_dist 0.14432739899978667 duration 52 distance 268
+8 36 1.0 geo_dist 0.08205711329349236 duration 31 distance 108
+9 41 1.0 geo_dist 0.029831059474629936 duration 16 distance 48
+9 10 1.0 geo_dist 0.17327365676176393 duration 45 distance 224
+9 11 1.0 geo_dist 0.0869159305326794 duration 36 distance 126
+9 12 1.0 geo_dist 0.1414402931188009 duration 42 distance 202
+9 13 1.0 geo_dist 0.07060461508732381 duration 31 distance 125
+9 14 1.0 geo_dist 0.10587227129871649 duration 38 distance 184
+9 25 1.0 geo_dist 0.06894415542055282 duration 32 distance 104
+9 28 1.0 geo_dist 0.14249632950308516 duration 34 distance 170
+9 31 1.0 geo_dist 0.12627018666909964 duration 34 distance 170
+9 32 1.0 geo_dist 0.14354412069604766 duration 41 distance 201
+9 33 1.0 geo_dist 0.1284183795804406 duration 32 distance 154
+9 34 1.0 geo_dist 0.19681769120507392 duration 41 distance 229
+9 36 1.0 geo_dist 0.04828212439117107 duration 20 distance 69
+10 41 1.0 geo_dist 0.16732066890853378 duration 29 distance 176
+10 11 1.0 geo_dist 0.08765263940418827 duration 61 distance 254
+10 12 1.0 geo_dist 0.03407858015132133 duration 3 distance 22
+10 13 1.0 geo_dist 0.10872095234231056 duration 15 distance 99
+10 14 1.0 geo_dist 0.10101811038428264 duration 33 distance 204
+10 25 1.0 geo_dist 0.11741784902019517 duration 57 distance 232
+10 28 1.0 geo_dist 0.07765654016120041 duration 59 distance 298
+10 31 1.0 geo_dist 0.09150575005202222 duration 59 distance 298
+10 32 1.0 geo_dist 0.12258465138708911 duration 66 distance 329
+10 33 1.0 geo_dist 0.11434123020762706 duration 57 distance 282
+10 34 1.0 geo_dist 0.11374816084631047 duration 66 distance 357
+10 36 1.0 geo_dist 0.16220199441420005 duration 45 distance 197
+11 41 1.0 geo_dist 0.07990259551201881 duration 14 distance 78
+11 12 1.0 geo_dist 0.058852334478700835 duration 39 distance 232
+11 13 1.0 geo_dist 0.03837934460377266 duration 28 distance 155
+11 14 1.0 geo_dist 0.06719294791602919 duration 35 distance 214
+11 25 1.0 geo_dist 0.03403841193178746 duration 3 distance 22
+11 28 1.0 geo_dist 0.06684931174063104 duration 32 distance 158
+11 31 1.0 geo_dist 0.05839822026090331 duration 32 distance 158
+11 32 1.0 geo_dist 0.09114275200545442 duration 39 distance 189
+11 33 1.0 geo_dist 0.07482286599011854 duration 30 distance 142
+11 34 1.0 geo_dist 0.12688501036430996 duration 39 distance 217
+11 36 1.0 geo_dist 0.0769434894340477 duration 9 distance 57
+12 41 1.0 geo_dist 0.13838203158894832 duration 26 distance 154
+12 13 1.0 geo_dist 0.07499479920777678 duration 12 distance 77
+12 14 1.0 geo_dist 0.06871710448361987 duration 30 distance 182
+12 25 1.0 geo_dist 0.09165111493217411 duration 54 distance 210
+12 28 1.0 geo_dist 0.07511882154652531 duration 56 distance 276
+12 31 1.0 geo_dist 0.08230235941250329 duration 56 distance 276
+12 32 1.0 geo_dist 0.11763959980264324 duration 63 distance 307
+12 33 1.0 geo_dist 0.10555934863657625 duration 54 distance 260
+12 34 1.0 geo_dist 0.12568784949791273 duration 63 distance 335
+12 36 1.0 geo_dist 0.13566692061407762 duration 42 distance 175
+13 41 1.0 geo_dist 0.07770392379847511 duration 14 distance 77
+13 14 1.0 geo_dist 0.04081351195757077 duration 18 distance 105
+13 25 1.0 geo_dist 0.055827152569463155 duration 42 distance 133
+13 28 1.0 geo_dist 0.10498144906163837 duration 44 distance 199
+13 31 1.0 geo_dist 0.09655641596338062 duration 44 distance 199
+13 32 1.0 geo_dist 0.12790373799287896 duration 51 distance 230
+13 33 1.0 geo_dist 0.11126799575769791 duration 42 distance 183
+13 34 1.0 geo_dist 0.1651108488714003 duration 51 distance 258
+13 36 1.0 geo_dist 0.08372784472755494 duration 30 distance 98
+14 41 1.0 geo_dist 0.11758108479240986 duration 18 distance 136
+14 25 1.0 geo_dist 0.0940096782903771 duration 46 distance 192
+14 28 1.0 geo_dist 0.1254587429548582 duration 48 distance 258
+14 31 1.0 geo_dist 0.12259336351935499 duration 48 distance 258
+14 32 1.0 geo_dist 0.15731085257677563 duration 55 distance 289
+14 33 1.0 geo_dist 0.1414048413978486 duration 46 distance 242
+14 34 1.0 geo_dist 0.18406868320783595 duration 55 distance 317
+14 36 1.0 geo_dist 0.12451408096168873 duration 34 distance 157
+15 42 1.0 geo_dist 0.14214064368645815 duration 39 distance 234
+15 26 1.0 geo_dist 0.07430241046819411 duration 43 distance 242
+15 27 1.0 geo_dist 0.05585780747525266 duration 23 distance 129
+15 29 1.0 geo_dist 0.08852037947722671 duration 39 distance 213
+15 30 1.0 geo_dist 0.13597449584842067 duration 41 distance 222
+15 35 1.0 geo_dist 0.11994809398228777 duration 50 distance 233
+15 37 1.0 geo_dist 0.05789944325190165 duration 30 distance 164
+15 38 1.0 geo_dist 0.11091919775025147 duration 52 distance 273
+16 39 1.0 geo_dist 0.07339460650378463 duration 18 distance 77
+16 17 1.0 geo_dist 0.02024446498122251 duration 3 distance 20
+16 18 1.0 geo_dist 0.03254065246636706 duration 4 distance 32
+16 19 1.0 geo_dist 0.0348436392375844 duration 2 distance 15
+16 20 1.0 geo_dist 0.02102794391512462 duration 1 distance 10
+16 23 1.0 geo_dist 0.04184322590760096 duration 5 distance 42
+17 39 1.0 geo_dist 0.05456757491300965 duration 15 distance 56
+17 18 1.0 geo_dist 0.05260936087410149 duration 7 distance 53
+17 19 1.0 geo_dist 0.03394705858021779 duration 1 distance 5
+17 20 1.0 geo_dist 0.03608941698953983 duration 4 distance 30
+17 23 1.0 geo_dist 0.021911342000573174 duration 3 distance 22
+18 39 1.0 geo_dist 0.10566788569821917 duration 22 distance 109
+18 19 1.0 geo_dist 0.05811499232508356 duration 6 distance 47
+18 20 1.0 geo_dist 0.03132538697761479 duration 3 distance 23
+18 23 1.0 geo_dist 0.07436842672194455 duration 9 distance 74
+19 39 1.0 geo_dist 0.05877024998655167 duration 16 distance 62
+19 20 1.0 geo_dist 0.027264712391460395 duration 3 distance 25
+19 23 1.0 geo_dist 0.040628240261243 duration 3 distance 27
+20 39 1.0 geo_dist 0.08092745014774377 duration 19 distance 86
+20 23 1.0 geo_dist 0.05410839348938167 duration 7 distance 51
+21 40 1.0 geo_dist 0.06951472799674747 duration 6 distance 67
+21 22 1.0 geo_dist 0.04707613874924569 duration 10 distance 66
+21 24 1.0 geo_dist 0.04409345564388891 duration 14 distance 94
+22 40 1.0 geo_dist 0.024163550695310867 duration 10 distance 31
+22 24 1.0 geo_dist 0.02825944884740281 duration 4 distance 28
+23 39 1.0 geo_dist 0.03334787497929653 duration 12 distance 35
+24 40 1.0 geo_dist 0.049348977903193356 duration 14 distance 59
+25 41 1.0 geo_dist 0.05232889617399841 duration 10 distance 56
+25 28 1.0 geo_dist 0.0736605755044614 duration 28 distance 136
+25 31 1.0 geo_dist 0.05744250026888131 duration 28 distance 136
+25 32 1.0 geo_dist 0.07943390756094122 duration 35 distance 167
+25 33 1.0 geo_dist 0.06303828350764436 duration 26 distance 120
+25 34 1.0 geo_dist 0.1285616329160725 duration 35 distance 195
+25 36 1.0 geo_dist 0.04478612414237225 duration 5 distance 35
+26 42 1.0 geo_dist 0.1064825833290559 duration 17 distance 110
+26 27 1.0 geo_dist 0.024103712515893626 duration 30 distance 113
+26 29 1.0 geo_dist 0.03170847905025034 duration 4 distance 29
+26 30 1.0 geo_dist 0.07758955851087473 duration 19 distance 98
+26 35 1.0 geo_dist 0.047453446096695 duration 10 distance 49
+26 37 1.0 geo_dist 0.05478847969517929 duration 45 distance 214
+26 38 1.0 geo_dist 0.04260895377566049 duration 10 distance 31
+27 42 1.0 geo_dist 0.10021260411625083 duration 16 distance 105
+27 29 1.0 geo_dist 0.03356218622661505 duration 16 distance 84
+27 30 1.0 geo_dist 0.08260377582648518 duration 18 distance 93
+27 35 1.0 geo_dist 0.06465183872679565 duration 27 distance 104
+27 37 1.0 geo_dist 0.05759451986961966 duration 15 distance 101
+27 38 1.0 geo_dist 0.06666119440873823 duration 29 distance 144
+28 41 1.0 geo_dist 0.12425221464075367 duration 19 distance 122
+28 31 1.0 geo_dist 0.019414659055019035 duration 0 distance 0
+28 32 1.0 geo_dist 0.04494334409902929 duration 5 distance 31
+28 33 1.0 geo_dist 0.03814607766547261 duration 2 distance 15
+28 34 1.0 geo_dist 0.06015055550200487 duration 7 distance 59
+28 36 1.0 geo_dist 0.11183304162531374 duration 13 distance 101
+29 42 1.0 geo_dist 0.07488042613161457 duration 13 distance 81
+29 30 1.0 geo_dist 0.04928927371321335 duration 15 distance 69
+29 35 1.0 geo_dist 0.03835308259822762 duration 3 distance 20
+29 37 1.0 geo_dist 0.08484519779423172 duration 41 distance 185
+29 38 1.0 geo_dist 0.06198295764278507 duration 13 distance 60
+30 42 1.0 geo_dist 0.048633532312207274 duration 13 distance 80
+30 35 1.0 geo_dist 0.04553100088713535 duration 37 distance 89
+30 37 1.0 geo_dist 0.13235066641923074 duration 40 distance 194
+30 38 1.0 geo_dist 0.0893491125355543 duration 39 distance 129
+31 41 1.0 geo_dist 0.10634348770372935 duration 19 distance 122
+31 32 1.0 geo_dist 0.036097178373136585 duration 5 distance 31
+31 33 1.0 geo_dist 0.023413424210609334 duration 2 distance 15
+31 34 1.0 geo_dist 0.07152857350682947 duration 7 distance 59
+31 36 1.0 geo_dist 0.09312410673856218 duration 13 distance 101
+32 41 1.0 geo_dist 0.1184348511631739 duration 34 distance 153
+32 33 1.0 geo_dist 0.01672816881586725 duration 17 distance 46
+32 34 1.0 geo_dist 0.059744586341411186 duration 16 distance 90
+32 36 1.0 geo_dist 0.10161095558533349 duration 28 distance 132
+33 41 1.0 geo_dist 0.1044348589824256 duration 17 distance 106
+33 34 1.0 geo_dist 0.07053639223125786 duration 9 distance 74
+33 36 1.0 geo_dist 0.08846679579363267 duration 11 distance 85
+34 41 1.0 geo_dist 0.17447588912935239 duration 26 distance 181
+34 36 1.0 geo_dist 0.15895069796829603 duration 20 distance 160
+35 42 1.0 geo_dist 0.0903536975584009 duration 18 distance 101
+35 37 1.0 geo_dist 0.09870649192944232 duration 46 distance 205
+35 38 1.0 geo_dist 0.044284276797907064 duration 28 distance 80
+36 41 1.0 geo_dist 0.018721542317901498 duration 3 distance 21
+37 42 1.0 geo_dist 0.15721395154349688 duration 30 distance 206
+37 38 1.0 geo_dist 0.07004168835289963 duration 43 distance 245
+38 42 1.0 geo_dist 0.13096137824613063 duration 22 distance 141
+39 42 1.0 geo_dist 0.03256344667091437 duration 3 distance 31
+39 40 1.0 geo_dist 0.01973066456206224 duration 2 distance 28
+40 41 1.0 geo_dist 0.024340786576883985 duration 3 distance 21
+40 43 1.0 geo_dist 0.4416707752060269 duration 36 distance 456

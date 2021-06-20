@@ -32,6 +32,7 @@ def CONTROLS():
                 {'label': 'KCUT WEIGHTED NODES', 'value': 'kcut-weighted-nodes'},
                 {'label': 'KCUT EDGE DURATION', 'value': 'kcut-edge-duration'},
                 {'label': 'KCUT EDGE DISTANCE', 'value': 'kcut-edge-distance'},
+                {'label': 'K-MEANS (EQUIVALENT SAMPLE SIZE)', 'value': 'k-means-size'},
             ],
             value='k-means',
             multi=False,
