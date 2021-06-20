@@ -7,10 +7,10 @@ import networkx as nx
 parser = argparse.ArgumentParser(
     description='Simple script that adds cluster ids to nodes, based on k-means clustering')
 
-parser.add_argument('-p', '--path',
+parser.add_argument('-n', '--name',
                     type=str,
-                    default='../data/graphs/with_distances/skofja-loka-distances.net',
-                    help='path to the graph file'
+                    default='tolmin',
+                    help='settlement name'
                     )
 
 parser.add_argument('-k',
@@ -18,10 +18,24 @@ parser.add_argument('-k',
                     default=4,
                     help='number of partitions')
 
+parser.add_argument('-v',
+                    action='store_true',
+                    help='verbose')
+
 if __name__ == '__main__':
     args = parser.parse_args()
 
-    g: nx.Graph = nx.read_pajek(args.path)
+    verbose = args.v
+    name = args.name
+
+    name = name \
+        .replace(' ', '-') \
+        .lower() \
+        .replace('č', 'c') \
+        .replace('š', 's') \
+        .replace('ž', 'z')
+
+    g: nx.Graph = nx.read_pajek(f"../data/graphs/with_distances/{name}.net")
 
     centers = {center: [] for center in random.sample(g.nodes, args.k)}
     distances = dict(nx.all_pairs_dijkstra_path_length(g, weight=lambda u, v, d: int(d[0]['duration'])))
@@ -44,9 +58,9 @@ if __name__ == '__main__':
         # for each cluster, find new center
         new_centers = {min([(a, sum([distances[a][b] for b in cluster])) for a in cluster], key=lambda x: x[1])[0]: []
                        for cluster in centers.values()}
-
-        print(f'previous: {centers.keys()}')
-        print(f'new     : {new_centers.keys()}')
+        if verbose:
+            print(f'previous: {centers.keys()}')
+            print(f'new     : {new_centers.keys()}')
 
         # if centers haven't changed, stop early
         if centers.keys() == new_centers.keys():
@@ -55,8 +69,9 @@ if __name__ == '__main__':
                     g.nodes[node]['cluster_id'] = str(cluster_id)
 
             current_time = datetime.now().strftime("%m-%d-%Y-%H-%M-%S")
-            nx.write_pajek(g, f'{args.path[:-4]}-k-means.net')
-            print(f'Graph saved to: {args.path[:-4]}-k-means.net')
+            nx.write_pajek(g, f'../data/graphs/with_communities/{name}-k-means.net')
+            if verbose:
+                print(f'Graph saved to: ../data/graphs/with_communities/{name}-k-means.net')
             break
 
         centers = new_centers

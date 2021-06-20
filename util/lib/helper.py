@@ -26,32 +26,37 @@ def optimalTraversal(graph, subgraph_nodes, distanceMatrix, verbose=False):
             crossroadList.append(TSP.Address(ix, distanceMatrix))
         elif graph.nodes[node]['node_type'] == "address":
             addressList.append(TSP.Address(ix, distanceMatrix))
+    if crossroadList:
+        optimalRouteCrs, optimalPrice = TSP.geneticAlgorithm(population=crossroadList, popSize=40, eliteSize=20,
+                                                             mutationRate=0.01,
+                                                             generations=80, verbose=verbose)
+        optimalRoute = []
+        for crs in optimalRouteCrs:
+            crs_node = list(subgraph_nodes)[crs.id_]
+            graph.edges(crs_node)
+            subgraph_ids = list(
+                map(lambda x: TSP.Address(int(x['id']) - 1, distanceMatrix), filter(lambda x: x['node_type'] != 'crossroad',
+                                                                                    [graph.nodes[node] for node in
+                                                                                     list(graph.neighbors(crs_node))])))
+            subgraph_ids.append(crs)
+            if len(subgraph_ids) < 2:
+                optimalRoute.append(crs)
+                continue
 
-    optimalRouteCrs, optimalPrice = TSP.geneticAlgorithm(population=crossroadList, popSize=40, eliteSize=20,
-                                                         mutationRate=0.01,
-                                                         generations=80, verbose=verbose)
-    optimalRoute = []
-    for crs in optimalRouteCrs:
-        crs_node = list(subgraph_nodes)[crs.id_]
-        graph.edges(crs_node)
-        subgraph_ids = list(
-            map(lambda x: TSP.Address(int(x['id']) - 1, distanceMatrix), filter(lambda x: x['node_type'] != 'crossroad',
-                                                                                [graph.nodes[node] for node in
-                                                                                 list(graph.neighbors(crs_node))])))
-        subgraph_ids.append(crs)
-        if len(subgraph_ids) < 2:
+            subgraphOptRoute, subgraphOptPrice = TSP.geneticAlgorithm(population=subgraph_ids, popSize=40, eliteSize=20,
+                                                                      mutationRate=0.01,
+                                                                      generations=80, verbose=verbose)
+            subgraphOptRoute = rotate(subgraphOptRoute, subgraphOptRoute.index(crs))
+            optimalRoute.extend(subgraphOptRoute)
             optimalRoute.append(crs)
-            continue
+            optimalPrice += subgraphOptPrice
 
-        subgraphOptRoute, subgraphOptPrice = TSP.geneticAlgorithm(population=subgraph_ids, popSize=40, eliteSize=20,
+        optimalRoute.append(optimalRouteCrs[0])
+    else:
+        subgraph_ids = list(map(lambda x: TSP.Address(int(x['id']) - 1, distanceMatrix), [graph.nodes[node] for node in subgraph_nodes]))
+        optimalRoute, optimalPrice = TSP.geneticAlgorithm(population=subgraph_ids, popSize=40, eliteSize=20,
                                                                   mutationRate=0.01,
                                                                   generations=80, verbose=verbose)
-        subgraphOptRoute = rotate(subgraphOptRoute, subgraphOptRoute.index(crs))
-        optimalRoute.extend(subgraphOptRoute)
-        optimalRoute.append(crs)
-        optimalPrice += subgraphOptPrice
-
-    optimalRoute.append(optimalRouteCrs[0])
     return optimalRoute, optimalPrice
 
 

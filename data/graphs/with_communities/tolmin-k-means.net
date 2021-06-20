@@ -2,155 +2,155 @@
 1 1988606077 0.0 0.0 ellipse lat 46.1830988 lon 13.7327103 obcina Tolmin hisna_st 7 ulica "Trg maršala Tita" node_type address cluster_id 1
 2 3011027540 0.0 0.0 ellipse lat 46.1834859 lon 13.7374456 obcina Tolmin hisna_st 1 ulica "Lavričeva ulica" node_type address cluster_id 0
 3 4219098464 0.0 0.0 ellipse lat 46.183593 lon 13.7386192 obcina Tolmin hisna_st 5a ulica "Vojkova ulica" node_type address cluster_id 0
-4 4308035384 0.0 0.0 ellipse lat 46.1824626 lon 13.7338123 obcina Tolmin hisna_st 3 ulica "Cankarjeva ulica" node_type address cluster_id 1
-5 4422317073 0.0 0.0 ellipse lat 46.1840155 lon 13.7319551 obcina Tolmin hisna_st 3 ulica "Brunov drevored" node_type address cluster_id 0
-6 4708681523 0.0 0.0 ellipse lat 46.185982 lon 13.7325723 obcina Tolmin hisna_st 1A ulica "Žagarjeva ulica" node_type address cluster_id 2
-7 4708681524 0.0 0.0 ellipse lat 46.1860496 lon 13.7321821 obcina Tolmin hisna_st 1 ulica "Žagarjeva ulica" node_type address cluster_id 2
-8 4708681525 0.0 0.0 ellipse lat 46.1863419 lon 13.732577 obcina Tolmin hisna_st 5 ulica "Žagarjeva ulica" node_type address cluster_id 2
-9 4708681526 0.0 0.0 ellipse lat 46.1866134 lon 13.7335294 obcina Tolmin hisna_st 5 ulica "Na hribih" node_type address cluster_id 0
-10 4708681527 0.0 0.0 ellipse lat 46.1868046 lon 13.7345484 obcina Tolmin hisna_st 34 ulica "Na hribih" node_type address cluster_id 0
-11 4708681528 0.0 0.0 ellipse lat 46.1866561 lon 13.7333211 obcina Tolmin hisna_st 7 ulica "Na hribih" node_type address cluster_id 0
-12 4708681529 0.0 0.0 ellipse lat 46.1869508 lon 13.7339362 obcina Tolmin hisna_st 38 ulica "Na hribih" node_type address cluster_id 0
+4 4308035384 0.0 0.0 ellipse lat 46.1824626 lon 13.7338123 obcina Tolmin hisna_st 3 ulica "Cankarjeva ulica" node_type address cluster_id 0
+5 4422317073 0.0 0.0 ellipse lat 46.1840155 lon 13.7319551 obcina Tolmin hisna_st 3 ulica "Brunov drevored" node_type address cluster_id 1
+6 4708681523 0.0 0.0 ellipse lat 46.185982 lon 13.7325723 obcina Tolmin hisna_st 1A ulica "Žagarjeva ulica" node_type address cluster_id 1
+7 4708681524 0.0 0.0 ellipse lat 46.1860496 lon 13.7321821 obcina Tolmin hisna_st 1 ulica "Žagarjeva ulica" node_type address cluster_id 1
+8 4708681525 0.0 0.0 ellipse lat 46.1863419 lon 13.732577 obcina Tolmin hisna_st 5 ulica "Žagarjeva ulica" node_type address cluster_id 1
+9 4708681526 0.0 0.0 ellipse lat 46.1866134 lon 13.7335294 obcina Tolmin hisna_st 5 ulica "Na hribih" node_type address cluster_id 2
+10 4708681527 0.0 0.0 ellipse lat 46.1868046 lon 13.7345484 obcina Tolmin hisna_st 34 ulica "Na hribih" node_type address cluster_id 2
+11 4708681528 0.0 0.0 ellipse lat 46.1866561 lon 13.7333211 obcina Tolmin hisna_st 7 ulica "Na hribih" node_type address cluster_id 2
+12 4708681529 0.0 0.0 ellipse lat 46.1869508 lon 13.7339362 obcina Tolmin hisna_st 38 ulica "Na hribih" node_type address cluster_id 2
 13 4708681530 0.0 0.0 ellipse lat 46.1878042 lon 13.7329968 obcina Tolmin hisna_st 32 ulica "Bevkova ulica" node_type address cluster_id 3
-14 4708681531 0.0 0.0 ellipse lat 46.186519 lon 13.7331299 obcina Tolmin hisna_st 3 ulica "Na hribih" node_type address cluster_id 0
+14 4708681531 0.0 0.0 ellipse lat 46.186519 lon 13.7331299 obcina Tolmin hisna_st 3 ulica "Na hribih" node_type address cluster_id 2
 15 4708681532 0.0 0.0 ellipse lat 46.186953 lon 13.7325111 obcina Tolmin hisna_st 9 ulica "Žagarjeva ulica" node_type address cluster_id 3
-16 4708681533 0.0 0.0 ellipse lat 46.186375 lon 13.7339364 obcina Tolmin hisna_st 20 ulica "Na hribih" node_type address cluster_id 0
-17 4708681534 0.0 0.0 ellipse lat 46.1860703 lon 13.734047 obcina Tolmin hisna_st 2 ulica "Na hribih" node_type address cluster_id 0
-18 4708681535 0.0 0.0 ellipse lat 46.1863231 lon 13.7341319 obcina Tolmin hisna_st 22 ulica "Na hribih" node_type address cluster_id 0
+16 4708681533 0.0 0.0 ellipse lat 46.186375 lon 13.7339364 obcina Tolmin hisna_st 20 ulica "Na hribih" node_type address cluster_id 2
+17 4708681534 0.0 0.0 ellipse lat 46.1860703 lon 13.734047 obcina Tolmin hisna_st 2 ulica "Na hribih" node_type address cluster_id 2
+18 4708681535 0.0 0.0 ellipse lat 46.1863231 lon 13.7341319 obcina Tolmin hisna_st 22 ulica "Na hribih" node_type address cluster_id 2
 19 4708681536 0.0 0.0 ellipse lat 46.1865754 lon 13.7325327 obcina Tolmin hisna_st 7 ulica "Žagarjeva ulica" node_type address cluster_id 3
-20 4708681537 0.0 0.0 ellipse lat 46.1862104 lon 13.7345102 obcina Tolmin hisna_st 10 ulica "Na hribih" node_type address cluster_id 0
-21 4708681538 0.0 0.0 ellipse lat 46.1870071 lon 13.7341422 obcina Tolmin hisna_st 40 ulica "Na hribih" node_type address cluster_id 0
-22 4708681539 0.0 0.0 ellipse lat 46.1869912 lon 13.7335207 obcina Tolmin hisna_st 11 ulica "Na hribih" node_type address cluster_id 0
-23 4708681540 0.0 0.0 ellipse lat 46.1871504 lon 13.734087 obcina Tolmin hisna_st 42 ulica "Na hribih" node_type address cluster_id 0
-24 4708681541 0.0 0.0 ellipse lat 46.1868649 lon 13.7343009 obcina Tolmin hisna_st 36 ulica "Na hribih" node_type address cluster_id 0
-25 4708681542 0.0 0.0 ellipse lat 46.1863644 lon 13.7346103 obcina Tolmin hisna_st 14 ulica "Na hribih" node_type address cluster_id 0
+20 4708681537 0.0 0.0 ellipse lat 46.1862104 lon 13.7345102 obcina Tolmin hisna_st 10 ulica "Na hribih" node_type address cluster_id 2
+21 4708681538 0.0 0.0 ellipse lat 46.1870071 lon 13.7341422 obcina Tolmin hisna_st 40 ulica "Na hribih" node_type address cluster_id 2
+22 4708681539 0.0 0.0 ellipse lat 46.1869912 lon 13.7335207 obcina Tolmin hisna_st 11 ulica "Na hribih" node_type address cluster_id 2
+23 4708681540 0.0 0.0 ellipse lat 46.1871504 lon 13.734087 obcina Tolmin hisna_st 42 ulica "Na hribih" node_type address cluster_id 2
+24 4708681541 0.0 0.0 ellipse lat 46.1868649 lon 13.7343009 obcina Tolmin hisna_st 36 ulica "Na hribih" node_type address cluster_id 2
+25 4708681542 0.0 0.0 ellipse lat 46.1863644 lon 13.7346103 obcina Tolmin hisna_st 14 ulica "Na hribih" node_type address cluster_id 2
 26 4708681543 0.0 0.0 ellipse lat 46.1872565 lon 13.7331001 obcina Tolmin hisna_st 18 ulica "Bevkova ulica" node_type address cluster_id 3
-27 4708681544 0.0 0.0 ellipse lat 46.1864685 lon 13.7342581 obcina Tolmin hisna_st 24 ulica "Na hribih" node_type address cluster_id 0
-28 4708681545 0.0 0.0 ellipse lat 46.186419 lon 13.7346609 obcina Tolmin hisna_st 16 ulica "Na hribih" node_type address cluster_id 0
+27 4708681544 0.0 0.0 ellipse lat 46.1864685 lon 13.7342581 obcina Tolmin hisna_st 24 ulica "Na hribih" node_type address cluster_id 2
+28 4708681545 0.0 0.0 ellipse lat 46.186419 lon 13.7346609 obcina Tolmin hisna_st 16 ulica "Na hribih" node_type address cluster_id 2
 29 4708681546 0.0 0.0 ellipse lat 46.1872666 lon 13.7332035 obcina Tolmin hisna_st 20 ulica "Bevkova ulica" node_type address cluster_id 3
-30 4708681547 0.0 0.0 ellipse lat 46.1866137 lon 13.7343714 obcina Tolmin hisna_st 30 ulica "Na hribih" node_type address cluster_id 0
-31 4708681548 0.0 0.0 ellipse lat 46.1868097 lon 13.7333824 obcina Tolmin hisna_st 9 ulica "Na hribih" node_type address cluster_id 0
+30 4708681547 0.0 0.0 ellipse lat 46.1866137 lon 13.7343714 obcina Tolmin hisna_st 30 ulica "Na hribih" node_type address cluster_id 2
+31 4708681548 0.0 0.0 ellipse lat 46.1868097 lon 13.7333824 obcina Tolmin hisna_st 9 ulica "Na hribih" node_type address cluster_id 2
 32 4708681549 0.0 0.0 ellipse lat 46.1872553 lon 13.7329964 obcina Tolmin hisna_st 16 ulica "Bevkova ulica" node_type address cluster_id 3
-33 4708681550 0.0 0.0 ellipse lat 46.186208 lon 13.7334868 obcina Tolmin hisna_st 1 ulica "Na hribih" node_type address cluster_id 0
+33 4708681550 0.0 0.0 ellipse lat 46.186208 lon 13.7334868 obcina Tolmin hisna_st 1 ulica "Na hribih" node_type address cluster_id 2
 34 4708681551 0.0 0.0 ellipse lat 46.1875433 lon 13.7330028 obcina Tolmin hisna_st 26 ulica "Bevkova ulica" node_type address cluster_id 3
 35 4708681552 0.0 0.0 ellipse lat 46.1876363 lon 13.7332727 obcina Tolmin hisna_st 30 ulica "Bevkova ulica" node_type address cluster_id 3
-36 4708681553 0.0 0.0 ellipse lat 46.1873132 lon 13.7333449 obcina Tolmin hisna_st 22 ulica "Bevkova ulica" node_type address cluster_id 0
-37 4708681554 0.0 0.0 ellipse lat 46.1861215 lon 13.7329836 obcina Tolmin hisna_st 3 ulica "Žagarjeva ulica" node_type address cluster_id 2
-38 4708681555 0.0 0.0 ellipse lat 46.1873503 lon 13.7334477 obcina Tolmin hisna_st 24 ulica "Bevkova ulica" node_type address cluster_id 0
-39 4708681556 0.0 0.0 ellipse lat 46.1861104 lon 13.7344218 obcina Tolmin hisna_st 8 ulica "Na hribih" node_type address cluster_id 0
-40 4708681557 0.0 0.0 ellipse lat 46.1862919 lon 13.7345601 obcina Tolmin hisna_st 12 ulica "Na hribih" node_type address cluster_id 0
+36 4708681553 0.0 0.0 ellipse lat 46.1873132 lon 13.7333449 obcina Tolmin hisna_st 22 ulica "Bevkova ulica" node_type address cluster_id 2
+37 4708681554 0.0 0.0 ellipse lat 46.1861215 lon 13.7329836 obcina Tolmin hisna_st 3 ulica "Žagarjeva ulica" node_type address cluster_id 1
+38 4708681555 0.0 0.0 ellipse lat 46.1873503 lon 13.7334477 obcina Tolmin hisna_st 24 ulica "Bevkova ulica" node_type address cluster_id 2
+39 4708681556 0.0 0.0 ellipse lat 46.1861104 lon 13.7344218 obcina Tolmin hisna_st 8 ulica "Na hribih" node_type address cluster_id 2
+40 4708681557 0.0 0.0 ellipse lat 46.1862919 lon 13.7345601 obcina Tolmin hisna_st 12 ulica "Na hribih" node_type address cluster_id 2
 41 4708681558 0.0 0.0 ellipse lat 46.1875275 lon 13.7331975 obcina Tolmin hisna_st 28 ulica "Bevkova ulica" node_type address cluster_id 3
-42 4708681559 0.0 0.0 ellipse lat 46.1860914 lon 13.7343316 obcina Tolmin hisna_st 6 ulica "Na hribih" node_type address cluster_id 0
+42 4708681559 0.0 0.0 ellipse lat 46.1860914 lon 13.7343316 obcina Tolmin hisna_st 6 ulica "Na hribih" node_type address cluster_id 2
 43 4708681560 0.0 0.0 ellipse lat 46.1868763 lon 13.7320854 obcina Tolmin hisna_st 20 ulica "Gregorčičeva ulica" node_type address cluster_id 3
-44 4708681561 0.0 0.0 ellipse lat 46.186663 lon 13.7339428 obcina Tolmin hisna_st 26 ulica "Na hribih" node_type address cluster_id 0
+44 4708681561 0.0 0.0 ellipse lat 46.186663 lon 13.7339428 obcina Tolmin hisna_st 26 ulica "Na hribih" node_type address cluster_id 2
 45 4708681562 0.0 0.0 ellipse lat 46.1865706 lon 13.7321053 obcina Tolmin hisna_st 18 ulica "Gregorčičeva ulica" node_type address cluster_id 3
-46 4708681563 0.0 0.0 ellipse lat 46.186629 lon 13.7341249 obcina Tolmin hisna_st 28 ulica "Na hribih" node_type address cluster_id 0
-47 4708681564 0.0 0.0 ellipse lat 46.1866884 lon 13.7346158 obcina Tolmin hisna_st 32 ulica "Na hribih" node_type address cluster_id 0
-48 4708681565 0.0 0.0 ellipse lat 46.1864915 lon 13.734711 obcina Tolmin hisna_st 18 ulica "Na hribih" node_type address cluster_id 0
+46 4708681563 0.0 0.0 ellipse lat 46.186629 lon 13.7341249 obcina Tolmin hisna_st 28 ulica "Na hribih" node_type address cluster_id 2
+47 4708681564 0.0 0.0 ellipse lat 46.1866884 lon 13.7346158 obcina Tolmin hisna_st 32 ulica "Na hribih" node_type address cluster_id 2
+48 4708681565 0.0 0.0 ellipse lat 46.1864915 lon 13.734711 obcina Tolmin hisna_st 18 ulica "Na hribih" node_type address cluster_id 2
 49 4708681566 0.0 0.0 ellipse lat 46.1870232 lon 13.7331572 obcina Tolmin hisna_st 11 ulica "Žagarjeva ulica" node_type address cluster_id 3
-50 4708681567 0.0 0.0 ellipse lat 46.1863447 lon 13.7320198 obcina Tolmin hisna_st 18A ulica "Gregorčičeva ulica" node_type address cluster_id 2
-51 4708681568 0.0 0.0 ellipse lat 46.1860451 lon 13.734216 obcina Tolmin hisna_st 4 ulica "Na hribih" node_type address cluster_id 0
+50 4708681567 0.0 0.0 ellipse lat 46.1863447 lon 13.7320198 obcina Tolmin hisna_st 18A ulica "Gregorčičeva ulica" node_type address cluster_id 1
+51 4708681568 0.0 0.0 ellipse lat 46.1860451 lon 13.734216 obcina Tolmin hisna_st 4 ulica "Na hribih" node_type address cluster_id 2
 52 4708681569 0.0 0.0 ellipse lat 46.1868871 lon 13.7330567 obcina Tolmin hisna_st 13 ulica "Žagarjeva ulica" node_type address cluster_id 3
 53 4708695067 0.0 0.0 ellipse lat 46.1856473 lon 13.7324115 obcina Tolmin hisna_st 2 ulica "Žagarjeva ulica" node_type address cluster_id 2
-54 4708695068 0.0 0.0 ellipse lat 46.1851448 lon 13.7349751 obcina Tolmin hisna_st 3 ulica "Ulica prekomorskih brigad" node_type address cluster_id 0
-55 4708695069 0.0 0.0 ellipse lat 46.184266 lon 13.732806 obcina Tolmin hisna_st 8 ulica "Gregorčičeva ulica" node_type address cluster_id 0
+54 4708695068 0.0 0.0 ellipse lat 46.1851448 lon 13.7349751 obcina Tolmin hisna_st 3 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+55 4708695069 0.0 0.0 ellipse lat 46.184266 lon 13.732806 obcina Tolmin hisna_st 8 ulica "Gregorčičeva ulica" node_type address cluster_id 1
 56 4708695070 0.0 0.0 ellipse lat 46.1856406 lon 13.732619 obcina Tolmin hisna_st 4 ulica "Žagarjeva ulica" node_type address cluster_id 2
-57 4708695071 0.0 0.0 ellipse lat 46.1851431 lon 13.7323843 obcina Tolmin hisna_st 14 ulica "Gregorčičeva ulica" node_type address cluster_id 2
-58 4708695072 0.0 0.0 ellipse lat 46.1857197 lon 13.7332649 obcina Tolmin hisna_st 6 ulica "Žagarjeva ulica" node_type address cluster_id 0
-59 4708695073 0.0 0.0 ellipse lat 46.1844943 lon 13.7347309 obcina Tolmin hisna_st 1 ulica "Ulica prekomorskih brigad" node_type address cluster_id 0
-60 4708695074 0.0 0.0 ellipse lat 46.1855952 lon 13.7342134 obcina Tolmin hisna_st 10 ulica "Žagarjeva ulica" node_type address cluster_id 0
+57 4708695071 0.0 0.0 ellipse lat 46.1851431 lon 13.7323843 obcina Tolmin hisna_st 14 ulica "Gregorčičeva ulica" node_type address cluster_id 1
+58 4708695072 0.0 0.0 ellipse lat 46.1857197 lon 13.7332649 obcina Tolmin hisna_st 6 ulica "Žagarjeva ulica" node_type address cluster_id 2
+59 4708695073 0.0 0.0 ellipse lat 46.1844943 lon 13.7347309 obcina Tolmin hisna_st 1 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+60 4708695074 0.0 0.0 ellipse lat 46.1855952 lon 13.7342134 obcina Tolmin hisna_st 10 ulica "Žagarjeva ulica" node_type address cluster_id 2
 61 4708695075 0.0 0.0 ellipse lat 46.185314 lon 13.7323803 obcina Tolmin hisna_st 16 ulica "Gregorčičeva ulica" node_type address cluster_id 2
-62 4708695076 0.0 0.0 ellipse lat 46.185695 lon 13.7334727 obcina Tolmin hisna_st 8 ulica "Žagarjeva ulica" node_type address cluster_id 0
-63 4708695077 0.0 0.0 ellipse lat 46.1853377 lon 13.732898 obcina Tolmin hisna_st 7B ulica "Kosovelova ulica" node_type address cluster_id 0
-64 4708695078 0.0 0.0 ellipse lat 46.1854269 lon 13.7336343 obcina Tolmin hisna_st 7 ulica "Kosovelova ulica" node_type address cluster_id 0
-65 4708695079 0.0 0.0 ellipse lat 46.1853512 lon 13.7332992 obcina Tolmin hisna_st 7A ulica "Kosovelova ulica" node_type address cluster_id 0
-66 4708695080 0.0 0.0 ellipse lat 46.1843472 lon 13.7336332 obcina Tolmin hisna_st 3 ulica "Prešernova ulica" node_type address cluster_id 0
-67 4708695081 0.0 0.0 ellipse lat 46.1847675 lon 13.7342194 obcina Tolmin hisna_st 2 ulica "Kosovelova ulica" node_type address cluster_id 0
-68 4708695082 0.0 0.0 ellipse lat 46.1848331 lon 13.7328318 obcina Tolmin hisna_st 12 ulica "Gregorčičeva ulica" node_type address cluster_id 0
-69 4708695083 0.0 0.0 ellipse lat 46.1843256 lon 13.7333098 obcina Tolmin hisna_st 1 ulica "Prešernova ulica" node_type address cluster_id 0
-70 4708695084 0.0 0.0 ellipse lat 46.1849777 lon 13.7336964 obcina Tolmin hisna_st 3 ulica "Kosovelova ulica" node_type address cluster_id 0
-71 4708695085 0.0 0.0 ellipse lat 46.1849584 lon 13.7327642 obcina Tolmin hisna_st 12A ulica "Gregorčičeva ulica" node_type address cluster_id 0
-72 4708695086 0.0 0.0 ellipse lat 46.1843687 lon 13.7339565 obcina Tolmin hisna_st 7 ulica "Prešernova ulica" node_type address cluster_id 0
-73 4708695087 0.0 0.0 ellipse lat 46.1847444 lon 13.7337536 obcina Tolmin hisna_st 1 ulica "Kosovelova ulica" node_type address cluster_id 0
-74 4708695088 0.0 0.0 ellipse lat 46.1843582 lon 13.7338143 obcina Tolmin hisna_st 5 ulica "Prešernova ulica" node_type address cluster_id 0
-75 4708695189 0.0 0.0 ellipse lat 46.1847499 lon 13.7334426 obcina Tolmin hisna_st 1A ulica "Kosovelova ulica" node_type address cluster_id 0
-76 4708695190 0.0 0.0 ellipse lat 46.1851855 lon 13.7329662 obcina Tolmin hisna_st 5B ulica "Kosovelova ulica" node_type address cluster_id 0
-77 4708695191 0.0 0.0 ellipse lat 46.1845994 lon 13.7328501 obcina Tolmin hisna_st 10 ulica "Gregorčičeva ulica" node_type address cluster_id 0
-78 4708695192 0.0 0.0 ellipse lat 46.1853511 lon 13.7341024 obcina Tolmin hisna_st 6 ulica "Kosovelova ulica" node_type address cluster_id 0
-79 4708695193 0.0 0.0 ellipse lat 46.1850819 lon 13.7341733 obcina Tolmin hisna_st 4 ulica "Kosovelova ulica" node_type address cluster_id 0
-80 4708695194 0.0 0.0 ellipse lat 46.1852113 lon 13.7336652 obcina Tolmin hisna_st 5 ulica "Kosovelova ulica" node_type address cluster_id 0
-81 4708698251 0.0 0.0 ellipse lat 46.1851284 lon 13.7359341 obcina Tolmin hisna_st 8 ulica "Ulica prekomorskih brigad" node_type address cluster_id 0
-82 4708698252 0.0 0.0 ellipse lat 46.1853003 lon 13.7360208 obcina Tolmin hisna_st 10 ulica "Ulica prekomorskih brigad" node_type address cluster_id 0
-83 4708698253 0.0 0.0 ellipse lat 46.1857139 lon 13.7351822 obcina Tolmin hisna_st 5 ulica "Ulica prekomorskih brigad" node_type address cluster_id 0
-84 4708698254 0.0 0.0 ellipse lat 46.1849538 lon 13.7356012 obcina Tolmin hisna_st 6 ulica "Ulica prekomorskih brigad" node_type address cluster_id 0
-85 4708698255 0.0 0.0 ellipse lat 46.1847462 lon 13.7355412 obcina Tolmin hisna_st 4 ulica "Ulica prekomorskih brigad" node_type address cluster_id 0
-86 4708698256 0.0 0.0 ellipse lat 46.1844654 lon 13.7353793 obcina Tolmin hisna_st 2 ulica "Ulica prekomorskih brigad" node_type address cluster_id 0
+62 4708695076 0.0 0.0 ellipse lat 46.185695 lon 13.7334727 obcina Tolmin hisna_st 8 ulica "Žagarjeva ulica" node_type address cluster_id 2
+63 4708695077 0.0 0.0 ellipse lat 46.1853377 lon 13.732898 obcina Tolmin hisna_st 7B ulica "Kosovelova ulica" node_type address cluster_id 2
+64 4708695078 0.0 0.0 ellipse lat 46.1854269 lon 13.7336343 obcina Tolmin hisna_st 7 ulica "Kosovelova ulica" node_type address cluster_id 2
+65 4708695079 0.0 0.0 ellipse lat 46.1853512 lon 13.7332992 obcina Tolmin hisna_st 7A ulica "Kosovelova ulica" node_type address cluster_id 2
+66 4708695080 0.0 0.0 ellipse lat 46.1843472 lon 13.7336332 obcina Tolmin hisna_st 3 ulica "Prešernova ulica" node_type address cluster_id 2
+67 4708695081 0.0 0.0 ellipse lat 46.1847675 lon 13.7342194 obcina Tolmin hisna_st 2 ulica "Kosovelova ulica" node_type address cluster_id 2
+68 4708695082 0.0 0.0 ellipse lat 46.1848331 lon 13.7328318 obcina Tolmin hisna_st 12 ulica "Gregorčičeva ulica" node_type address cluster_id 2
+69 4708695083 0.0 0.0 ellipse lat 46.1843256 lon 13.7333098 obcina Tolmin hisna_st 1 ulica "Prešernova ulica" node_type address cluster_id 1
+70 4708695084 0.0 0.0 ellipse lat 46.1849777 lon 13.7336964 obcina Tolmin hisna_st 3 ulica "Kosovelova ulica" node_type address cluster_id 2
+71 4708695085 0.0 0.0 ellipse lat 46.1849584 lon 13.7327642 obcina Tolmin hisna_st 12A ulica "Gregorčičeva ulica" node_type address cluster_id 2
+72 4708695086 0.0 0.0 ellipse lat 46.1843687 lon 13.7339565 obcina Tolmin hisna_st 7 ulica "Prešernova ulica" node_type address cluster_id 2
+73 4708695087 0.0 0.0 ellipse lat 46.1847444 lon 13.7337536 obcina Tolmin hisna_st 1 ulica "Kosovelova ulica" node_type address cluster_id 2
+74 4708695088 0.0 0.0 ellipse lat 46.1843582 lon 13.7338143 obcina Tolmin hisna_st 5 ulica "Prešernova ulica" node_type address cluster_id 2
+75 4708695189 0.0 0.0 ellipse lat 46.1847499 lon 13.7334426 obcina Tolmin hisna_st 1A ulica "Kosovelova ulica" node_type address cluster_id 2
+76 4708695190 0.0 0.0 ellipse lat 46.1851855 lon 13.7329662 obcina Tolmin hisna_st 5B ulica "Kosovelova ulica" node_type address cluster_id 2
+77 4708695191 0.0 0.0 ellipse lat 46.1845994 lon 13.7328501 obcina Tolmin hisna_st 10 ulica "Gregorčičeva ulica" node_type address cluster_id 2
+78 4708695192 0.0 0.0 ellipse lat 46.1853511 lon 13.7341024 obcina Tolmin hisna_st 6 ulica "Kosovelova ulica" node_type address cluster_id 2
+79 4708695193 0.0 0.0 ellipse lat 46.1850819 lon 13.7341733 obcina Tolmin hisna_st 4 ulica "Kosovelova ulica" node_type address cluster_id 2
+80 4708695194 0.0 0.0 ellipse lat 46.1852113 lon 13.7336652 obcina Tolmin hisna_st 5 ulica "Kosovelova ulica" node_type address cluster_id 2
+81 4708698251 0.0 0.0 ellipse lat 46.1851284 lon 13.7359341 obcina Tolmin hisna_st 8 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+82 4708698252 0.0 0.0 ellipse lat 46.1853003 lon 13.7360208 obcina Tolmin hisna_st 10 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+83 4708698253 0.0 0.0 ellipse lat 46.1857139 lon 13.7351822 obcina Tolmin hisna_st 5 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+84 4708698254 0.0 0.0 ellipse lat 46.1849538 lon 13.7356012 obcina Tolmin hisna_st 6 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+85 4708698255 0.0 0.0 ellipse lat 46.1847462 lon 13.7355412 obcina Tolmin hisna_st 4 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+86 4708698256 0.0 0.0 ellipse lat 46.1844654 lon 13.7353793 obcina Tolmin hisna_st 2 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
 87 4708698257 0.0 0.0 ellipse lat 46.184433 lon 13.7357039 obcina Tolmin hisna_st 15 ulica "Bazoviška ulica" node_type address cluster_id 0
-88 4708698258 0.0 0.0 ellipse lat 46.1856924 lon 13.735675 obcina Tolmin hisna_st 14 ulica "Ulica prekomorskih brigad" node_type address cluster_id 0
-89 4708698259 0.0 0.0 ellipse lat 46.1843925 lon 13.7352903 obcina Tolmin hisna_st 15 ulica "Prešernova ulica" node_type address cluster_id 0
-90 4708701587 0.0 0.0 ellipse lat 46.183753 lon 13.7311726 obcina Tolmin hisna_st 6 ulica "Šavlijeva ulica" node_type address cluster_id 0
-91 4708701588 0.0 0.0 ellipse lat 46.1837141 lon 13.7309015 obcina Tolmin hisna_st 8 ulica "Šavlijeva ulica" node_type address cluster_id 0
+88 4708698258 0.0 0.0 ellipse lat 46.1856924 lon 13.735675 obcina Tolmin hisna_st 14 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+89 4708698259 0.0 0.0 ellipse lat 46.1843925 lon 13.7352903 obcina Tolmin hisna_st 15 ulica "Prešernova ulica" node_type address cluster_id 2
+90 4708701587 0.0 0.0 ellipse lat 46.183753 lon 13.7311726 obcina Tolmin hisna_st 6 ulica "Šavlijeva ulica" node_type address cluster_id 1
+91 4708701588 0.0 0.0 ellipse lat 46.1837141 lon 13.7309015 obcina Tolmin hisna_st 8 ulica "Šavlijeva ulica" node_type address cluster_id 1
 92 4708701668 0.0 0.0 ellipse lat 46.1815062 lon 13.7362761 obcina Tolmin hisna_st 14 ulica Klanec node_type address cluster_id 0
 93 4708701669 0.0 0.0 ellipse lat 46.1822209 lon 13.7358193 obcina Tolmin hisna_st 5 ulica Klanec node_type address cluster_id 0
 94 4708701670 0.0 0.0 ellipse lat 46.1821198 lon 13.7356273 obcina Tolmin hisna_st 7 ulica Breg node_type address cluster_id 0
 95 4708701671 0.0 0.0 ellipse lat 46.1821995 lon 13.736325 obcina Tolmin hisna_st 4 ulica Podbreg node_type address cluster_id 0
 96 4708701672 0.0 0.0 ellipse lat 46.1822096 lon 13.7356123 obcina Tolmin hisna_st 5 ulica Breg node_type address cluster_id 0
-97 4708701673 0.0 0.0 ellipse lat 46.1823184 lon 13.7348714 obcina Tolmin hisna_st 1 ulica "Rutarjeva ulica" node_type address cluster_id 1
-98 4708701674 0.0 0.0 ellipse lat 46.1825808 lon 13.7350079 obcina Tolmin hisna_st 1A ulica "Rutarjeva ulica" node_type address cluster_id 1
+97 4708701673 0.0 0.0 ellipse lat 46.1823184 lon 13.7348714 obcina Tolmin hisna_st 1 ulica "Rutarjeva ulica" node_type address cluster_id 0
+98 4708701674 0.0 0.0 ellipse lat 46.1825808 lon 13.7350079 obcina Tolmin hisna_st 1A ulica "Rutarjeva ulica" node_type address cluster_id 0
 99 4708701675 0.0 0.0 ellipse lat 46.1821501 lon 13.7359245 obcina Tolmin hisna_st 7 ulica Klanec node_type address cluster_id 0
-100 4708701676 0.0 0.0 ellipse lat 46.1822627 lon 13.7347173 obcina Tolmin hisna_st 2 ulica "Trg 1. maja" node_type address cluster_id 1
+100 4708701676 0.0 0.0 ellipse lat 46.1822627 lon 13.7347173 obcina Tolmin hisna_st 2 ulica "Trg 1. maja" node_type address cluster_id 0
 101 4708701677 0.0 0.0 ellipse lat 46.181739 lon 13.7361801 obcina Tolmin hisna_st 8 ulica Klanec node_type address cluster_id 0
-102 4708701678 0.0 0.0 ellipse lat 46.1813586 lon 13.7351396 obcina Tolmin hisna_st 11 ulica "Gradnikova ulica" node_type address cluster_id 1
-103 4708701679 0.0 0.0 ellipse lat 46.1817928 lon 13.7345337 obcina Tolmin hisna_st 6 ulica "Trg 1. maja" node_type address cluster_id 1
+102 4708701678 0.0 0.0 ellipse lat 46.1813586 lon 13.7351396 obcina Tolmin hisna_st 11 ulica "Gradnikova ulica" node_type address cluster_id 0
+103 4708701679 0.0 0.0 ellipse lat 46.1817928 lon 13.7345337 obcina Tolmin hisna_st 6 ulica "Trg 1. maja" node_type address cluster_id 0
 104 4708701680 0.0 0.0 ellipse lat 46.1814225 lon 13.7352158 obcina Tolmin hisna_st 11A ulica "Gradnikova ulica" node_type address cluster_id 0
 105 4708701681 0.0 0.0 ellipse lat 46.1815518 lon 13.7363398 obcina Tolmin hisna_st 12 ulica Klanec node_type address cluster_id 0
-106 4708701682 0.0 0.0 ellipse lat 46.1815352 lon 13.7348376 obcina Tolmin hisna_st 7 ulica "Gradnikova ulica" node_type address cluster_id 1
-107 4708701683 0.0 0.0 ellipse lat 46.1818505 lon 13.7348692 obcina Tolmin hisna_st 4 ulica "Trg 1. maja" node_type address cluster_id 1
-108 4708701684 0.0 0.0 ellipse lat 46.18142 lon 13.7349957 obcina Tolmin hisna_st 9 ulica "Gradnikova ulica" node_type address cluster_id 1
-109 4708701685 0.0 0.0 ellipse lat 46.182479 lon 13.7347512 obcina Tolmin hisna_st 15 ulica "Trg maršala Tita" node_type address cluster_id 1
-110 4708701686 0.0 0.0 ellipse lat 46.1824853 lon 13.735321 obcina Tolmin hisna_st 7 ulica "Rutarjeva ulica" node_type address cluster_id 1
+106 4708701682 0.0 0.0 ellipse lat 46.1815352 lon 13.7348376 obcina Tolmin hisna_st 7 ulica "Gradnikova ulica" node_type address cluster_id 0
+107 4708701683 0.0 0.0 ellipse lat 46.1818505 lon 13.7348692 obcina Tolmin hisna_st 4 ulica "Trg 1. maja" node_type address cluster_id 0
+108 4708701684 0.0 0.0 ellipse lat 46.18142 lon 13.7349957 obcina Tolmin hisna_st 9 ulica "Gradnikova ulica" node_type address cluster_id 0
+109 4708701685 0.0 0.0 ellipse lat 46.182479 lon 13.7347512 obcina Tolmin hisna_st 15 ulica "Trg maršala Tita" node_type address cluster_id 0
+110 4708701686 0.0 0.0 ellipse lat 46.1824853 lon 13.735321 obcina Tolmin hisna_st 7 ulica "Rutarjeva ulica" node_type address cluster_id 0
 111 4708701687 0.0 0.0 ellipse lat 46.1818201 lon 13.7361912 obcina Tolmin hisna_st 6 ulica Klanec node_type address cluster_id 0
 112 4708701688 0.0 0.0 ellipse lat 46.1816915 lon 13.7351319 obcina Tolmin hisna_st 4A ulica "Trg 1. maja" node_type address cluster_id 0
-113 4708702289 0.0 0.0 ellipse lat 46.1841978 lon 13.730709 obcina Tolmin hisna_st 12 ulica "Tumov drevored" node_type address cluster_id 2
-114 4708702290 0.0 0.0 ellipse lat 46.1838375 lon 13.7314816 obcina Tolmin hisna_st 4 ulica "Šavlijeva ulica" node_type address cluster_id 0
-115 4708702291 0.0 0.0 ellipse lat 46.1844573 lon 13.7313896 obcina Tolmin hisna_st 9 ulica "Brunov drevored" node_type address cluster_id 0
-116 4708702292 0.0 0.0 ellipse lat 46.1849768 lon 13.7303672 obcina Tolmin hisna_st 16 ulica "Tumov drevored" node_type address cluster_id 2
-117 4708702293 0.0 0.0 ellipse lat 46.1834742 lon 13.731179 obcina Tolmin hisna_st 5 ulica "Šavlijeva ulica" node_type address cluster_id 0
-118 4708702294 0.0 0.0 ellipse lat 46.1839918 lon 13.7307915 obcina Tolmin hisna_st 10 ulica "Tumov drevored" node_type address cluster_id 0
+113 4708702289 0.0 0.0 ellipse lat 46.1841978 lon 13.730709 obcina Tolmin hisna_st 12 ulica "Tumov drevored" node_type address cluster_id 1
+114 4708702290 0.0 0.0 ellipse lat 46.1838375 lon 13.7314816 obcina Tolmin hisna_st 4 ulica "Šavlijeva ulica" node_type address cluster_id 1
+115 4708702291 0.0 0.0 ellipse lat 46.1844573 lon 13.7313896 obcina Tolmin hisna_st 9 ulica "Brunov drevored" node_type address cluster_id 1
+116 4708702292 0.0 0.0 ellipse lat 46.1849768 lon 13.7303672 obcina Tolmin hisna_st 16 ulica "Tumov drevored" node_type address cluster_id 1
+117 4708702293 0.0 0.0 ellipse lat 46.1834742 lon 13.731179 obcina Tolmin hisna_st 5 ulica "Šavlijeva ulica" node_type address cluster_id 1
+118 4708702294 0.0 0.0 ellipse lat 46.1839918 lon 13.7307915 obcina Tolmin hisna_st 10 ulica "Tumov drevored" node_type address cluster_id 1
 119 4708702295 0.0 0.0 ellipse lat 46.1831839 lon 13.7334008 obcina Tolmin hisna_st 2 ulica "Gregorčičeva ulica" node_type address cluster_id 1
-120 4708702296 0.0 0.0 ellipse lat 46.1851719 lon 13.7317359 obcina Tolmin hisna_st 7 ulica "Gregorčičeva ulica" node_type address cluster_id 2
-121 4708702297 0.0 0.0 ellipse lat 46.1837099 lon 13.7329612 obcina Tolmin hisna_st 6 ulica "Gregorčičeva ulica" node_type address cluster_id 0
+120 4708702296 0.0 0.0 ellipse lat 46.1851719 lon 13.7317359 obcina Tolmin hisna_st 7 ulica "Gregorčičeva ulica" node_type address cluster_id 1
+121 4708702297 0.0 0.0 ellipse lat 46.1837099 lon 13.7329612 obcina Tolmin hisna_st 6 ulica "Gregorčičeva ulica" node_type address cluster_id 1
 122 4708702298 0.0 0.0 ellipse lat 46.1834466 lon 13.7327471 obcina Tolmin hisna_st 1B ulica "Gregorčičeva ulica" node_type address cluster_id 1
-123 4708702300 0.0 0.0 ellipse lat 46.1844669 lon 13.730638 obcina Tolmin hisna_st 14 ulica "Tumov drevored" node_type address cluster_id 2
+123 4708702300 0.0 0.0 ellipse lat 46.1844669 lon 13.730638 obcina Tolmin hisna_st 14 ulica "Tumov drevored" node_type address cluster_id 1
 124 4708702301 0.0 0.0 ellipse lat 46.1832447 lon 13.7332051 obcina Tolmin hisna_st 8 ulica "Trg maršala Tita" node_type address cluster_id 1
-125 4708702302 0.0 0.0 ellipse lat 46.1846263 lon 13.7312173 obcina Tolmin hisna_st 11 ulica "Brunov drevored" node_type address cluster_id 2
-126 4708702303 0.0 0.0 ellipse lat 46.183903 lon 13.7317132 obcina Tolmin hisna_st 2 ulica "Šavlijeva ulica" node_type address cluster_id 0
+125 4708702302 0.0 0.0 ellipse lat 46.1846263 lon 13.7312173 obcina Tolmin hisna_st 11 ulica "Brunov drevored" node_type address cluster_id 1
+126 4708702303 0.0 0.0 ellipse lat 46.183903 lon 13.7317132 obcina Tolmin hisna_st 2 ulica "Šavlijeva ulica" node_type address cluster_id 1
 127 4708702304 0.0 0.0 ellipse lat 46.1834417 lon 13.7331228 obcina Tolmin hisna_st 4 ulica "Gregorčičeva ulica" node_type address cluster_id 1
-128 4708702305 0.0 0.0 ellipse lat 46.1836507 lon 13.7316802 obcina Tolmin hisna_st 3 ulica "Šavlijeva ulica" node_type address cluster_id 0
-129 4708702306 0.0 0.0 ellipse lat 46.1837326 lon 13.7325721 obcina Tolmin hisna_st 5 ulica "Gregorčičeva ulica" node_type address cluster_id 0
-130 4708702307 0.0 0.0 ellipse lat 46.1838036 lon 13.7308606 obcina Tolmin hisna_st 8 ulica "Tumov drevored" node_type address cluster_id 0
+128 4708702305 0.0 0.0 ellipse lat 46.1836507 lon 13.7316802 obcina Tolmin hisna_st 3 ulica "Šavlijeva ulica" node_type address cluster_id 1
+129 4708702306 0.0 0.0 ellipse lat 46.1837326 lon 13.7325721 obcina Tolmin hisna_st 5 ulica "Gregorčičeva ulica" node_type address cluster_id 1
+130 4708702307 0.0 0.0 ellipse lat 46.1838036 lon 13.7308606 obcina Tolmin hisna_st 8 ulica "Tumov drevored" node_type address cluster_id 1
 131 4708702308 0.0 0.0 ellipse lat 46.1833256 lon 13.7323871 obcina Tolmin hisna_st 1A ulica "Gregorčičeva ulica" node_type address cluster_id 1
-132 4708702309 0.0 0.0 ellipse lat 46.1835982 lon 13.732627 obcina Tolmin hisna_st 3 ulica "Gregorčičeva ulica" node_type address cluster_id 0
-133 4708702310 0.0 0.0 ellipse lat 46.1851646 lon 13.7310754 obcina Tolmin hisna_st 4 ulica "Brunov drevored" node_type address cluster_id 2
-134 4708702311 0.0 0.0 ellipse lat 46.1842427 lon 13.7315111 obcina Tolmin hisna_st 5 ulica "Brunov drevored" node_type address cluster_id 0
-135 4708702312 0.0 0.0 ellipse lat 46.1838188 lon 13.7322333 obcina Tolmin hisna_st 1 ulica "Brunov drevored" node_type address cluster_id 0
-136 4708702313 0.0 0.0 ellipse lat 46.1839584 lon 13.7318415 obcina Tolmin hisna_st 3 ulica "Brunov drevored" node_type address cluster_id 0
-137 4708702314 0.0 0.0 ellipse lat 46.1841043 lon 13.7312034 obcina Tolmin hisna_st 7 ulica "Brunov drevored" node_type address cluster_id 0
-138 4708702315 0.0 0.0 ellipse lat 46.18496 lon 13.7312874 obcina Tolmin hisna_st 2 ulica "Brunov drevored" node_type address cluster_id 2
-139 4708702316 0.0 0.0 ellipse lat 46.1840239 lon 13.7312571 obcina Tolmin hisna_st 5A ulica "Brunov drevored" node_type address cluster_id 0
-140 4708702317 0.0 0.0 ellipse lat 46.1844799 lon 13.7310005 obcina Tolmin hisna_st 11B ulica "Brunov drevored" node_type address cluster_id 2
-141 4708702318 0.0 0.0 ellipse lat 46.1848295 lon 13.7308758 obcina Tolmin hisna_st 13 ulica "Brunov drevored" node_type address cluster_id 2
-142 4708702319 0.0 0.0 ellipse lat 46.1853481 lon 13.731395 obcina Tolmin hisna_st 9 ulica "Gregorčičeva ulica" node_type address cluster_id 2
-143 4708702320 0.0 0.0 ellipse lat 46.1854154 lon 13.7317821 obcina Tolmin hisna_st 11 ulica "Gregorčičeva ulica" node_type address cluster_id 2
-144 4708702321 0.0 0.0 ellipse lat 46.1845354 lon 13.7311287 obcina Tolmin hisna_st 11A ulica "Brunov drevored" node_type address cluster_id 2
+132 4708702309 0.0 0.0 ellipse lat 46.1835982 lon 13.732627 obcina Tolmin hisna_st 3 ulica "Gregorčičeva ulica" node_type address cluster_id 1
+133 4708702310 0.0 0.0 ellipse lat 46.1851646 lon 13.7310754 obcina Tolmin hisna_st 4 ulica "Brunov drevored" node_type address cluster_id 1
+134 4708702311 0.0 0.0 ellipse lat 46.1842427 lon 13.7315111 obcina Tolmin hisna_st 5 ulica "Brunov drevored" node_type address cluster_id 1
+135 4708702312 0.0 0.0 ellipse lat 46.1838188 lon 13.7322333 obcina Tolmin hisna_st 1 ulica "Brunov drevored" node_type address cluster_id 1
+136 4708702313 0.0 0.0 ellipse lat 46.1839584 lon 13.7318415 obcina Tolmin hisna_st 3 ulica "Brunov drevored" node_type address cluster_id 1
+137 4708702314 0.0 0.0 ellipse lat 46.1841043 lon 13.7312034 obcina Tolmin hisna_st 7 ulica "Brunov drevored" node_type address cluster_id 1
+138 4708702315 0.0 0.0 ellipse lat 46.18496 lon 13.7312874 obcina Tolmin hisna_st 2 ulica "Brunov drevored" node_type address cluster_id 1
+139 4708702316 0.0 0.0 ellipse lat 46.1840239 lon 13.7312571 obcina Tolmin hisna_st 5A ulica "Brunov drevored" node_type address cluster_id 1
+140 4708702317 0.0 0.0 ellipse lat 46.1844799 lon 13.7310005 obcina Tolmin hisna_st 11B ulica "Brunov drevored" node_type address cluster_id 1
+141 4708702318 0.0 0.0 ellipse lat 46.1848295 lon 13.7308758 obcina Tolmin hisna_st 13 ulica "Brunov drevored" node_type address cluster_id 1
+142 4708702319 0.0 0.0 ellipse lat 46.1853481 lon 13.731395 obcina Tolmin hisna_st 9 ulica "Gregorčičeva ulica" node_type address cluster_id 1
+143 4708702320 0.0 0.0 ellipse lat 46.1854154 lon 13.7317821 obcina Tolmin hisna_st 11 ulica "Gregorčičeva ulica" node_type address cluster_id 1
+144 4708702321 0.0 0.0 ellipse lat 46.1845354 lon 13.7311287 obcina Tolmin hisna_st 11A ulica "Brunov drevored" node_type address cluster_id 1
 145 4708702322 0.0 0.0 ellipse lat 46.1833568 lon 13.7327621 obcina Tolmin hisna_st 1 ulica "Gregorčičeva ulica" node_type address cluster_id 1
-146 4708702323 0.0 0.0 ellipse lat 46.1847448 lon 13.730541 obcina Tolmin hisna_st 15 ulica "Brunov drevored" node_type address cluster_id 2
-147 4708702324 0.0 0.0 ellipse lat 46.1850074 lon 13.7306904 obcina Tolmin hisna_st 17 ulica "Brunov drevored" node_type address cluster_id 2
+146 4708702323 0.0 0.0 ellipse lat 46.1847448 lon 13.730541 obcina Tolmin hisna_st 15 ulica "Brunov drevored" node_type address cluster_id 1
+147 4708702324 0.0 0.0 ellipse lat 46.1850074 lon 13.7306904 obcina Tolmin hisna_st 17 ulica "Brunov drevored" node_type address cluster_id 1
 148 4708705289 0.0 0.0 ellipse lat 46.1819151 lon 13.7358263 obcina Tolmin hisna_st 2 ulica Klanec node_type address cluster_id 0
-149 4708705290 0.0 0.0 ellipse lat 46.1824479 lon 13.7351923 obcina Tolmin hisna_st 5 ulica "Rutarjeva ulica" node_type address cluster_id 1
-150 4708705291 0.0 0.0 ellipse lat 46.1824196 lon 13.7350764 obcina Tolmin hisna_st 3 ulica "Rutarjeva ulica" node_type address cluster_id 1
+149 4708705290 0.0 0.0 ellipse lat 46.1824479 lon 13.7351923 obcina Tolmin hisna_st 5 ulica "Rutarjeva ulica" node_type address cluster_id 0
+150 4708705291 0.0 0.0 ellipse lat 46.1824196 lon 13.7350764 obcina Tolmin hisna_st 3 ulica "Rutarjeva ulica" node_type address cluster_id 0
 151 4708705292 0.0 0.0 ellipse lat 46.1824174 lon 13.7356852 obcina Tolmin hisna_st 1 ulica Klanec node_type address cluster_id 0
-152 4708705293 0.0 0.0 ellipse lat 46.1826123 lon 13.7354088 obcina Tolmin hisna_st 9 ulica "Rutarjeva ulica" node_type address cluster_id 1
+152 4708705293 0.0 0.0 ellipse lat 46.1826123 lon 13.7354088 obcina Tolmin hisna_st 9 ulica "Rutarjeva ulica" node_type address cluster_id 0
 153 4708705294 0.0 0.0 ellipse lat 46.1826692 lon 13.7356795 obcina Tolmin hisna_st 10 ulica "Rutarjeva ulica" node_type address cluster_id 0
 154 4708705295 0.0 0.0 ellipse lat 46.1825432 lon 13.7356694 obcina Tolmin hisna_st 8 ulica "Rutarjeva ulica" node_type address cluster_id 0
 155 4742988389 0.0 0.0 ellipse lat 46.1830388 lon 13.737368 obcina Tolmin hisna_st 6 ulica "Lavričeva ulica" node_type address cluster_id 0
@@ -166,97 +166,97 @@
 165 4742988399 0.0 0.0 ellipse lat 46.1830599 lon 13.7360203 obcina Tolmin hisna_st 10C ulica "Rutarjeva ulica" node_type address cluster_id 0
 166 4742988400 0.0 0.0 ellipse lat 46.1836428 lon 13.7366546 obcina Tolmin hisna_st 12 ulica "Rutarjeva ulica" node_type address cluster_id 0
 167 4742988401 0.0 0.0 ellipse lat 46.1834967 lon 13.7364637 obcina Tolmin hisna_st 2 ulica Podbreg node_type address cluster_id 0
-168 4742988402 0.0 0.0 ellipse lat 46.1834642 lon 13.7351561 obcina Tolmin hisna_st 7 ulica "Ulica Simona Kosa" node_type address cluster_id 0
+168 4742988402 0.0 0.0 ellipse lat 46.1834642 lon 13.7351561 obcina Tolmin hisna_st 7 ulica "Ulica Simona Kosa" node_type address cluster_id 2
 169 4742988403 0.0 0.0 ellipse lat 46.183746 lon 13.7362248 obcina Tolmin hisna_st 25 ulica "Rutarjeva ulica" node_type address cluster_id 0
 170 4742988404 0.0 0.0 ellipse lat 46.1839763 lon 13.7367118 obcina Tolmin hisna_st 31 ulica "Rutarjeva ulica" node_type address cluster_id 0
-171 4742988405 0.0 0.0 ellipse lat 46.1838875 lon 13.7351852 obcina Tolmin hisna_st 3 ulica "Ulica Simona Kosa" node_type address cluster_id 0
+171 4742988405 0.0 0.0 ellipse lat 46.1838875 lon 13.7351852 obcina Tolmin hisna_st 3 ulica "Ulica Simona Kosa" node_type address cluster_id 2
 172 4742988406 0.0 0.0 ellipse lat 46.1838683 lon 13.7358981 obcina Tolmin hisna_st 14 ulica "Bazoviška ulica" node_type address cluster_id 0
 173 4742988407 0.0 0.0 ellipse lat 46.1837016 lon 13.7362776 obcina Tolmin hisna_st 27 ulica "Rutarjeva ulica" node_type address cluster_id 0
-174 4742988408 0.0 0.0 ellipse lat 46.184113 lon 13.7344287 obcina Tolmin hisna_st 6 ulica "Prešernova ulica" node_type address cluster_id 0
-175 4742988409 0.0 0.0 ellipse lat 46.1836714 lon 13.7351772 obcina Tolmin hisna_st 5 ulica "Ulica Simona Kosa" node_type address cluster_id 0
+174 4742988408 0.0 0.0 ellipse lat 46.184113 lon 13.7344287 obcina Tolmin hisna_st 6 ulica "Prešernova ulica" node_type address cluster_id 2
+175 4742988409 0.0 0.0 ellipse lat 46.1836714 lon 13.7351772 obcina Tolmin hisna_st 5 ulica "Ulica Simona Kosa" node_type address cluster_id 2
 176 4742988410 0.0 0.0 ellipse lat 46.1837243 lon 13.7358885 obcina Tolmin hisna_st 12 ulica "Bazoviška ulica" node_type address cluster_id 0
 177 4742988411 0.0 0.0 ellipse lat 46.1835521 lon 13.7357758 obcina Tolmin hisna_st 10 ulica "Bazoviška ulica" node_type address cluster_id 0
-178 4742988412 0.0 0.0 ellipse lat 46.1837564 lon 13.7347219 obcina Tolmin hisna_st 6A ulica "Prešernova ulica" node_type address cluster_id 0
+178 4742988412 0.0 0.0 ellipse lat 46.1837564 lon 13.7347219 obcina Tolmin hisna_st 6A ulica "Prešernova ulica" node_type address cluster_id 2
 179 4742988413 0.0 0.0 ellipse lat 46.1841169 lon 13.7355945 obcina Tolmin hisna_st 13 ulica "Bazoviška ulica" node_type address cluster_id 0
 180 4742988414 0.0 0.0 ellipse lat 46.1834169 lon 13.735753 obcina Tolmin hisna_st 8 ulica "Bazoviška ulica" node_type address cluster_id 0
-181 4742988415 0.0 0.0 ellipse lat 46.1841396 lon 13.7352054 obcina Tolmin hisna_st 1 ulica "Ulica Simona Kosa" node_type address cluster_id 0
+181 4742988415 0.0 0.0 ellipse lat 46.1841396 lon 13.7352054 obcina Tolmin hisna_st 1 ulica "Ulica Simona Kosa" node_type address cluster_id 2
 182 4742988416 0.0 0.0 ellipse lat 46.1833173 lon 13.7357035 obcina Tolmin hisna_st 19 ulica "Rutarjeva ulica" node_type address cluster_id 0
 183 4742988417 0.0 0.0 ellipse lat 46.1836753 lon 13.7355269 obcina Tolmin hisna_st 9 ulica "Bazoviška ulica" node_type address cluster_id 0
 184 4742988418 0.0 0.0 ellipse lat 46.1833422 lon 13.7355086 obcina Tolmin hisna_st 5 ulica "Bazoviška ulica" node_type address cluster_id 0
-185 4742988419 0.0 0.0 ellipse lat 46.1834157 lon 13.7348333 obcina Tolmin hisna_st 13 ulica "Trg maršala Tita" node_type address cluster_id 0
+185 4742988419 0.0 0.0 ellipse lat 46.1834157 lon 13.7348333 obcina Tolmin hisna_st 13 ulica "Trg maršala Tita" node_type address cluster_id 2
 186 4742988420 0.0 0.0 ellipse lat 46.1838826 lon 13.735561 obcina Tolmin hisna_st 11 ulica "Bazoviška ulica" node_type address cluster_id 0
 187 4742989021 0.0 0.0 ellipse lat 46.1834901 lon 13.7358679 obcina Tolmin hisna_st 21 ulica "Rutarjeva ulica" node_type address cluster_id 0
 188 4742989022 0.0 0.0 ellipse lat 46.1835042 lon 13.7355179 obcina Tolmin hisna_st 7 ulica "Bazoviška ulica" node_type address cluster_id 0
 189 4742989023 0.0 0.0 ellipse lat 46.1841796 lon 13.7363833 obcina Tolmin hisna_st 31A ulica "Rutarjeva ulica" node_type address cluster_id 0
 190 4742989024 0.0 0.0 ellipse lat 46.1838292 lon 13.7364301 obcina Tolmin hisna_st 29 ulica "Rutarjeva ulica" node_type address cluster_id 0
-191 4784106436 0.0 0.0 ellipse lat 46.1819003 lon 13.7328603 obcina Tolmin hisna_st 2C ulica "Ulica Petra Skalarja" node_type address cluster_id 1
-192 4784106437 0.0 0.0 ellipse lat 46.1818212 lon 13.7330305 obcina Tolmin hisna_st 2A ulica "Ulica Petra Skalarja" node_type address cluster_id 1
-193 4784106438 0.0 0.0 ellipse lat 46.1824545 lon 13.7325367 obcina Tolmin hisna_st 6A ulica "Mestni trg" node_type address cluster_id 1
-194 4784106439 0.0 0.0 ellipse lat 46.1819217 lon 13.7331707 obcina Tolmin hisna_st 2B ulica "Ulica Petra Skalarja" node_type address cluster_id 1
-195 4784106440 0.0 0.0 ellipse lat 46.1819343 lon 13.7334942 obcina Tolmin hisna_st 4 ulica "Ulica Petra Skalarja" node_type address cluster_id 1
-196 4784106441 0.0 0.0 ellipse lat 46.1816941 lon 13.7337458 obcina Tolmin hisna_st 4 ulica "Dijaška ulica" node_type address cluster_id 1
-197 4784106442 0.0 0.0 ellipse lat 46.1821029 lon 13.7332831 obcina Tolmin hisna_st 2 ulica "Ulica Petra Skalarja" node_type address cluster_id 1
-198 4784106443 0.0 0.0 ellipse lat 46.1825278 lon 13.7326516 obcina Tolmin hisna_st 6 ulica "Mestni trg" node_type address cluster_id 1
-199 4784106444 0.0 0.0 ellipse lat 46.1821672 lon 13.7325951 obcina Tolmin hisna_st 4 ulica "Mestni trg" node_type address cluster_id 1
-200 4784106445 0.0 0.0 ellipse lat 46.1817167 lon 13.7333438 obcina Tolmin hisna_st 6C ulica "Dijaška ulica" node_type address cluster_id 1
-201 4784106446 0.0 0.0 ellipse lat 46.1822268 lon 13.7330989 obcina Tolmin hisna_st 3 ulica "Mestni trg" node_type address cluster_id 1
-202 4784106447 0.0 0.0 ellipse lat 46.182271 lon 13.7322171 obcina Tolmin hisna_st 5 ulica "Mestni trg" node_type address cluster_id 1
-203 4784106448 0.0 0.0 ellipse lat 46.1820752 lon 13.733219 obcina Tolmin hisna_st 2D ulica "Ulica Petra Skalarja" node_type address cluster_id 1
-204 4784106449 0.0 0.0 ellipse lat 46.1818195 lon 13.7336912 obcina Tolmin hisna_st 2 ulica "Dijaška ulica" node_type address cluster_id 1
-205 4784106450 0.0 0.0 ellipse lat 46.1818546 lon 13.7336126 obcina Tolmin hisna_st 6 ulica "Ulica Petra Skalarja" node_type address cluster_id 1
-206 4784106994 0.0 0.0 ellipse lat 46.1856177 lon 13.7305598 obcina Tolmin hisna_st 6A ulica "Brunov drevored" node_type address cluster_id 2
-207 4784106995 0.0 0.0 ellipse lat 46.1859463 lon 13.7309797 obcina Tolmin hisna_st 4 ulica "Pregljev trg" node_type address cluster_id 2
-208 4784106996 0.0 0.0 ellipse lat 46.1862036 lon 13.7306499 obcina Tolmin hisna_st 8 ulica "Ulica Tolminskega punta" node_type address cluster_id 2
+191 4784106436 0.0 0.0 ellipse lat 46.1819003 lon 13.7328603 obcina Tolmin hisna_st 2C ulica "Ulica Petra Skalarja" node_type address cluster_id 0
+192 4784106437 0.0 0.0 ellipse lat 46.1818212 lon 13.7330305 obcina Tolmin hisna_st 2A ulica "Ulica Petra Skalarja" node_type address cluster_id 0
+193 4784106438 0.0 0.0 ellipse lat 46.1824545 lon 13.7325367 obcina Tolmin hisna_st 6A ulica "Mestni trg" node_type address cluster_id 0
+194 4784106439 0.0 0.0 ellipse lat 46.1819217 lon 13.7331707 obcina Tolmin hisna_st 2B ulica "Ulica Petra Skalarja" node_type address cluster_id 0
+195 4784106440 0.0 0.0 ellipse lat 46.1819343 lon 13.7334942 obcina Tolmin hisna_st 4 ulica "Ulica Petra Skalarja" node_type address cluster_id 0
+196 4784106441 0.0 0.0 ellipse lat 46.1816941 lon 13.7337458 obcina Tolmin hisna_st 4 ulica "Dijaška ulica" node_type address cluster_id 0
+197 4784106442 0.0 0.0 ellipse lat 46.1821029 lon 13.7332831 obcina Tolmin hisna_st 2 ulica "Ulica Petra Skalarja" node_type address cluster_id 0
+198 4784106443 0.0 0.0 ellipse lat 46.1825278 lon 13.7326516 obcina Tolmin hisna_st 6 ulica "Mestni trg" node_type address cluster_id 0
+199 4784106444 0.0 0.0 ellipse lat 46.1821672 lon 13.7325951 obcina Tolmin hisna_st 4 ulica "Mestni trg" node_type address cluster_id 0
+200 4784106445 0.0 0.0 ellipse lat 46.1817167 lon 13.7333438 obcina Tolmin hisna_st 6C ulica "Dijaška ulica" node_type address cluster_id 0
+201 4784106446 0.0 0.0 ellipse lat 46.1822268 lon 13.7330989 obcina Tolmin hisna_st 3 ulica "Mestni trg" node_type address cluster_id 0
+202 4784106447 0.0 0.0 ellipse lat 46.182271 lon 13.7322171 obcina Tolmin hisna_st 5 ulica "Mestni trg" node_type address cluster_id 0
+203 4784106448 0.0 0.0 ellipse lat 46.1820752 lon 13.733219 obcina Tolmin hisna_st 2D ulica "Ulica Petra Skalarja" node_type address cluster_id 0
+204 4784106449 0.0 0.0 ellipse lat 46.1818195 lon 13.7336912 obcina Tolmin hisna_st 2 ulica "Dijaška ulica" node_type address cluster_id 0
+205 4784106450 0.0 0.0 ellipse lat 46.1818546 lon 13.7336126 obcina Tolmin hisna_st 6 ulica "Ulica Petra Skalarja" node_type address cluster_id 0
+206 4784106994 0.0 0.0 ellipse lat 46.1856177 lon 13.7305598 obcina Tolmin hisna_st 6A ulica "Brunov drevored" node_type address cluster_id 1
+207 4784106995 0.0 0.0 ellipse lat 46.1859463 lon 13.7309797 obcina Tolmin hisna_st 4 ulica "Pregljev trg" node_type address cluster_id 1
+208 4784106996 0.0 0.0 ellipse lat 46.1862036 lon 13.7306499 obcina Tolmin hisna_st 8 ulica "Ulica Tolminskega punta" node_type address cluster_id 1
 209 4784106997 0.0 0.0 ellipse lat 46.1867937 lon 13.7311286 obcina Tolmin hisna_st 1 ulica "Triglavska ulica" node_type address cluster_id 3
-210 4784106998 0.0 0.0 ellipse lat 46.1867973 lon 13.7306363 obcina Tolmin hisna_st 9 ulica "Triglavska ulica" node_type address cluster_id 3
-211 4784106999 0.0 0.0 ellipse lat 46.1859444 lon 13.7316145 obcina Tolmin hisna_st 8 ulica "Pregljev trg" node_type address cluster_id 2
-212 4784107000 0.0 0.0 ellipse lat 46.1862038 lon 13.731479 obcina Tolmin hisna_st 7 ulica "Pregljev trg" node_type address cluster_id 2
-213 4784107001 0.0 0.0 ellipse lat 46.1855782 lon 13.7310529 obcina Tolmin hisna_st 1 ulica "Pregljev trg" node_type address cluster_id 2
-214 4784107002 0.0 0.0 ellipse lat 46.1861569 lon 13.7313117 obcina Tolmin hisna_st 6 ulica "Pregljev trg" node_type address cluster_id 2
+210 4784106998 0.0 0.0 ellipse lat 46.1867973 lon 13.7306363 obcina Tolmin hisna_st 9 ulica "Triglavska ulica" node_type address cluster_id 1
+211 4784106999 0.0 0.0 ellipse lat 46.1859444 lon 13.7316145 obcina Tolmin hisna_st 8 ulica "Pregljev trg" node_type address cluster_id 1
+212 4784107000 0.0 0.0 ellipse lat 46.1862038 lon 13.731479 obcina Tolmin hisna_st 7 ulica "Pregljev trg" node_type address cluster_id 1
+213 4784107001 0.0 0.0 ellipse lat 46.1855782 lon 13.7310529 obcina Tolmin hisna_st 1 ulica "Pregljev trg" node_type address cluster_id 1
+214 4784107002 0.0 0.0 ellipse lat 46.1861569 lon 13.7313117 obcina Tolmin hisna_st 6 ulica "Pregljev trg" node_type address cluster_id 1
 215 4784107003 0.0 0.0 ellipse lat 46.1868016 lon 13.7310248 obcina Tolmin hisna_st 3 ulica "Triglavska ulica" node_type address cluster_id 3
 216 4784107004 0.0 0.0 ellipse lat 46.1866247 lon 13.7313009 obcina Tolmin hisna_st 13B ulica "Gregorčičeva ulica" node_type address cluster_id 3
-217 4784107005 0.0 0.0 ellipse lat 46.1862263 lon 13.7302608 obcina Tolmin hisna_st 4 ulica "Ulica Tolminskega punta" node_type address cluster_id 2
-218 4784107006 0.0 0.0 ellipse lat 46.186668 lon 13.7303413 obcina Tolmin hisna_st 16 ulica "Ulica Tolminskega punta" node_type address cluster_id 3
-219 4784107007 0.0 0.0 ellipse lat 46.185458 lon 13.7307577 obcina Tolmin hisna_st 6 ulica "Brunov drevored" node_type address cluster_id 2
-220 4784107008 0.0 0.0 ellipse lat 46.1858639 lon 13.730852 obcina Tolmin hisna_st 3 ulica "Pregljev trg" node_type address cluster_id 2
+217 4784107005 0.0 0.0 ellipse lat 46.1862263 lon 13.7302608 obcina Tolmin hisna_st 4 ulica "Ulica Tolminskega punta" node_type address cluster_id 1
+218 4784107006 0.0 0.0 ellipse lat 46.186668 lon 13.7303413 obcina Tolmin hisna_st 16 ulica "Ulica Tolminskega punta" node_type address cluster_id 1
+219 4784107007 0.0 0.0 ellipse lat 46.185458 lon 13.7307577 obcina Tolmin hisna_st 6 ulica "Brunov drevored" node_type address cluster_id 1
+220 4784107008 0.0 0.0 ellipse lat 46.1858639 lon 13.730852 obcina Tolmin hisna_st 3 ulica "Pregljev trg" node_type address cluster_id 1
 221 4784107009 0.0 0.0 ellipse lat 46.1868086 lon 13.7308433 obcina Tolmin hisna_st 7 ulica "Triglavska ulica" node_type address cluster_id 3
-222 4784107010 0.0 0.0 ellipse lat 46.1868297 lon 13.7303117 obcina Tolmin hisna_st 11 ulica "Triglavska ulica" node_type address cluster_id 3
-223 4784107011 0.0 0.0 ellipse lat 46.1864999 lon 13.7305913 obcina Tolmin hisna_st 12 ulica "Ulica Tolminskega punta" node_type address cluster_id 2
-224 4784107012 0.0 0.0 ellipse lat 46.1859744 lon 13.7302666 obcina Tolmin hisna_st 2 ulica "Ulica Tolminskega punta" node_type address cluster_id 2
-225 4784107013 0.0 0.0 ellipse lat 46.1856666 lon 13.7309084 obcina Tolmin hisna_st 2 ulica "Pregljev trg" node_type address cluster_id 2
-226 4784107014 0.0 0.0 ellipse lat 46.1859688 lon 13.7305776 obcina Tolmin hisna_st 6 ulica "Ulica Tolminskega punta" node_type address cluster_id 2
+222 4784107010 0.0 0.0 ellipse lat 46.1868297 lon 13.7303117 obcina Tolmin hisna_st 11 ulica "Triglavska ulica" node_type address cluster_id 1
+223 4784107011 0.0 0.0 ellipse lat 46.1864999 lon 13.7305913 obcina Tolmin hisna_st 12 ulica "Ulica Tolminskega punta" node_type address cluster_id 1
+224 4784107012 0.0 0.0 ellipse lat 46.1859744 lon 13.7302666 obcina Tolmin hisna_st 2 ulica "Ulica Tolminskega punta" node_type address cluster_id 1
+225 4784107013 0.0 0.0 ellipse lat 46.1856666 lon 13.7309084 obcina Tolmin hisna_st 2 ulica "Pregljev trg" node_type address cluster_id 1
+226 4784107014 0.0 0.0 ellipse lat 46.1859688 lon 13.7305776 obcina Tolmin hisna_st 6 ulica "Ulica Tolminskega punta" node_type address cluster_id 1
 227 4784107015 0.0 0.0 ellipse lat 46.1864626 lon 13.7312917 obcina Tolmin hisna_st 13A ulica "Gregorčičeva ulica" node_type address cluster_id 3
 228 4784107016 0.0 0.0 ellipse lat 46.1868006 lon 13.7309341 obcina Tolmin hisna_st 5 ulica "Triglavska ulica" node_type address cluster_id 3
-229 4784107017 0.0 0.0 ellipse lat 46.1857685 lon 13.730362 obcina Tolmin hisna_st 8 ulica "Brunov drevored" node_type address cluster_id 2
-230 4784107018 0.0 0.0 ellipse lat 46.1860556 lon 13.7310938 obcina Tolmin hisna_st 5 ulica "Pregljev trg" node_type address cluster_id 2
+229 4784107017 0.0 0.0 ellipse lat 46.1857685 lon 13.730362 obcina Tolmin hisna_st 8 ulica "Brunov drevored" node_type address cluster_id 1
+230 4784107018 0.0 0.0 ellipse lat 46.1860556 lon 13.7310938 obcina Tolmin hisna_st 5 ulica "Pregljev trg" node_type address cluster_id 1
 231 4784107019 0.0 0.0 ellipse lat 46.1864993 lon 13.7313556 obcina Tolmin hisna_st 13 ulica "Gregorčičeva ulica" node_type address cluster_id 3
-232 4784107020 0.0 0.0 ellipse lat 46.186351 lon 13.7309574 obcina Tolmin hisna_st 10 ulica "Ulica Tolminskega punta" node_type address cluster_id 2
-233 4784107421 0.0 0.0 ellipse lat 46.1864521 lon 13.7303462 obcina Tolmin hisna_st 14 ulica "Ulica Tolminskega punta" node_type address cluster_id 2
-234 4784107422 0.0 0.0 ellipse lat 46.1858191 lon 13.7316822 obcina Tolmin hisna_st 9 ulica "Pregljev trg" node_type address cluster_id 2
-235 4847805546 0.0 0.0 ellipse lat 46.1843543 lon 13.7277907 obcina Tolmin hisna_st 10 ulica "Na logu" node_type address cluster_id 1
-236 4847805547 0.0 0.0 ellipse lat 46.1841108 lon 13.7285477 obcina Tolmin hisna_st 14A ulica "Na logu" node_type address cluster_id 1
-237 4847805548 0.0 0.0 ellipse lat 46.1839064 lon 13.7287726 obcina Tolmin hisna_st 14 ulica "Na logu" node_type address cluster_id 1
-238 4847805549 0.0 0.0 ellipse lat 46.1841338 lon 13.7281844 obcina Tolmin hisna_st 13 ulica "Na logu" node_type address cluster_id 1
-239 4847805550 0.0 0.0 ellipse lat 46.184434 lon 13.7276723 obcina Tolmin hisna_st 10A ulica "Na logu" node_type address cluster_id 1
-240 4847805551 0.0 0.0 ellipse lat 46.1855018 lon 13.7282177 obcina Tolmin hisna_st 21 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-241 4847805552 0.0 0.0 ellipse lat 46.1854235 lon 13.7284656 obcina Tolmin hisna_st 13 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-242 4847805553 0.0 0.0 ellipse lat 46.1854845 lon 13.7282829 obcina Tolmin hisna_st 19 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-243 4847805554 0.0 0.0 ellipse lat 46.1854492 lon 13.7283484 obcina Tolmin hisna_st 17 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-244 4847805555 0.0 0.0 ellipse lat 46.185432 lon 13.7284136 obcina Tolmin hisna_st 15 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-245 4847805556 0.0 0.0 ellipse lat 46.185528 lon 13.7281523 obcina Tolmin hisna_st 23 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-246 4847805557 0.0 0.0 ellipse lat 46.1856399 lon 13.7293156 obcina Tolmin hisna_st 6 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-247 4847805558 0.0 0.0 ellipse lat 46.1853379 lon 13.7288562 obcina Tolmin hisna_st 7 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-248 4847805559 0.0 0.0 ellipse lat 46.1853348 lon 13.7293874 obcina Tolmin hisna_st 1A ulica "Ulica Albina Rejca" node_type address cluster_id 2
-249 4847805560 0.0 0.0 ellipse lat 46.1856192 lon 13.72907 obcina Tolmin hisna_st 8 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-250 4847805561 0.0 0.0 ellipse lat 46.1853369 lon 13.7287656 obcina Tolmin hisna_st 9 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-251 4847805562 0.0 0.0 ellipse lat 46.185357 lon 13.7289594 obcina Tolmin hisna_st 5 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-252 4847805563 0.0 0.0 ellipse lat 46.1852754 lon 13.7297126 obcina Tolmin hisna_st 1B ulica "Ulica Albina Rejca" node_type address cluster_id 2
-253 4847805564 0.0 0.0 ellipse lat 46.1851791 lon 13.729948 obcina Tolmin hisna_st 21 ulica "Brunov drevored" node_type address cluster_id 2
-254 4847805565 0.0 0.0 ellipse lat 46.1858339 lon 13.7297646 obcina Tolmin hisna_st 25 ulica "Brunov drevored" node_type address cluster_id 2
-255 4847805566 0.0 0.0 ellipse lat 46.1853266 lon 13.7286492 obcina Tolmin hisna_st 11 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-256 4847805567 0.0 0.0 ellipse lat 46.1856071 lon 13.7296014 obcina Tolmin hisna_st 6A ulica "Ulica Albina Rejca" node_type address cluster_id 2
-257 4847805568 0.0 0.0 ellipse lat 46.1853591 lon 13.7291407 obcina Tolmin hisna_st 1 ulica "Ulica Albina Rejca" node_type address cluster_id 2
-258 4847805569 0.0 0.0 ellipse lat 46.185367 lon 13.7290499 obcina Tolmin hisna_st 3 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+232 4784107020 0.0 0.0 ellipse lat 46.186351 lon 13.7309574 obcina Tolmin hisna_st 10 ulica "Ulica Tolminskega punta" node_type address cluster_id 1
+233 4784107421 0.0 0.0 ellipse lat 46.1864521 lon 13.7303462 obcina Tolmin hisna_st 14 ulica "Ulica Tolminskega punta" node_type address cluster_id 1
+234 4784107422 0.0 0.0 ellipse lat 46.1858191 lon 13.7316822 obcina Tolmin hisna_st 9 ulica "Pregljev trg" node_type address cluster_id 1
+235 4847805546 0.0 0.0 ellipse lat 46.1843543 lon 13.7277907 obcina Tolmin hisna_st 10 ulica "Na logu" node_type address cluster_id 0
+236 4847805547 0.0 0.0 ellipse lat 46.1841108 lon 13.7285477 obcina Tolmin hisna_st 14A ulica "Na logu" node_type address cluster_id 0
+237 4847805548 0.0 0.0 ellipse lat 46.1839064 lon 13.7287726 obcina Tolmin hisna_st 14 ulica "Na logu" node_type address cluster_id 0
+238 4847805549 0.0 0.0 ellipse lat 46.1841338 lon 13.7281844 obcina Tolmin hisna_st 13 ulica "Na logu" node_type address cluster_id 0
+239 4847805550 0.0 0.0 ellipse lat 46.184434 lon 13.7276723 obcina Tolmin hisna_st 10A ulica "Na logu" node_type address cluster_id 0
+240 4847805551 0.0 0.0 ellipse lat 46.1855018 lon 13.7282177 obcina Tolmin hisna_st 21 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+241 4847805552 0.0 0.0 ellipse lat 46.1854235 lon 13.7284656 obcina Tolmin hisna_st 13 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+242 4847805553 0.0 0.0 ellipse lat 46.1854845 lon 13.7282829 obcina Tolmin hisna_st 19 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+243 4847805554 0.0 0.0 ellipse lat 46.1854492 lon 13.7283484 obcina Tolmin hisna_st 17 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+244 4847805555 0.0 0.0 ellipse lat 46.185432 lon 13.7284136 obcina Tolmin hisna_st 15 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+245 4847805556 0.0 0.0 ellipse lat 46.185528 lon 13.7281523 obcina Tolmin hisna_st 23 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+246 4847805557 0.0 0.0 ellipse lat 46.1856399 lon 13.7293156 obcina Tolmin hisna_st 6 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+247 4847805558 0.0 0.0 ellipse lat 46.1853379 lon 13.7288562 obcina Tolmin hisna_st 7 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+248 4847805559 0.0 0.0 ellipse lat 46.1853348 lon 13.7293874 obcina Tolmin hisna_st 1A ulica "Ulica Albina Rejca" node_type address cluster_id 1
+249 4847805560 0.0 0.0 ellipse lat 46.1856192 lon 13.72907 obcina Tolmin hisna_st 8 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+250 4847805561 0.0 0.0 ellipse lat 46.1853369 lon 13.7287656 obcina Tolmin hisna_st 9 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+251 4847805562 0.0 0.0 ellipse lat 46.185357 lon 13.7289594 obcina Tolmin hisna_st 5 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+252 4847805563 0.0 0.0 ellipse lat 46.1852754 lon 13.7297126 obcina Tolmin hisna_st 1B ulica "Ulica Albina Rejca" node_type address cluster_id 1
+253 4847805564 0.0 0.0 ellipse lat 46.1851791 lon 13.729948 obcina Tolmin hisna_st 21 ulica "Brunov drevored" node_type address cluster_id 1
+254 4847805565 0.0 0.0 ellipse lat 46.1858339 lon 13.7297646 obcina Tolmin hisna_st 25 ulica "Brunov drevored" node_type address cluster_id 1
+255 4847805566 0.0 0.0 ellipse lat 46.1853266 lon 13.7286492 obcina Tolmin hisna_st 11 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+256 4847805567 0.0 0.0 ellipse lat 46.1856071 lon 13.7296014 obcina Tolmin hisna_st 6A ulica "Ulica Albina Rejca" node_type address cluster_id 1
+257 4847805568 0.0 0.0 ellipse lat 46.1853591 lon 13.7291407 obcina Tolmin hisna_st 1 ulica "Ulica Albina Rejca" node_type address cluster_id 1
+258 4847805569 0.0 0.0 ellipse lat 46.185367 lon 13.7290499 obcina Tolmin hisna_st 3 ulica "Ulica Albina Rejca" node_type address cluster_id 1
 259 4847805570 0.0 0.0 ellipse lat 46.1874849 lon 13.7326025 obcina Tolmin hisna_st 8 ulica "Bevkova ulica" node_type address cluster_id 3
 260 4847805571 0.0 0.0 ellipse lat 46.1874807 lon 13.7314108 obcina Tolmin hisna_st 26 ulica "Gregorčičeva ulica" node_type address cluster_id 3
 261 4847805572 0.0 0.0 ellipse lat 46.1876908 lon 13.7325071 obcina Tolmin hisna_st 4 ulica "Bevkova ulica" node_type address cluster_id 3
@@ -311,70 +311,70 @@
 310 4847805722 0.0 0.0 ellipse lat 46.1892961 lon 13.7312265 obcina Tolmin hisna_st 2 ulica "Ulica Cirila Kosmača" node_type address cluster_id 3
 311 4847805723 0.0 0.0 ellipse lat 46.1899283 lon 13.730629 obcina Tolmin hisna_st 22 ulica "Pod gradom" node_type address cluster_id 3
 312 6140655846 0.0 0.0 ellipse lat 46.1838462 lon 13.7370362 obcina Tolmin hisna_st 14 ulica "Rutarjeva ulica" node_type address cluster_id 0
-313 7385735408 0.0 0.0 ellipse lat 46.183857 lon 13.7347124 obcina Tolmin hisna_st 6a ulica "Prešernova ulica" node_type address cluster_id 0
-314 7883478285 0.0 0.0 ellipse lat 46.1821081 lon 13.7323472 obcina Tolmin hisna_st 5 ulica "Mestni trg" node_type address cluster_id 1
-315 8082620407 0.0 0.0 ellipse lat 46.1828629 lon 13.7309777 obcina Tolmin hisna_st 7 ulica "Tumov drevored" node_type address cluster_id 1
-316 8082620408 0.0 0.0 ellipse lat 46.1831303 lon 13.7308206 obcina Tolmin hisna_st 11 ulica "Tumov drevored" node_type address cluster_id 0
-317 8082620409 0.0 0.0 ellipse lat 46.1829128 lon 13.7306911 obcina Tolmin hisna_st 9 ulica "Tumov drevored" node_type address cluster_id 0
-318 8082620410 0.0 0.0 ellipse lat 46.1826571 lon 13.7307845 obcina Tolmin hisna_st 5 ulica "Tumov drevored" node_type address cluster_id 1
-319 8082620411 0.0 0.0 ellipse lat 46.1825234 lon 13.7312706 obcina Tolmin hisna_st 3 ulica "Tumov drevored" node_type address cluster_id 1
-320 8082620412 0.0 0.0 ellipse lat 46.182419 lon 13.7310286 obcina Tolmin hisna_st 1 ulica "Tumov drevored" node_type address cluster_id 1
-321 8082620413 0.0 0.0 ellipse lat 46.1825704 lon 13.7314914 obcina Tolmin hisna_st 2 ulica "Tumov drevored" node_type address cluster_id 1
-322 8196072988 0.0 0.0 ellipse lat 46.1825979 lon 13.7333239 obcina Tolmin hisna_st 1 ulica "Mestni trg" node_type address cluster_id 1
-323 8610878285 0.0 0.0 ellipse lat 46.1812037 lon 13.73443 obcina Tolmin hisna_st 3 ulica "Dijaška ulica" node_type address cluster_id 1
-324 8614936091 0.0 0.0 ellipse lat 46.1812224 lon 13.7344358 obcina Tolmin hisna_st 3 ulica "Dijaška ulica" node_type address cluster_id 1
-325 3011155692 0.0 0.0 ellipse lat 46.1836212 lon 13.7286033 node_type crossroad cluster_id 1
-326 3011155696 0.0 0.0 ellipse lat 46.1839211 lon 13.7282405 node_type crossroad cluster_id 1
-327 3011155700 0.0 0.0 ellipse lat 46.1842006 lon 13.7275828 node_type crossroad cluster_id 1
-328 4598504978 0.0 0.0 ellipse lat 46.185645 lon 13.7274332 node_type crossroad cluster_id 2
-329 282173992 0.0 0.0 ellipse lat 46.1819287 lon 13.7337098 node_type crossroad cluster_id 1
-330 282173994 0.0 0.0 ellipse lat 46.1815409 lon 13.7340607 node_type crossroad cluster_id 1
-331 875788203 0.0 0.0 ellipse lat 46.182483 lon 13.7317755 node_type crossroad cluster_id 1
-332 875822762 0.0 0.0 ellipse lat 46.1818893 lon 13.7322931 node_type crossroad cluster_id 1
-333 6750285836 0.0 0.0 ellipse lat 46.1820141 lon 13.7321772 node_type crossroad cluster_id 1
-334 294191491 0.0 0.0 ellipse lat 46.1842883 lon 13.7341114 node_type crossroad cluster_id 0
-335 294191487 0.0 0.0 ellipse lat 46.1840783 lon 13.7326714 node_type crossroad cluster_id 0
+313 7385735408 0.0 0.0 ellipse lat 46.183857 lon 13.7347124 obcina Tolmin hisna_st 6a ulica "Prešernova ulica" node_type address cluster_id 2
+314 7883478285 0.0 0.0 ellipse lat 46.1821081 lon 13.7323472 obcina Tolmin hisna_st 5 ulica "Mestni trg" node_type address cluster_id 0
+315 8082620407 0.0 0.0 ellipse lat 46.1828629 lon 13.7309777 obcina Tolmin hisna_st 7 ulica "Tumov drevored" node_type address cluster_id 0
+316 8082620408 0.0 0.0 ellipse lat 46.1831303 lon 13.7308206 obcina Tolmin hisna_st 11 ulica "Tumov drevored" node_type address cluster_id 1
+317 8082620409 0.0 0.0 ellipse lat 46.1829128 lon 13.7306911 obcina Tolmin hisna_st 9 ulica "Tumov drevored" node_type address cluster_id 1
+318 8082620410 0.0 0.0 ellipse lat 46.1826571 lon 13.7307845 obcina Tolmin hisna_st 5 ulica "Tumov drevored" node_type address cluster_id 0
+319 8082620411 0.0 0.0 ellipse lat 46.1825234 lon 13.7312706 obcina Tolmin hisna_st 3 ulica "Tumov drevored" node_type address cluster_id 0
+320 8082620412 0.0 0.0 ellipse lat 46.182419 lon 13.7310286 obcina Tolmin hisna_st 1 ulica "Tumov drevored" node_type address cluster_id 0
+321 8082620413 0.0 0.0 ellipse lat 46.1825704 lon 13.7314914 obcina Tolmin hisna_st 2 ulica "Tumov drevored" node_type address cluster_id 0
+322 8196072988 0.0 0.0 ellipse lat 46.1825979 lon 13.7333239 obcina Tolmin hisna_st 1 ulica "Mestni trg" node_type address cluster_id 0
+323 8610878285 0.0 0.0 ellipse lat 46.1812037 lon 13.73443 obcina Tolmin hisna_st 3 ulica "Dijaška ulica" node_type address cluster_id 0
+324 8614936091 0.0 0.0 ellipse lat 46.1812224 lon 13.7344358 obcina Tolmin hisna_st 3 ulica "Dijaška ulica" node_type address cluster_id 0
+325 3011155692 0.0 0.0 ellipse lat 46.1836212 lon 13.7286033 node_type crossroad cluster_id 0
+326 3011155696 0.0 0.0 ellipse lat 46.1839211 lon 13.7282405 node_type crossroad cluster_id 0
+327 3011155700 0.0 0.0 ellipse lat 46.1842006 lon 13.7275828 node_type crossroad cluster_id 0
+328 4598504978 0.0 0.0 ellipse lat 46.185645 lon 13.7274332 node_type crossroad cluster_id 1
+329 282173992 0.0 0.0 ellipse lat 46.1819287 lon 13.7337098 node_type crossroad cluster_id 0
+330 282173994 0.0 0.0 ellipse lat 46.1815409 lon 13.7340607 node_type crossroad cluster_id 0
+331 875788203 0.0 0.0 ellipse lat 46.182483 lon 13.7317755 node_type crossroad cluster_id 0
+332 875822762 0.0 0.0 ellipse lat 46.1818893 lon 13.7322931 node_type crossroad cluster_id 0
+333 6750285836 0.0 0.0 ellipse lat 46.1820141 lon 13.7321772 node_type crossroad cluster_id 0
+334 294191491 0.0 0.0 ellipse lat 46.1842883 lon 13.7341114 node_type crossroad cluster_id 2
+335 294191487 0.0 0.0 ellipse lat 46.1840783 lon 13.7326714 node_type crossroad cluster_id 1
 336 1865141950 0.0 0.0 ellipse lat 46.1843447 lon 13.7358428 node_type crossroad cluster_id 0
-337 7827739422 0.0 0.0 ellipse lat 46.1843052 lon 13.7351436 node_type crossroad cluster_id 0
-338 7827739423 0.0 0.0 ellipse lat 46.1843031 lon 13.7350258 node_type crossroad cluster_id 0
-339 3011155644 0.0 0.0 ellipse lat 46.1849259 lon 13.7339865 node_type crossroad cluster_id 0
-340 3011155646 0.0 0.0 ellipse lat 46.1855783 lon 13.7338503 node_type crossroad cluster_id 0
-341 610827708 0.0 0.0 ellipse lat 46.1858636 lon 13.7327926 node_type crossroad cluster_id 2
-342 610827710 0.0 0.0 ellipse lat 46.1857197 lon 13.7319654 node_type crossroad cluster_id 2
-343 3011155649 0.0 0.0 ellipse lat 46.1858784 lon 13.7328924 node_type crossroad cluster_id 2
+337 7827739422 0.0 0.0 ellipse lat 46.1843052 lon 13.7351436 node_type crossroad cluster_id 2
+338 7827739423 0.0 0.0 ellipse lat 46.1843031 lon 13.7350258 node_type crossroad cluster_id 2
+339 3011155644 0.0 0.0 ellipse lat 46.1849259 lon 13.7339865 node_type crossroad cluster_id 2
+340 3011155646 0.0 0.0 ellipse lat 46.1855783 lon 13.7338503 node_type crossroad cluster_id 2
+341 610827708 0.0 0.0 ellipse lat 46.1858636 lon 13.7327926 node_type crossroad cluster_id 1
+342 610827710 0.0 0.0 ellipse lat 46.1857197 lon 13.7319654 node_type crossroad cluster_id 1
+343 3011155649 0.0 0.0 ellipse lat 46.1858784 lon 13.7328924 node_type crossroad cluster_id 1
 344 7827739434 0.0 0.0 ellipse lat 46.1831856 lon 13.7329406 node_type crossroad cluster_id 1
-345 3011052492 0.0 0.0 ellipse lat 46.182308 lon 13.7332724 node_type crossroad cluster_id 1
-346 3011027562 0.0 0.0 ellipse lat 46.1823588 lon 13.7332431 node_type crossroad cluster_id 1
-347 872504491 0.0 0.0 ellipse lat 46.1850336 lon 13.7353482 node_type crossroad cluster_id 0
-348 1445113012 0.0 0.0 ellipse lat 46.1854709 lon 13.7357081 node_type crossroad cluster_id 0
-349 1445113013 0.0 0.0 ellipse lat 46.1855187 lon 13.7354113 node_type crossroad cluster_id 0
-350 3011155664 0.0 0.0 ellipse lat 46.1859419 lon 13.7345919 node_type crossroad cluster_id 0
-351 875785775 0.0 0.0 ellipse lat 46.1835622 lon 13.7307819 node_type crossroad cluster_id 0
-352 282173521 0.0 0.0 ellipse lat 46.1839716 lon 13.732247 node_type crossroad cluster_id 0
-353 1445113026 0.0 0.0 ellipse lat 46.1864597 lon 13.7337092 node_type crossroad cluster_id 0
-354 282173525 0.0 0.0 ellipse lat 46.1853047 lon 13.7307221 node_type crossroad cluster_id 2
-355 3011155703 0.0 0.0 ellipse lat 46.184664 lon 13.7302365 node_type crossroad cluster_id 2
-356 262248003 0.0 0.0 ellipse lat 46.1822096 lon 13.731102 node_type crossroad cluster_id 1
+345 3011052492 0.0 0.0 ellipse lat 46.182308 lon 13.7332724 node_type crossroad cluster_id 0
+346 3011027562 0.0 0.0 ellipse lat 46.1823588 lon 13.7332431 node_type crossroad cluster_id 0
+347 872504491 0.0 0.0 ellipse lat 46.1850336 lon 13.7353482 node_type crossroad cluster_id 2
+348 1445113012 0.0 0.0 ellipse lat 46.1854709 lon 13.7357081 node_type crossroad cluster_id 2
+349 1445113013 0.0 0.0 ellipse lat 46.1855187 lon 13.7354113 node_type crossroad cluster_id 2
+350 3011155664 0.0 0.0 ellipse lat 46.1859419 lon 13.7345919 node_type crossroad cluster_id 2
+351 875785775 0.0 0.0 ellipse lat 46.1835622 lon 13.7307819 node_type crossroad cluster_id 1
+352 282173521 0.0 0.0 ellipse lat 46.1839716 lon 13.732247 node_type crossroad cluster_id 1
+353 1445113026 0.0 0.0 ellipse lat 46.1864597 lon 13.7337092 node_type crossroad cluster_id 2
+354 282173525 0.0 0.0 ellipse lat 46.1853047 lon 13.7307221 node_type crossroad cluster_id 1
+355 3011155703 0.0 0.0 ellipse lat 46.184664 lon 13.7302365 node_type crossroad cluster_id 1
+356 262248003 0.0 0.0 ellipse lat 46.1822096 lon 13.731102 node_type crossroad cluster_id 0
 357 3011027564 0.0 0.0 ellipse lat 46.1832927 lon 13.7329153 node_type crossroad cluster_id 1
-358 3011027571 0.0 0.0 ellipse lat 46.183545 lon 13.7350529 node_type crossroad cluster_id 0
-359 3011052490 0.0 0.0 ellipse lat 46.182062 lon 13.7342387 node_type crossroad cluster_id 1
+358 3011027571 0.0 0.0 ellipse lat 46.183545 lon 13.7350529 node_type crossroad cluster_id 2
+359 3011052490 0.0 0.0 ellipse lat 46.182062 lon 13.7342387 node_type crossroad cluster_id 0
 360 4551138639 0.0 0.0 ellipse lat 46.1827123 lon 13.7355626 node_type crossroad cluster_id 0
-361 1395031129 0.0 0.0 ellipse lat 46.1826777 lon 13.7323991 node_type crossroad cluster_id 1
-362 3011155643 0.0 0.0 ellipse lat 46.1846892 lon 13.732408 node_type crossroad cluster_id 0
-363 3011155648 0.0 0.0 ellipse lat 46.1847546 lon 13.7327687 node_type crossroad cluster_id 0
-364 3011155645 0.0 0.0 ellipse lat 46.1854006 lon 13.7321394 node_type crossroad cluster_id 2
+361 1395031129 0.0 0.0 ellipse lat 46.1826777 lon 13.7323991 node_type crossroad cluster_id 0
+362 3011155643 0.0 0.0 ellipse lat 46.1846892 lon 13.732408 node_type crossroad cluster_id 1
+363 3011155648 0.0 0.0 ellipse lat 46.1847546 lon 13.7327687 node_type crossroad cluster_id 2
+364 3011155645 0.0 0.0 ellipse lat 46.1854006 lon 13.7321394 node_type crossroad cluster_id 1
 365 3011155647 0.0 0.0 ellipse lat 46.185454 lon 13.7324446 node_type crossroad cluster_id 2
-366 3011155650 0.0 0.0 ellipse lat 46.1855319 lon 13.7329913 node_type crossroad cluster_id 0
+366 3011155650 0.0 0.0 ellipse lat 46.1855319 lon 13.7329913 node_type crossroad cluster_id 2
 367 1395031149 0.0 0.0 ellipse lat 46.1835091 lon 13.7361345 node_type crossroad cluster_id 0
 368 3011155669 0.0 0.0 ellipse lat 46.1836988 lon 13.7357353 node_type crossroad cluster_id 0
-369 610827773 0.0 0.0 ellipse lat 46.1825517 lon 13.7354935 node_type crossroad cluster_id 1
+369 610827773 0.0 0.0 ellipse lat 46.1825517 lon 13.7354935 node_type crossroad cluster_id 0
 370 3011155721 0.0 0.0 ellipse lat 46.1824992 lon 13.7355564 node_type crossroad cluster_id 0
 371 3011027539 0.0 0.0 ellipse lat 46.1819989 lon 13.7360301 node_type crossroad cluster_id 0
 372 262247998 0.0 0.0 ellipse lat 46.1831968 lon 13.7357349 node_type crossroad cluster_id 0
-373 1445113022 0.0 0.0 ellipse lat 46.1863304 lon 13.7301339 node_type crossroad cluster_id 2
+373 1445113022 0.0 0.0 ellipse lat 46.1863304 lon 13.7301339 node_type crossroad cluster_id 1
 374 1865141943 0.0 0.0 ellipse lat 46.1832848 lon 13.7356387 node_type crossroad cluster_id 0
-375 282173520 0.0 0.0 ellipse lat 46.183667 lon 13.7328142 node_type crossroad cluster_id 0
-376 8082655350 0.0 0.0 ellipse lat 46.1859187 lon 13.7345019 node_type crossroad cluster_id 0
+375 282173520 0.0 0.0 ellipse lat 46.183667 lon 13.7328142 node_type crossroad cluster_id 1
+376 8082655350 0.0 0.0 ellipse lat 46.1859187 lon 13.7345019 node_type crossroad cluster_id 2
 377 288865937 0.0 0.0 ellipse lat 46.1869389 lon 13.7313757 node_type crossroad cluster_id 3
 378 1445113048 0.0 0.0 ellipse lat 46.1874627 lon 13.7311551 node_type crossroad cluster_id 3
 379 1445113066 0.0 0.0 ellipse lat 46.1879246 lon 13.7309987 node_type crossroad cluster_id 3
@@ -382,11 +382,11 @@
 381 4064749890 0.0 0.0 ellipse lat 46.1890186 lon 13.7308902 node_type crossroad cluster_id 3
 382 4064749898 0.0 0.0 ellipse lat 46.1894186 lon 13.7309331 node_type crossroad cluster_id 3
 383 4598504985 0.0 0.0 ellipse lat 46.1872186 lon 13.7312532 node_type crossroad cluster_id 3
-384 875785842 0.0 0.0 ellipse lat 46.1860107 lon 13.7298473 node_type crossroad cluster_id 2
-385 1445113043 0.0 0.0 ellipse lat 46.187052 lon 13.7336706 node_type crossroad cluster_id 0
-386 3011155666 0.0 0.0 ellipse lat 46.1861308 lon 13.7337558 node_type crossroad cluster_id 0
-387 4405006391 0.0 0.0 ellipse lat 46.1868032 lon 13.7336988 node_type crossroad cluster_id 0
-388 1445113039 0.0 0.0 ellipse lat 46.186961 lon 13.7301516 node_type crossroad cluster_id 3
+384 875785842 0.0 0.0 ellipse lat 46.1860107 lon 13.7298473 node_type crossroad cluster_id 1
+385 1445113043 0.0 0.0 ellipse lat 46.187052 lon 13.7336706 node_type crossroad cluster_id 2
+386 3011155666 0.0 0.0 ellipse lat 46.1861308 lon 13.7337558 node_type crossroad cluster_id 2
+387 4405006391 0.0 0.0 ellipse lat 46.1868032 lon 13.7336988 node_type crossroad cluster_id 2
+388 1445113039 0.0 0.0 ellipse lat 46.186961 lon 13.7301516 node_type crossroad cluster_id 1
 389 4361522034 0.0 0.0 ellipse lat 46.1835634 lon 13.7371428 node_type crossroad cluster_id 0
 390 3011155724 0.0 0.0 ellipse lat 46.181848 lon 13.7364501 node_type crossroad cluster_id 0
 391 3011025629 0.0 0.0 ellipse lat 46.1838738 lon 13.7367569 node_type crossroad cluster_id 0
