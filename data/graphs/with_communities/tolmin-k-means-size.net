@@ -1,0 +1,1618 @@
+*vertices 403
+1 1988606077 0.0 0.0 ellipse lat 46.1830988 lon 13.7327103 obcina Tolmin hisna_st 7 ulica "Trg maršala Tita" node_type address cluster_id 3
+2 3011027540 0.0 0.0 ellipse lat 46.1834859 lon 13.7374456 obcina Tolmin hisna_st 1 ulica "Lavričeva ulica" node_type address cluster_id 1
+3 4219098464 0.0 0.0 ellipse lat 46.183593 lon 13.7386192 obcina Tolmin hisna_st 5a ulica "Vojkova ulica" node_type address cluster_id 1
+4 4308035384 0.0 0.0 ellipse lat 46.1824626 lon 13.7338123 obcina Tolmin hisna_st 3 ulica "Cankarjeva ulica" node_type address cluster_id 1
+5 4422317073 0.0 0.0 ellipse lat 46.1840155 lon 13.7319551 obcina Tolmin hisna_st 3 ulica "Brunov drevored" node_type address cluster_id 3
+6 4708681523 0.0 0.0 ellipse lat 46.185982 lon 13.7325723 obcina Tolmin hisna_st 1A ulica "Žagarjeva ulica" node_type address cluster_id 2
+7 4708681524 0.0 0.0 ellipse lat 46.1860496 lon 13.7321821 obcina Tolmin hisna_st 1 ulica "Žagarjeva ulica" node_type address cluster_id 2
+8 4708681525 0.0 0.0 ellipse lat 46.1863419 lon 13.732577 obcina Tolmin hisna_st 5 ulica "Žagarjeva ulica" node_type address cluster_id 2
+9 4708681526 0.0 0.0 ellipse lat 46.1866134 lon 13.7335294 obcina Tolmin hisna_st 5 ulica "Na hribih" node_type address cluster_id 3
+10 4708681527 0.0 0.0 ellipse lat 46.1868046 lon 13.7345484 obcina Tolmin hisna_st 34 ulica "Na hribih" node_type address cluster_id 2
+11 4708681528 0.0 0.0 ellipse lat 46.1866561 lon 13.7333211 obcina Tolmin hisna_st 7 ulica "Na hribih" node_type address cluster_id 2
+12 4708681529 0.0 0.0 ellipse lat 46.1869508 lon 13.7339362 obcina Tolmin hisna_st 38 ulica "Na hribih" node_type address cluster_id 2
+13 4708681530 0.0 0.0 ellipse lat 46.1878042 lon 13.7329968 obcina Tolmin hisna_st 32 ulica "Bevkova ulica" node_type address cluster_id 0
+14 4708681531 0.0 0.0 ellipse lat 46.186519 lon 13.7331299 obcina Tolmin hisna_st 3 ulica "Na hribih" node_type address cluster_id 2
+15 4708681532 0.0 0.0 ellipse lat 46.186953 lon 13.7325111 obcina Tolmin hisna_st 9 ulica "Žagarjeva ulica" node_type address cluster_id 0
+16 4708681533 0.0 0.0 ellipse lat 46.186375 lon 13.7339364 obcina Tolmin hisna_st 20 ulica "Na hribih" node_type address cluster_id 3
+17 4708681534 0.0 0.0 ellipse lat 46.1860703 lon 13.734047 obcina Tolmin hisna_st 2 ulica "Na hribih" node_type address cluster_id 2
+18 4708681535 0.0 0.0 ellipse lat 46.1863231 lon 13.7341319 obcina Tolmin hisna_st 22 ulica "Na hribih" node_type address cluster_id 2
+19 4708681536 0.0 0.0 ellipse lat 46.1865754 lon 13.7325327 obcina Tolmin hisna_st 7 ulica "Žagarjeva ulica" node_type address cluster_id 0
+20 4708681537 0.0 0.0 ellipse lat 46.1862104 lon 13.7345102 obcina Tolmin hisna_st 10 ulica "Na hribih" node_type address cluster_id 2
+21 4708681538 0.0 0.0 ellipse lat 46.1870071 lon 13.7341422 obcina Tolmin hisna_st 40 ulica "Na hribih" node_type address cluster_id 2
+22 4708681539 0.0 0.0 ellipse lat 46.1869912 lon 13.7335207 obcina Tolmin hisna_st 11 ulica "Na hribih" node_type address cluster_id 3
+23 4708681540 0.0 0.0 ellipse lat 46.1871504 lon 13.734087 obcina Tolmin hisna_st 42 ulica "Na hribih" node_type address cluster_id 2
+24 4708681541 0.0 0.0 ellipse lat 46.1868649 lon 13.7343009 obcina Tolmin hisna_st 36 ulica "Na hribih" node_type address cluster_id 3
+25 4708681542 0.0 0.0 ellipse lat 46.1863644 lon 13.7346103 obcina Tolmin hisna_st 14 ulica "Na hribih" node_type address cluster_id 2
+26 4708681543 0.0 0.0 ellipse lat 46.1872565 lon 13.7331001 obcina Tolmin hisna_st 18 ulica "Bevkova ulica" node_type address cluster_id 0
+27 4708681544 0.0 0.0 ellipse lat 46.1864685 lon 13.7342581 obcina Tolmin hisna_st 24 ulica "Na hribih" node_type address cluster_id 2
+28 4708681545 0.0 0.0 ellipse lat 46.186419 lon 13.7346609 obcina Tolmin hisna_st 16 ulica "Na hribih" node_type address cluster_id 2
+29 4708681546 0.0 0.0 ellipse lat 46.1872666 lon 13.7332035 obcina Tolmin hisna_st 20 ulica "Bevkova ulica" node_type address cluster_id 0
+30 4708681547 0.0 0.0 ellipse lat 46.1866137 lon 13.7343714 obcina Tolmin hisna_st 30 ulica "Na hribih" node_type address cluster_id 2
+31 4708681548 0.0 0.0 ellipse lat 46.1868097 lon 13.7333824 obcina Tolmin hisna_st 9 ulica "Na hribih" node_type address cluster_id 3
+32 4708681549 0.0 0.0 ellipse lat 46.1872553 lon 13.7329964 obcina Tolmin hisna_st 16 ulica "Bevkova ulica" node_type address cluster_id 0
+33 4708681550 0.0 0.0 ellipse lat 46.186208 lon 13.7334868 obcina Tolmin hisna_st 1 ulica "Na hribih" node_type address cluster_id 2
+34 4708681551 0.0 0.0 ellipse lat 46.1875433 lon 13.7330028 obcina Tolmin hisna_st 26 ulica "Bevkova ulica" node_type address cluster_id 0
+35 4708681552 0.0 0.0 ellipse lat 46.1876363 lon 13.7332727 obcina Tolmin hisna_st 30 ulica "Bevkova ulica" node_type address cluster_id 0
+36 4708681553 0.0 0.0 ellipse lat 46.1873132 lon 13.7333449 obcina Tolmin hisna_st 22 ulica "Bevkova ulica" node_type address cluster_id 3
+37 4708681554 0.0 0.0 ellipse lat 46.1861215 lon 13.7329836 obcina Tolmin hisna_st 3 ulica "Žagarjeva ulica" node_type address cluster_id 2
+38 4708681555 0.0 0.0 ellipse lat 46.1873503 lon 13.7334477 obcina Tolmin hisna_st 24 ulica "Bevkova ulica" node_type address cluster_id 3
+39 4708681556 0.0 0.0 ellipse lat 46.1861104 lon 13.7344218 obcina Tolmin hisna_st 8 ulica "Na hribih" node_type address cluster_id 2
+40 4708681557 0.0 0.0 ellipse lat 46.1862919 lon 13.7345601 obcina Tolmin hisna_st 12 ulica "Na hribih" node_type address cluster_id 2
+41 4708681558 0.0 0.0 ellipse lat 46.1875275 lon 13.7331975 obcina Tolmin hisna_st 28 ulica "Bevkova ulica" node_type address cluster_id 0
+42 4708681559 0.0 0.0 ellipse lat 46.1860914 lon 13.7343316 obcina Tolmin hisna_st 6 ulica "Na hribih" node_type address cluster_id 2
+43 4708681560 0.0 0.0 ellipse lat 46.1868763 lon 13.7320854 obcina Tolmin hisna_st 20 ulica "Gregorčičeva ulica" node_type address cluster_id 0
+44 4708681561 0.0 0.0 ellipse lat 46.186663 lon 13.7339428 obcina Tolmin hisna_st 26 ulica "Na hribih" node_type address cluster_id 3
+45 4708681562 0.0 0.0 ellipse lat 46.1865706 lon 13.7321053 obcina Tolmin hisna_st 18 ulica "Gregorčičeva ulica" node_type address cluster_id 0
+46 4708681563 0.0 0.0 ellipse lat 46.186629 lon 13.7341249 obcina Tolmin hisna_st 28 ulica "Na hribih" node_type address cluster_id 2
+47 4708681564 0.0 0.0 ellipse lat 46.1866884 lon 13.7346158 obcina Tolmin hisna_st 32 ulica "Na hribih" node_type address cluster_id 2
+48 4708681565 0.0 0.0 ellipse lat 46.1864915 lon 13.734711 obcina Tolmin hisna_st 18 ulica "Na hribih" node_type address cluster_id 2
+49 4708681566 0.0 0.0 ellipse lat 46.1870232 lon 13.7331572 obcina Tolmin hisna_st 11 ulica "Žagarjeva ulica" node_type address cluster_id 0
+50 4708681567 0.0 0.0 ellipse lat 46.1863447 lon 13.7320198 obcina Tolmin hisna_st 18A ulica "Gregorčičeva ulica" node_type address cluster_id 2
+51 4708681568 0.0 0.0 ellipse lat 46.1860451 lon 13.734216 obcina Tolmin hisna_st 4 ulica "Na hribih" node_type address cluster_id 2
+52 4708681569 0.0 0.0 ellipse lat 46.1868871 lon 13.7330567 obcina Tolmin hisna_st 13 ulica "Žagarjeva ulica" node_type address cluster_id 0
+53 4708695067 0.0 0.0 ellipse lat 46.1856473 lon 13.7324115 obcina Tolmin hisna_st 2 ulica "Žagarjeva ulica" node_type address cluster_id 2
+54 4708695068 0.0 0.0 ellipse lat 46.1851448 lon 13.7349751 obcina Tolmin hisna_st 3 ulica "Ulica prekomorskih brigad" node_type address cluster_id 1
+55 4708695069 0.0 0.0 ellipse lat 46.184266 lon 13.732806 obcina Tolmin hisna_st 8 ulica "Gregorčičeva ulica" node_type address cluster_id 3
+56 4708695070 0.0 0.0 ellipse lat 46.1856406 lon 13.732619 obcina Tolmin hisna_st 4 ulica "Žagarjeva ulica" node_type address cluster_id 2
+57 4708695071 0.0 0.0 ellipse lat 46.1851431 lon 13.7323843 obcina Tolmin hisna_st 14 ulica "Gregorčičeva ulica" node_type address cluster_id 2
+58 4708695072 0.0 0.0 ellipse lat 46.1857197 lon 13.7332649 obcina Tolmin hisna_st 6 ulica "Žagarjeva ulica" node_type address cluster_id 2
+59 4708695073 0.0 0.0 ellipse lat 46.1844943 lon 13.7347309 obcina Tolmin hisna_st 1 ulica "Ulica prekomorskih brigad" node_type address cluster_id 3
+60 4708695074 0.0 0.0 ellipse lat 46.1855952 lon 13.7342134 obcina Tolmin hisna_st 10 ulica "Žagarjeva ulica" node_type address cluster_id 3
+61 4708695075 0.0 0.0 ellipse lat 46.185314 lon 13.7323803 obcina Tolmin hisna_st 16 ulica "Gregorčičeva ulica" node_type address cluster_id 2
+62 4708695076 0.0 0.0 ellipse lat 46.185695 lon 13.7334727 obcina Tolmin hisna_st 8 ulica "Žagarjeva ulica" node_type address cluster_id 3
+63 4708695077 0.0 0.0 ellipse lat 46.1853377 lon 13.732898 obcina Tolmin hisna_st 7B ulica "Kosovelova ulica" node_type address cluster_id 2
+64 4708695078 0.0 0.0 ellipse lat 46.1854269 lon 13.7336343 obcina Tolmin hisna_st 7 ulica "Kosovelova ulica" node_type address cluster_id 3
+65 4708695079 0.0 0.0 ellipse lat 46.1853512 lon 13.7332992 obcina Tolmin hisna_st 7A ulica "Kosovelova ulica" node_type address cluster_id 2
+66 4708695080 0.0 0.0 ellipse lat 46.1843472 lon 13.7336332 obcina Tolmin hisna_st 3 ulica "Prešernova ulica" node_type address cluster_id 3
+67 4708695081 0.0 0.0 ellipse lat 46.1847675 lon 13.7342194 obcina Tolmin hisna_st 2 ulica "Kosovelova ulica" node_type address cluster_id 3
+68 4708695082 0.0 0.0 ellipse lat 46.1848331 lon 13.7328318 obcina Tolmin hisna_st 12 ulica "Gregorčičeva ulica" node_type address cluster_id 3
+69 4708695083 0.0 0.0 ellipse lat 46.1843256 lon 13.7333098 obcina Tolmin hisna_st 1 ulica "Prešernova ulica" node_type address cluster_id 3
+70 4708695084 0.0 0.0 ellipse lat 46.1849777 lon 13.7336964 obcina Tolmin hisna_st 3 ulica "Kosovelova ulica" node_type address cluster_id 3
+71 4708695085 0.0 0.0 ellipse lat 46.1849584 lon 13.7327642 obcina Tolmin hisna_st 12A ulica "Gregorčičeva ulica" node_type address cluster_id 3
+72 4708695086 0.0 0.0 ellipse lat 46.1843687 lon 13.7339565 obcina Tolmin hisna_st 7 ulica "Prešernova ulica" node_type address cluster_id 3
+73 4708695087 0.0 0.0 ellipse lat 46.1847444 lon 13.7337536 obcina Tolmin hisna_st 1 ulica "Kosovelova ulica" node_type address cluster_id 3
+74 4708695088 0.0 0.0 ellipse lat 46.1843582 lon 13.7338143 obcina Tolmin hisna_st 5 ulica "Prešernova ulica" node_type address cluster_id 3
+75 4708695189 0.0 0.0 ellipse lat 46.1847499 lon 13.7334426 obcina Tolmin hisna_st 1A ulica "Kosovelova ulica" node_type address cluster_id 3
+76 4708695190 0.0 0.0 ellipse lat 46.1851855 lon 13.7329662 obcina Tolmin hisna_st 5B ulica "Kosovelova ulica" node_type address cluster_id 2
+77 4708695191 0.0 0.0 ellipse lat 46.1845994 lon 13.7328501 obcina Tolmin hisna_st 10 ulica "Gregorčičeva ulica" node_type address cluster_id 3
+78 4708695192 0.0 0.0 ellipse lat 46.1853511 lon 13.7341024 obcina Tolmin hisna_st 6 ulica "Kosovelova ulica" node_type address cluster_id 3
+79 4708695193 0.0 0.0 ellipse lat 46.1850819 lon 13.7341733 obcina Tolmin hisna_st 4 ulica "Kosovelova ulica" node_type address cluster_id 3
+80 4708695194 0.0 0.0 ellipse lat 46.1852113 lon 13.7336652 obcina Tolmin hisna_st 5 ulica "Kosovelova ulica" node_type address cluster_id 3
+81 4708698251 0.0 0.0 ellipse lat 46.1851284 lon 13.7359341 obcina Tolmin hisna_st 8 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+82 4708698252 0.0 0.0 ellipse lat 46.1853003 lon 13.7360208 obcina Tolmin hisna_st 10 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+83 4708698253 0.0 0.0 ellipse lat 46.1857139 lon 13.7351822 obcina Tolmin hisna_st 5 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+84 4708698254 0.0 0.0 ellipse lat 46.1849538 lon 13.7356012 obcina Tolmin hisna_st 6 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+85 4708698255 0.0 0.0 ellipse lat 46.1847462 lon 13.7355412 obcina Tolmin hisna_st 4 ulica "Ulica prekomorskih brigad" node_type address cluster_id 2
+86 4708698256 0.0 0.0 ellipse lat 46.1844654 lon 13.7353793 obcina Tolmin hisna_st 2 ulica "Ulica prekomorskih brigad" node_type address cluster_id 3
+87 4708698257 0.0 0.0 ellipse lat 46.184433 lon 13.7357039 obcina Tolmin hisna_st 15 ulica "Bazoviška ulica" node_type address cluster_id 1
+88 4708698258 0.0 0.0 ellipse lat 46.1856924 lon 13.735675 obcina Tolmin hisna_st 14 ulica "Ulica prekomorskih brigad" node_type address cluster_id 1
+89 4708698259 0.0 0.0 ellipse lat 46.1843925 lon 13.7352903 obcina Tolmin hisna_st 15 ulica "Prešernova ulica" node_type address cluster_id 3
+90 4708701587 0.0 0.0 ellipse lat 46.183753 lon 13.7311726 obcina Tolmin hisna_st 6 ulica "Šavlijeva ulica" node_type address cluster_id 3
+91 4708701588 0.0 0.0 ellipse lat 46.1837141 lon 13.7309015 obcina Tolmin hisna_st 8 ulica "Šavlijeva ulica" node_type address cluster_id 3
+92 4708701668 0.0 0.0 ellipse lat 46.1815062 lon 13.7362761 obcina Tolmin hisna_st 14 ulica Klanec node_type address cluster_id 1
+93 4708701669 0.0 0.0 ellipse lat 46.1822209 lon 13.7358193 obcina Tolmin hisna_st 5 ulica Klanec node_type address cluster_id 1
+94 4708701670 0.0 0.0 ellipse lat 46.1821198 lon 13.7356273 obcina Tolmin hisna_st 7 ulica Breg node_type address cluster_id 1
+95 4708701671 0.0 0.0 ellipse lat 46.1821995 lon 13.736325 obcina Tolmin hisna_st 4 ulica Podbreg node_type address cluster_id 1
+96 4708701672 0.0 0.0 ellipse lat 46.1822096 lon 13.7356123 obcina Tolmin hisna_st 5 ulica Breg node_type address cluster_id 1
+97 4708701673 0.0 0.0 ellipse lat 46.1823184 lon 13.7348714 obcina Tolmin hisna_st 1 ulica "Rutarjeva ulica" node_type address cluster_id 1
+98 4708701674 0.0 0.0 ellipse lat 46.1825808 lon 13.7350079 obcina Tolmin hisna_st 1A ulica "Rutarjeva ulica" node_type address cluster_id 1
+99 4708701675 0.0 0.0 ellipse lat 46.1821501 lon 13.7359245 obcina Tolmin hisna_st 7 ulica Klanec node_type address cluster_id 1
+100 4708701676 0.0 0.0 ellipse lat 46.1822627 lon 13.7347173 obcina Tolmin hisna_st 2 ulica "Trg 1. maja" node_type address cluster_id 1
+101 4708701677 0.0 0.0 ellipse lat 46.181739 lon 13.7361801 obcina Tolmin hisna_st 8 ulica Klanec node_type address cluster_id 1
+102 4708701678 0.0 0.0 ellipse lat 46.1813586 lon 13.7351396 obcina Tolmin hisna_st 11 ulica "Gradnikova ulica" node_type address cluster_id 1
+103 4708701679 0.0 0.0 ellipse lat 46.1817928 lon 13.7345337 obcina Tolmin hisna_st 6 ulica "Trg 1. maja" node_type address cluster_id 1
+104 4708701680 0.0 0.0 ellipse lat 46.1814225 lon 13.7352158 obcina Tolmin hisna_st 11A ulica "Gradnikova ulica" node_type address cluster_id 1
+105 4708701681 0.0 0.0 ellipse lat 46.1815518 lon 13.7363398 obcina Tolmin hisna_st 12 ulica Klanec node_type address cluster_id 1
+106 4708701682 0.0 0.0 ellipse lat 46.1815352 lon 13.7348376 obcina Tolmin hisna_st 7 ulica "Gradnikova ulica" node_type address cluster_id 1
+107 4708701683 0.0 0.0 ellipse lat 46.1818505 lon 13.7348692 obcina Tolmin hisna_st 4 ulica "Trg 1. maja" node_type address cluster_id 1
+108 4708701684 0.0 0.0 ellipse lat 46.18142 lon 13.7349957 obcina Tolmin hisna_st 9 ulica "Gradnikova ulica" node_type address cluster_id 1
+109 4708701685 0.0 0.0 ellipse lat 46.182479 lon 13.7347512 obcina Tolmin hisna_st 15 ulica "Trg maršala Tita" node_type address cluster_id 1
+110 4708701686 0.0 0.0 ellipse lat 46.1824853 lon 13.735321 obcina Tolmin hisna_st 7 ulica "Rutarjeva ulica" node_type address cluster_id 1
+111 4708701687 0.0 0.0 ellipse lat 46.1818201 lon 13.7361912 obcina Tolmin hisna_st 6 ulica Klanec node_type address cluster_id 1
+112 4708701688 0.0 0.0 ellipse lat 46.1816915 lon 13.7351319 obcina Tolmin hisna_st 4A ulica "Trg 1. maja" node_type address cluster_id 1
+113 4708702289 0.0 0.0 ellipse lat 46.1841978 lon 13.730709 obcina Tolmin hisna_st 12 ulica "Tumov drevored" node_type address cluster_id 2
+114 4708702290 0.0 0.0 ellipse lat 46.1838375 lon 13.7314816 obcina Tolmin hisna_st 4 ulica "Šavlijeva ulica" node_type address cluster_id 3
+115 4708702291 0.0 0.0 ellipse lat 46.1844573 lon 13.7313896 obcina Tolmin hisna_st 9 ulica "Brunov drevored" node_type address cluster_id 3
+116 4708702292 0.0 0.0 ellipse lat 46.1849768 lon 13.7303672 obcina Tolmin hisna_st 16 ulica "Tumov drevored" node_type address cluster_id 2
+117 4708702293 0.0 0.0 ellipse lat 46.1834742 lon 13.731179 obcina Tolmin hisna_st 5 ulica "Šavlijeva ulica" node_type address cluster_id 3
+118 4708702294 0.0 0.0 ellipse lat 46.1839918 lon 13.7307915 obcina Tolmin hisna_st 10 ulica "Tumov drevored" node_type address cluster_id 3
+119 4708702295 0.0 0.0 ellipse lat 46.1831839 lon 13.7334008 obcina Tolmin hisna_st 2 ulica "Gregorčičeva ulica" node_type address cluster_id 3
+120 4708702296 0.0 0.0 ellipse lat 46.1851719 lon 13.7317359 obcina Tolmin hisna_st 7 ulica "Gregorčičeva ulica" node_type address cluster_id 2
+121 4708702297 0.0 0.0 ellipse lat 46.1837099 lon 13.7329612 obcina Tolmin hisna_st 6 ulica "Gregorčičeva ulica" node_type address cluster_id 3
+122 4708702298 0.0 0.0 ellipse lat 46.1834466 lon 13.7327471 obcina Tolmin hisna_st 1B ulica "Gregorčičeva ulica" node_type address cluster_id 3
+123 4708702300 0.0 0.0 ellipse lat 46.1844669 lon 13.730638 obcina Tolmin hisna_st 14 ulica "Tumov drevored" node_type address cluster_id 2
+124 4708702301 0.0 0.0 ellipse lat 46.1832447 lon 13.7332051 obcina Tolmin hisna_st 8 ulica "Trg maršala Tita" node_type address cluster_id 3
+125 4708702302 0.0 0.0 ellipse lat 46.1846263 lon 13.7312173 obcina Tolmin hisna_st 11 ulica "Brunov drevored" node_type address cluster_id 2
+126 4708702303 0.0 0.0 ellipse lat 46.183903 lon 13.7317132 obcina Tolmin hisna_st 2 ulica "Šavlijeva ulica" node_type address cluster_id 3
+127 4708702304 0.0 0.0 ellipse lat 46.1834417 lon 13.7331228 obcina Tolmin hisna_st 4 ulica "Gregorčičeva ulica" node_type address cluster_id 3
+128 4708702305 0.0 0.0 ellipse lat 46.1836507 lon 13.7316802 obcina Tolmin hisna_st 3 ulica "Šavlijeva ulica" node_type address cluster_id 3
+129 4708702306 0.0 0.0 ellipse lat 46.1837326 lon 13.7325721 obcina Tolmin hisna_st 5 ulica "Gregorčičeva ulica" node_type address cluster_id 3
+130 4708702307 0.0 0.0 ellipse lat 46.1838036 lon 13.7308606 obcina Tolmin hisna_st 8 ulica "Tumov drevored" node_type address cluster_id 3
+131 4708702308 0.0 0.0 ellipse lat 46.1833256 lon 13.7323871 obcina Tolmin hisna_st 1A ulica "Gregorčičeva ulica" node_type address cluster_id 3
+132 4708702309 0.0 0.0 ellipse lat 46.1835982 lon 13.732627 obcina Tolmin hisna_st 3 ulica "Gregorčičeva ulica" node_type address cluster_id 3
+133 4708702310 0.0 0.0 ellipse lat 46.1851646 lon 13.7310754 obcina Tolmin hisna_st 4 ulica "Brunov drevored" node_type address cluster_id 2
+134 4708702311 0.0 0.0 ellipse lat 46.1842427 lon 13.7315111 obcina Tolmin hisna_st 5 ulica "Brunov drevored" node_type address cluster_id 3
+135 4708702312 0.0 0.0 ellipse lat 46.1838188 lon 13.7322333 obcina Tolmin hisna_st 1 ulica "Brunov drevored" node_type address cluster_id 3
+136 4708702313 0.0 0.0 ellipse lat 46.1839584 lon 13.7318415 obcina Tolmin hisna_st 3 ulica "Brunov drevored" node_type address cluster_id 3
+137 4708702314 0.0 0.0 ellipse lat 46.1841043 lon 13.7312034 obcina Tolmin hisna_st 7 ulica "Brunov drevored" node_type address cluster_id 3
+138 4708702315 0.0 0.0 ellipse lat 46.18496 lon 13.7312874 obcina Tolmin hisna_st 2 ulica "Brunov drevored" node_type address cluster_id 2
+139 4708702316 0.0 0.0 ellipse lat 46.1840239 lon 13.7312571 obcina Tolmin hisna_st 5A ulica "Brunov drevored" node_type address cluster_id 3
+140 4708702317 0.0 0.0 ellipse lat 46.1844799 lon 13.7310005 obcina Tolmin hisna_st 11B ulica "Brunov drevored" node_type address cluster_id 2
+141 4708702318 0.0 0.0 ellipse lat 46.1848295 lon 13.7308758 obcina Tolmin hisna_st 13 ulica "Brunov drevored" node_type address cluster_id 2
+142 4708702319 0.0 0.0 ellipse lat 46.1853481 lon 13.731395 obcina Tolmin hisna_st 9 ulica "Gregorčičeva ulica" node_type address cluster_id 2
+143 4708702320 0.0 0.0 ellipse lat 46.1854154 lon 13.7317821 obcina Tolmin hisna_st 11 ulica "Gregorčičeva ulica" node_type address cluster_id 2
+144 4708702321 0.0 0.0 ellipse lat 46.1845354 lon 13.7311287 obcina Tolmin hisna_st 11A ulica "Brunov drevored" node_type address cluster_id 2
+145 4708702322 0.0 0.0 ellipse lat 46.1833568 lon 13.7327621 obcina Tolmin hisna_st 1 ulica "Gregorčičeva ulica" node_type address cluster_id 3
+146 4708702323 0.0 0.0 ellipse lat 46.1847448 lon 13.730541 obcina Tolmin hisna_st 15 ulica "Brunov drevored" node_type address cluster_id 2
+147 4708702324 0.0 0.0 ellipse lat 46.1850074 lon 13.7306904 obcina Tolmin hisna_st 17 ulica "Brunov drevored" node_type address cluster_id 2
+148 4708705289 0.0 0.0 ellipse lat 46.1819151 lon 13.7358263 obcina Tolmin hisna_st 2 ulica Klanec node_type address cluster_id 1
+149 4708705290 0.0 0.0 ellipse lat 46.1824479 lon 13.7351923 obcina Tolmin hisna_st 5 ulica "Rutarjeva ulica" node_type address cluster_id 1
+150 4708705291 0.0 0.0 ellipse lat 46.1824196 lon 13.7350764 obcina Tolmin hisna_st 3 ulica "Rutarjeva ulica" node_type address cluster_id 1
+151 4708705292 0.0 0.0 ellipse lat 46.1824174 lon 13.7356852 obcina Tolmin hisna_st 1 ulica Klanec node_type address cluster_id 1
+152 4708705293 0.0 0.0 ellipse lat 46.1826123 lon 13.7354088 obcina Tolmin hisna_st 9 ulica "Rutarjeva ulica" node_type address cluster_id 1
+153 4708705294 0.0 0.0 ellipse lat 46.1826692 lon 13.7356795 obcina Tolmin hisna_st 10 ulica "Rutarjeva ulica" node_type address cluster_id 1
+154 4708705295 0.0 0.0 ellipse lat 46.1825432 lon 13.7356694 obcina Tolmin hisna_st 8 ulica "Rutarjeva ulica" node_type address cluster_id 1
+155 4742988389 0.0 0.0 ellipse lat 46.1830388 lon 13.737368 obcina Tolmin hisna_st 6 ulica "Lavričeva ulica" node_type address cluster_id 1
+156 4742988390 0.0 0.0 ellipse lat 46.1825233 lon 13.7363175 obcina Tolmin hisna_st 9 ulica Podbreg node_type address cluster_id 1
+157 4742988391 0.0 0.0 ellipse lat 46.1830444 lon 13.737873 obcina Tolmin hisna_st 8 ulica "Lavričeva ulica" node_type address cluster_id 1
+158 4742988392 0.0 0.0 ellipse lat 46.1831105 lon 13.7365243 obcina Tolmin hisna_st 3 ulica Podbreg node_type address cluster_id 1
+159 4742988393 0.0 0.0 ellipse lat 46.1833588 lon 13.7370109 obcina Tolmin hisna_st 2 ulica "Lavričeva ulica" node_type address cluster_id 1
+160 4742988394 0.0 0.0 ellipse lat 46.1827125 lon 13.7363391 obcina Tolmin hisna_st 7 ulica Podbreg node_type address cluster_id 1
+161 4742988395 0.0 0.0 ellipse lat 46.1832298 lon 13.7367418 obcina Tolmin hisna_st 1 ulica Podbreg node_type address cluster_id 1
+162 4742988396 0.0 0.0 ellipse lat 46.1830002 lon 13.7363196 obcina Tolmin hisna_st 5 ulica Podbreg node_type address cluster_id 1
+163 4742988397 0.0 0.0 ellipse lat 46.1833598 lon 13.7362854 obcina Tolmin hisna_st 10B ulica "Rutarjeva ulica" node_type address cluster_id 1
+164 4742988398 0.0 0.0 ellipse lat 46.1831696 lon 13.7361732 obcina Tolmin hisna_st 10A ulica "Rutarjeva ulica" node_type address cluster_id 1
+165 4742988399 0.0 0.0 ellipse lat 46.1830599 lon 13.7360203 obcina Tolmin hisna_st 10C ulica "Rutarjeva ulica" node_type address cluster_id 1
+166 4742988400 0.0 0.0 ellipse lat 46.1836428 lon 13.7366546 obcina Tolmin hisna_st 12 ulica "Rutarjeva ulica" node_type address cluster_id 1
+167 4742988401 0.0 0.0 ellipse lat 46.1834967 lon 13.7364637 obcina Tolmin hisna_st 2 ulica Podbreg node_type address cluster_id 1
+168 4742988402 0.0 0.0 ellipse lat 46.1834642 lon 13.7351561 obcina Tolmin hisna_st 7 ulica "Ulica Simona Kosa" node_type address cluster_id 3
+169 4742988403 0.0 0.0 ellipse lat 46.183746 lon 13.7362248 obcina Tolmin hisna_st 25 ulica "Rutarjeva ulica" node_type address cluster_id 1
+170 4742988404 0.0 0.0 ellipse lat 46.1839763 lon 13.7367118 obcina Tolmin hisna_st 31 ulica "Rutarjeva ulica" node_type address cluster_id 1
+171 4742988405 0.0 0.0 ellipse lat 46.1838875 lon 13.7351852 obcina Tolmin hisna_st 3 ulica "Ulica Simona Kosa" node_type address cluster_id 3
+172 4742988406 0.0 0.0 ellipse lat 46.1838683 lon 13.7358981 obcina Tolmin hisna_st 14 ulica "Bazoviška ulica" node_type address cluster_id 1
+173 4742988407 0.0 0.0 ellipse lat 46.1837016 lon 13.7362776 obcina Tolmin hisna_st 27 ulica "Rutarjeva ulica" node_type address cluster_id 1
+174 4742988408 0.0 0.0 ellipse lat 46.184113 lon 13.7344287 obcina Tolmin hisna_st 6 ulica "Prešernova ulica" node_type address cluster_id 3
+175 4742988409 0.0 0.0 ellipse lat 46.1836714 lon 13.7351772 obcina Tolmin hisna_st 5 ulica "Ulica Simona Kosa" node_type address cluster_id 3
+176 4742988410 0.0 0.0 ellipse lat 46.1837243 lon 13.7358885 obcina Tolmin hisna_st 12 ulica "Bazoviška ulica" node_type address cluster_id 1
+177 4742988411 0.0 0.0 ellipse lat 46.1835521 lon 13.7357758 obcina Tolmin hisna_st 10 ulica "Bazoviška ulica" node_type address cluster_id 1
+178 4742988412 0.0 0.0 ellipse lat 46.1837564 lon 13.7347219 obcina Tolmin hisna_st 6A ulica "Prešernova ulica" node_type address cluster_id 3
+179 4742988413 0.0 0.0 ellipse lat 46.1841169 lon 13.7355945 obcina Tolmin hisna_st 13 ulica "Bazoviška ulica" node_type address cluster_id 1
+180 4742988414 0.0 0.0 ellipse lat 46.1834169 lon 13.735753 obcina Tolmin hisna_st 8 ulica "Bazoviška ulica" node_type address cluster_id 1
+181 4742988415 0.0 0.0 ellipse lat 46.1841396 lon 13.7352054 obcina Tolmin hisna_st 1 ulica "Ulica Simona Kosa" node_type address cluster_id 3
+182 4742988416 0.0 0.0 ellipse lat 46.1833173 lon 13.7357035 obcina Tolmin hisna_st 19 ulica "Rutarjeva ulica" node_type address cluster_id 1
+183 4742988417 0.0 0.0 ellipse lat 46.1836753 lon 13.7355269 obcina Tolmin hisna_st 9 ulica "Bazoviška ulica" node_type address cluster_id 1
+184 4742988418 0.0 0.0 ellipse lat 46.1833422 lon 13.7355086 obcina Tolmin hisna_st 5 ulica "Bazoviška ulica" node_type address cluster_id 1
+185 4742988419 0.0 0.0 ellipse lat 46.1834157 lon 13.7348333 obcina Tolmin hisna_st 13 ulica "Trg maršala Tita" node_type address cluster_id 3
+186 4742988420 0.0 0.0 ellipse lat 46.1838826 lon 13.735561 obcina Tolmin hisna_st 11 ulica "Bazoviška ulica" node_type address cluster_id 1
+187 4742989021 0.0 0.0 ellipse lat 46.1834901 lon 13.7358679 obcina Tolmin hisna_st 21 ulica "Rutarjeva ulica" node_type address cluster_id 1
+188 4742989022 0.0 0.0 ellipse lat 46.1835042 lon 13.7355179 obcina Tolmin hisna_st 7 ulica "Bazoviška ulica" node_type address cluster_id 1
+189 4742989023 0.0 0.0 ellipse lat 46.1841796 lon 13.7363833 obcina Tolmin hisna_st 31A ulica "Rutarjeva ulica" node_type address cluster_id 1
+190 4742989024 0.0 0.0 ellipse lat 46.1838292 lon 13.7364301 obcina Tolmin hisna_st 29 ulica "Rutarjeva ulica" node_type address cluster_id 1
+191 4784106436 0.0 0.0 ellipse lat 46.1819003 lon 13.7328603 obcina Tolmin hisna_st 2C ulica "Ulica Petra Skalarja" node_type address cluster_id 3
+192 4784106437 0.0 0.0 ellipse lat 46.1818212 lon 13.7330305 obcina Tolmin hisna_st 2A ulica "Ulica Petra Skalarja" node_type address cluster_id 1
+193 4784106438 0.0 0.0 ellipse lat 46.1824545 lon 13.7325367 obcina Tolmin hisna_st 6A ulica "Mestni trg" node_type address cluster_id 3
+194 4784106439 0.0 0.0 ellipse lat 46.1819217 lon 13.7331707 obcina Tolmin hisna_st 2B ulica "Ulica Petra Skalarja" node_type address cluster_id 1
+195 4784106440 0.0 0.0 ellipse lat 46.1819343 lon 13.7334942 obcina Tolmin hisna_st 4 ulica "Ulica Petra Skalarja" node_type address cluster_id 1
+196 4784106441 0.0 0.0 ellipse lat 46.1816941 lon 13.7337458 obcina Tolmin hisna_st 4 ulica "Dijaška ulica" node_type address cluster_id 1
+197 4784106442 0.0 0.0 ellipse lat 46.1821029 lon 13.7332831 obcina Tolmin hisna_st 2 ulica "Ulica Petra Skalarja" node_type address cluster_id 1
+198 4784106443 0.0 0.0 ellipse lat 46.1825278 lon 13.7326516 obcina Tolmin hisna_st 6 ulica "Mestni trg" node_type address cluster_id 3
+199 4784106444 0.0 0.0 ellipse lat 46.1821672 lon 13.7325951 obcina Tolmin hisna_st 4 ulica "Mestni trg" node_type address cluster_id 3
+200 4784106445 0.0 0.0 ellipse lat 46.1817167 lon 13.7333438 obcina Tolmin hisna_st 6C ulica "Dijaška ulica" node_type address cluster_id 1
+201 4784106446 0.0 0.0 ellipse lat 46.1822268 lon 13.7330989 obcina Tolmin hisna_st 3 ulica "Mestni trg" node_type address cluster_id 1
+202 4784106447 0.0 0.0 ellipse lat 46.182271 lon 13.7322171 obcina Tolmin hisna_st 5 ulica "Mestni trg" node_type address cluster_id 3
+203 4784106448 0.0 0.0 ellipse lat 46.1820752 lon 13.733219 obcina Tolmin hisna_st 2D ulica "Ulica Petra Skalarja" node_type address cluster_id 1
+204 4784106449 0.0 0.0 ellipse lat 46.1818195 lon 13.7336912 obcina Tolmin hisna_st 2 ulica "Dijaška ulica" node_type address cluster_id 1
+205 4784106450 0.0 0.0 ellipse lat 46.1818546 lon 13.7336126 obcina Tolmin hisna_st 6 ulica "Ulica Petra Skalarja" node_type address cluster_id 1
+206 4784106994 0.0 0.0 ellipse lat 46.1856177 lon 13.7305598 obcina Tolmin hisna_st 6A ulica "Brunov drevored" node_type address cluster_id 2
+207 4784106995 0.0 0.0 ellipse lat 46.1859463 lon 13.7309797 obcina Tolmin hisna_st 4 ulica "Pregljev trg" node_type address cluster_id 2
+208 4784106996 0.0 0.0 ellipse lat 46.1862036 lon 13.7306499 obcina Tolmin hisna_st 8 ulica "Ulica Tolminskega punta" node_type address cluster_id 0
+209 4784106997 0.0 0.0 ellipse lat 46.1867937 lon 13.7311286 obcina Tolmin hisna_st 1 ulica "Triglavska ulica" node_type address cluster_id 0
+210 4784106998 0.0 0.0 ellipse lat 46.1867973 lon 13.7306363 obcina Tolmin hisna_st 9 ulica "Triglavska ulica" node_type address cluster_id 0
+211 4784106999 0.0 0.0 ellipse lat 46.1859444 lon 13.7316145 obcina Tolmin hisna_st 8 ulica "Pregljev trg" node_type address cluster_id 2
+212 4784107000 0.0 0.0 ellipse lat 46.1862038 lon 13.731479 obcina Tolmin hisna_st 7 ulica "Pregljev trg" node_type address cluster_id 2
+213 4784107001 0.0 0.0 ellipse lat 46.1855782 lon 13.7310529 obcina Tolmin hisna_st 1 ulica "Pregljev trg" node_type address cluster_id 2
+214 4784107002 0.0 0.0 ellipse lat 46.1861569 lon 13.7313117 obcina Tolmin hisna_st 6 ulica "Pregljev trg" node_type address cluster_id 2
+215 4784107003 0.0 0.0 ellipse lat 46.1868016 lon 13.7310248 obcina Tolmin hisna_st 3 ulica "Triglavska ulica" node_type address cluster_id 0
+216 4784107004 0.0 0.0 ellipse lat 46.1866247 lon 13.7313009 obcina Tolmin hisna_st 13B ulica "Gregorčičeva ulica" node_type address cluster_id 0
+217 4784107005 0.0 0.0 ellipse lat 46.1862263 lon 13.7302608 obcina Tolmin hisna_st 4 ulica "Ulica Tolminskega punta" node_type address cluster_id 0
+218 4784107006 0.0 0.0 ellipse lat 46.186668 lon 13.7303413 obcina Tolmin hisna_st 16 ulica "Ulica Tolminskega punta" node_type address cluster_id 0
+219 4784107007 0.0 0.0 ellipse lat 46.185458 lon 13.7307577 obcina Tolmin hisna_st 6 ulica "Brunov drevored" node_type address cluster_id 2
+220 4784107008 0.0 0.0 ellipse lat 46.1858639 lon 13.730852 obcina Tolmin hisna_st 3 ulica "Pregljev trg" node_type address cluster_id 2
+221 4784107009 0.0 0.0 ellipse lat 46.1868086 lon 13.7308433 obcina Tolmin hisna_st 7 ulica "Triglavska ulica" node_type address cluster_id 0
+222 4784107010 0.0 0.0 ellipse lat 46.1868297 lon 13.7303117 obcina Tolmin hisna_st 11 ulica "Triglavska ulica" node_type address cluster_id 0
+223 4784107011 0.0 0.0 ellipse lat 46.1864999 lon 13.7305913 obcina Tolmin hisna_st 12 ulica "Ulica Tolminskega punta" node_type address cluster_id 2
+224 4784107012 0.0 0.0 ellipse lat 46.1859744 lon 13.7302666 obcina Tolmin hisna_st 2 ulica "Ulica Tolminskega punta" node_type address cluster_id 2
+225 4784107013 0.0 0.0 ellipse lat 46.1856666 lon 13.7309084 obcina Tolmin hisna_st 2 ulica "Pregljev trg" node_type address cluster_id 2
+226 4784107014 0.0 0.0 ellipse lat 46.1859688 lon 13.7305776 obcina Tolmin hisna_st 6 ulica "Ulica Tolminskega punta" node_type address cluster_id 0
+227 4784107015 0.0 0.0 ellipse lat 46.1864626 lon 13.7312917 obcina Tolmin hisna_st 13A ulica "Gregorčičeva ulica" node_type address cluster_id 0
+228 4784107016 0.0 0.0 ellipse lat 46.1868006 lon 13.7309341 obcina Tolmin hisna_st 5 ulica "Triglavska ulica" node_type address cluster_id 0
+229 4784107017 0.0 0.0 ellipse lat 46.1857685 lon 13.730362 obcina Tolmin hisna_st 8 ulica "Brunov drevored" node_type address cluster_id 2
+230 4784107018 0.0 0.0 ellipse lat 46.1860556 lon 13.7310938 obcina Tolmin hisna_st 5 ulica "Pregljev trg" node_type address cluster_id 2
+231 4784107019 0.0 0.0 ellipse lat 46.1864993 lon 13.7313556 obcina Tolmin hisna_st 13 ulica "Gregorčičeva ulica" node_type address cluster_id 0
+232 4784107020 0.0 0.0 ellipse lat 46.186351 lon 13.7309574 obcina Tolmin hisna_st 10 ulica "Ulica Tolminskega punta" node_type address cluster_id 0
+233 4784107421 0.0 0.0 ellipse lat 46.1864521 lon 13.7303462 obcina Tolmin hisna_st 14 ulica "Ulica Tolminskega punta" node_type address cluster_id 0
+234 4784107422 0.0 0.0 ellipse lat 46.1858191 lon 13.7316822 obcina Tolmin hisna_st 9 ulica "Pregljev trg" node_type address cluster_id 2
+235 4847805546 0.0 0.0 ellipse lat 46.1843543 lon 13.7277907 obcina Tolmin hisna_st 10 ulica "Na logu" node_type address cluster_id 3
+236 4847805547 0.0 0.0 ellipse lat 46.1841108 lon 13.7285477 obcina Tolmin hisna_st 14A ulica "Na logu" node_type address cluster_id 3
+237 4847805548 0.0 0.0 ellipse lat 46.1839064 lon 13.7287726 obcina Tolmin hisna_st 14 ulica "Na logu" node_type address cluster_id 3
+238 4847805549 0.0 0.0 ellipse lat 46.1841338 lon 13.7281844 obcina Tolmin hisna_st 13 ulica "Na logu" node_type address cluster_id 3
+239 4847805550 0.0 0.0 ellipse lat 46.184434 lon 13.7276723 obcina Tolmin hisna_st 10A ulica "Na logu" node_type address cluster_id 3
+240 4847805551 0.0 0.0 ellipse lat 46.1855018 lon 13.7282177 obcina Tolmin hisna_st 21 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+241 4847805552 0.0 0.0 ellipse lat 46.1854235 lon 13.7284656 obcina Tolmin hisna_st 13 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+242 4847805553 0.0 0.0 ellipse lat 46.1854845 lon 13.7282829 obcina Tolmin hisna_st 19 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+243 4847805554 0.0 0.0 ellipse lat 46.1854492 lon 13.7283484 obcina Tolmin hisna_st 17 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+244 4847805555 0.0 0.0 ellipse lat 46.185432 lon 13.7284136 obcina Tolmin hisna_st 15 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+245 4847805556 0.0 0.0 ellipse lat 46.185528 lon 13.7281523 obcina Tolmin hisna_st 23 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+246 4847805557 0.0 0.0 ellipse lat 46.1856399 lon 13.7293156 obcina Tolmin hisna_st 6 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+247 4847805558 0.0 0.0 ellipse lat 46.1853379 lon 13.7288562 obcina Tolmin hisna_st 7 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+248 4847805559 0.0 0.0 ellipse lat 46.1853348 lon 13.7293874 obcina Tolmin hisna_st 1A ulica "Ulica Albina Rejca" node_type address cluster_id 2
+249 4847805560 0.0 0.0 ellipse lat 46.1856192 lon 13.72907 obcina Tolmin hisna_st 8 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+250 4847805561 0.0 0.0 ellipse lat 46.1853369 lon 13.7287656 obcina Tolmin hisna_st 9 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+251 4847805562 0.0 0.0 ellipse lat 46.185357 lon 13.7289594 obcina Tolmin hisna_st 5 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+252 4847805563 0.0 0.0 ellipse lat 46.1852754 lon 13.7297126 obcina Tolmin hisna_st 1B ulica "Ulica Albina Rejca" node_type address cluster_id 2
+253 4847805564 0.0 0.0 ellipse lat 46.1851791 lon 13.729948 obcina Tolmin hisna_st 21 ulica "Brunov drevored" node_type address cluster_id 2
+254 4847805565 0.0 0.0 ellipse lat 46.1858339 lon 13.7297646 obcina Tolmin hisna_st 25 ulica "Brunov drevored" node_type address cluster_id 2
+255 4847805566 0.0 0.0 ellipse lat 46.1853266 lon 13.7286492 obcina Tolmin hisna_st 11 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+256 4847805567 0.0 0.0 ellipse lat 46.1856071 lon 13.7296014 obcina Tolmin hisna_st 6A ulica "Ulica Albina Rejca" node_type address cluster_id 2
+257 4847805568 0.0 0.0 ellipse lat 46.1853591 lon 13.7291407 obcina Tolmin hisna_st 1 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+258 4847805569 0.0 0.0 ellipse lat 46.185367 lon 13.7290499 obcina Tolmin hisna_st 3 ulica "Ulica Albina Rejca" node_type address cluster_id 2
+259 4847805570 0.0 0.0 ellipse lat 46.1874849 lon 13.7326025 obcina Tolmin hisna_st 8 ulica "Bevkova ulica" node_type address cluster_id 0
+260 4847805571 0.0 0.0 ellipse lat 46.1874807 lon 13.7314108 obcina Tolmin hisna_st 26 ulica "Gregorčičeva ulica" node_type address cluster_id 0
+261 4847805572 0.0 0.0 ellipse lat 46.1876908 lon 13.7325071 obcina Tolmin hisna_st 4 ulica "Bevkova ulica" node_type address cluster_id 0
+262 4847805573 0.0 0.0 ellipse lat 46.187563 lon 13.7323416 obcina Tolmin hisna_st 6 ulica "Bevkova ulica" node_type address cluster_id 0
+263 4847805574 0.0 0.0 ellipse lat 46.1872039 lon 13.7324147 obcina Tolmin hisna_st 12 ulica "Bevkova ulica" node_type address cluster_id 0
+264 4847805575 0.0 0.0 ellipse lat 46.1872243 lon 13.7326344 obcina Tolmin hisna_st 14 ulica "Bevkova ulica" node_type address cluster_id 0
+265 4847805576 0.0 0.0 ellipse lat 46.187807 lon 13.7316235 obcina Tolmin hisna_st 2 ulica "Bevkova ulica" node_type address cluster_id 0
+266 4847805577 0.0 0.0 ellipse lat 46.1877934 lon 13.7320254 obcina Tolmin hisna_st 2A ulica "Bevkova ulica" node_type address cluster_id 0
+267 4847805578 0.0 0.0 ellipse lat 46.1873368 lon 13.7314141 obcina Tolmin hisna_st 24 ulica "Gregorčičeva ulica" node_type address cluster_id 0
+268 4847805579 0.0 0.0 ellipse lat 46.187677 lon 13.7312638 obcina Tolmin hisna_st 28 ulica "Gregorčičeva ulica" node_type address cluster_id 0
+269 4847805580 0.0 0.0 ellipse lat 46.1878031 lon 13.7312738 obcina Tolmin hisna_st 30 ulica "Gregorčičeva ulica" node_type address cluster_id 0
+270 4847805581 0.0 0.0 ellipse lat 46.1873741 lon 13.732346 obcina Tolmin hisna_st 10 ulica "Bevkova ulica" node_type address cluster_id 0
+271 4847805582 0.0 0.0 ellipse lat 46.1871407 lon 13.731587 obcina Tolmin hisna_st 22 ulica "Gregorčičeva ulica" node_type address cluster_id 0
+272 4847805584 0.0 0.0 ellipse lat 46.1892658 lon 13.7325487 obcina Tolmin hisna_st 28 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+273 4847805585 0.0 0.0 ellipse lat 46.1895345 lon 13.7324389 obcina Tolmin hisna_st 29 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+274 4847805586 0.0 0.0 ellipse lat 46.1889104 lon 13.7329584 obcina Tolmin hisna_st 24 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+275 4847805587 0.0 0.0 ellipse lat 46.1890227 lon 13.7325283 obcina Tolmin hisna_st 18 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+276 4847805588 0.0 0.0 ellipse lat 46.1889456 lon 13.7328799 obcina Tolmin hisna_st 22 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+277 4847805589 0.0 0.0 ellipse lat 46.1890218 lon 13.7324506 obcina Tolmin hisna_st 16 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+278 4847805590 0.0 0.0 ellipse lat 46.1894289 lon 13.7326486 obcina Tolmin hisna_st 30 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+279 4847805591 0.0 0.0 ellipse lat 46.1890241 lon 13.7326579 obcina Tolmin hisna_st 20 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+280 4847805592 0.0 0.0 ellipse lat 46.1900043 lon 13.73099 obcina Tolmin hisna_st 17 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+281 4847805593 0.0 0.0 ellipse lat 46.1897928 lon 13.7305803 obcina Tolmin hisna_st 20 ulica "Pod gradom" node_type address cluster_id 0
+282 4847805594 0.0 0.0 ellipse lat 46.1891355 lon 13.7305307 obcina Tolmin hisna_st 12 ulica "Pod gradom" node_type address cluster_id 0
+283 4847805595 0.0 0.0 ellipse lat 46.1892833 lon 13.7316932 obcina Tolmin hisna_st 8 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+284 4847805596 0.0 0.0 ellipse lat 46.1897001 lon 13.7311395 obcina Tolmin hisna_st 5 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+285 4847805597 0.0 0.0 ellipse lat 46.189548 lon 13.7312208 obcina Tolmin hisna_st 3 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+286 4847805598 0.0 0.0 ellipse lat 46.1891999 lon 13.7314749 obcina Tolmin hisna_st 6 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+287 4847805599 0.0 0.0 ellipse lat 46.1891588 lon 13.7318256 obcina Tolmin hisna_st 10 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+288 4847805600 0.0 0.0 ellipse lat 46.1895719 lon 13.7317514 obcina Tolmin hisna_st 21 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+289 4847805601 0.0 0.0 ellipse lat 46.1899532 lon 13.7312503 obcina Tolmin hisna_st 13 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+290 4847805602 0.0 0.0 ellipse lat 46.1898386 lon 13.7314602 obcina Tolmin hisna_st 7 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+291 4847805603 0.0 0.0 ellipse lat 46.1893088 lon 13.7323663 obcina Tolmin hisna_st 26 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+292 4847805604 0.0 0.0 ellipse lat 46.1895623 lon 13.7316998 obcina Tolmin hisna_st 19 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+293 4847805605 0.0 0.0 ellipse lat 46.1900056 lon 13.7311066 obcina Tolmin hisna_st 15 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+294 4847805606 0.0 0.0 ellipse lat 46.1898736 lon 13.7313687 obcina Tolmin hisna_st 9 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+295 4847805607 0.0 0.0 ellipse lat 46.189573 lon 13.731855 obcina Tolmin hisna_st 23 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+296 4847805608 0.0 0.0 ellipse lat 46.1895861 lon 13.730598 obcina Tolmin hisna_st 18 ulica "Pod gradom" node_type address cluster_id 0
+297 4847805609 0.0 0.0 ellipse lat 46.1895652 lon 13.7319588 obcina Tolmin hisna_st 25 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+298 4847805610 0.0 0.0 ellipse lat 46.1895949 lon 13.7313881 obcina Tolmin hisna_st 1 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+299 4847805611 0.0 0.0 ellipse lat 46.1891621 lon 13.7313074 obcina Tolmin hisna_st 4 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+300 4847805612 0.0 0.0 ellipse lat 46.1892855 lon 13.7302681 obcina Tolmin hisna_st 7 ulica "Pod gradom" node_type address cluster_id 0
+301 4847805613 0.0 0.0 ellipse lat 46.1891964 lon 13.7319673 obcina Tolmin hisna_st 12 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+302 4847805614 0.0 0.0 ellipse lat 46.189289 lon 13.730579 obcina Tolmin hisna_st 14 ulica "Pod gradom" node_type address cluster_id 0
+303 4847805615 0.0 0.0 ellipse lat 46.1890869 lon 13.7302079 obcina Tolmin hisna_st 5 ulica "Pod gradom" node_type address cluster_id 0
+304 4847805616 0.0 0.0 ellipse lat 46.1894422 lon 13.7306013 obcina Tolmin hisna_st 16 ulica "Pod gradom" node_type address cluster_id 0
+305 4847805617 0.0 0.0 ellipse lat 46.1887885 lon 13.7300723 obcina Tolmin hisna_st 1 ulica "Pod gradom" node_type address cluster_id 0
+306 4847805618 0.0 0.0 ellipse lat 46.1896022 lon 13.7320487 obcina Tolmin hisna_st 27 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+307 4847805619 0.0 0.0 ellipse lat 46.1889463 lon 13.7305091 obcina Tolmin hisna_st 10 ulica "Pod gradom" node_type address cluster_id 0
+308 4847805620 0.0 0.0 ellipse lat 46.1889246 lon 13.7301728 obcina Tolmin hisna_st 3 ulica "Pod gradom" node_type address cluster_id 0
+309 4847805721 0.0 0.0 ellipse lat 46.188955 lon 13.7321024 obcina Tolmin hisna_st 14 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+310 4847805722 0.0 0.0 ellipse lat 46.1892961 lon 13.7312265 obcina Tolmin hisna_st 2 ulica "Ulica Cirila Kosmača" node_type address cluster_id 0
+311 4847805723 0.0 0.0 ellipse lat 46.1899283 lon 13.730629 obcina Tolmin hisna_st 22 ulica "Pod gradom" node_type address cluster_id 0
+312 6140655846 0.0 0.0 ellipse lat 46.1838462 lon 13.7370362 obcina Tolmin hisna_st 14 ulica "Rutarjeva ulica" node_type address cluster_id 1
+313 7385735408 0.0 0.0 ellipse lat 46.183857 lon 13.7347124 obcina Tolmin hisna_st 6a ulica "Prešernova ulica" node_type address cluster_id 3
+314 7883478285 0.0 0.0 ellipse lat 46.1821081 lon 13.7323472 obcina Tolmin hisna_st 5 ulica "Mestni trg" node_type address cluster_id 3
+315 8082620407 0.0 0.0 ellipse lat 46.1828629 lon 13.7309777 obcina Tolmin hisna_st 7 ulica "Tumov drevored" node_type address cluster_id 3
+316 8082620408 0.0 0.0 ellipse lat 46.1831303 lon 13.7308206 obcina Tolmin hisna_st 11 ulica "Tumov drevored" node_type address cluster_id 3
+317 8082620409 0.0 0.0 ellipse lat 46.1829128 lon 13.7306911 obcina Tolmin hisna_st 9 ulica "Tumov drevored" node_type address cluster_id 3
+318 8082620410 0.0 0.0 ellipse lat 46.1826571 lon 13.7307845 obcina Tolmin hisna_st 5 ulica "Tumov drevored" node_type address cluster_id 3
+319 8082620411 0.0 0.0 ellipse lat 46.1825234 lon 13.7312706 obcina Tolmin hisna_st 3 ulica "Tumov drevored" node_type address cluster_id 3
+320 8082620412 0.0 0.0 ellipse lat 46.182419 lon 13.7310286 obcina Tolmin hisna_st 1 ulica "Tumov drevored" node_type address cluster_id 3
+321 8082620413 0.0 0.0 ellipse lat 46.1825704 lon 13.7314914 obcina Tolmin hisna_st 2 ulica "Tumov drevored" node_type address cluster_id 1
+322 8196072988 0.0 0.0 ellipse lat 46.1825979 lon 13.7333239 obcina Tolmin hisna_st 1 ulica "Mestni trg" node_type address cluster_id 1
+323 8610878285 0.0 0.0 ellipse lat 46.1812037 lon 13.73443 obcina Tolmin hisna_st 3 ulica "Dijaška ulica" node_type address cluster_id 1
+324 8614936091 0.0 0.0 ellipse lat 46.1812224 lon 13.7344358 obcina Tolmin hisna_st 3 ulica "Dijaška ulica" node_type address cluster_id 1
+325 3011155692 0.0 0.0 ellipse lat 46.1836212 lon 13.7286033 node_type crossroad cluster_id 1
+326 3011155696 0.0 0.0 ellipse lat 46.1839211 lon 13.7282405 node_type crossroad cluster_id 3
+327 3011155700 0.0 0.0 ellipse lat 46.1842006 lon 13.7275828 node_type crossroad cluster_id 1
+328 4598504978 0.0 0.0 ellipse lat 46.185645 lon 13.7274332 node_type crossroad cluster_id 2
+329 282173992 0.0 0.0 ellipse lat 46.1819287 lon 13.7337098 node_type crossroad cluster_id 1
+330 282173994 0.0 0.0 ellipse lat 46.1815409 lon 13.7340607 node_type crossroad cluster_id 1
+331 875788203 0.0 0.0 ellipse lat 46.182483 lon 13.7317755 node_type crossroad cluster_id 3
+332 875822762 0.0 0.0 ellipse lat 46.1818893 lon 13.7322931 node_type crossroad cluster_id 3
+333 6750285836 0.0 0.0 ellipse lat 46.1820141 lon 13.7321772 node_type crossroad cluster_id 1
+334 294191491 0.0 0.0 ellipse lat 46.1842883 lon 13.7341114 node_type crossroad cluster_id 3
+335 294191487 0.0 0.0 ellipse lat 46.1840783 lon 13.7326714 node_type crossroad cluster_id 3
+336 1865141950 0.0 0.0 ellipse lat 46.1843447 lon 13.7358428 node_type crossroad cluster_id 1
+337 7827739422 0.0 0.0 ellipse lat 46.1843052 lon 13.7351436 node_type crossroad cluster_id 3
+338 7827739423 0.0 0.0 ellipse lat 46.1843031 lon 13.7350258 node_type crossroad cluster_id 3
+339 3011155644 0.0 0.0 ellipse lat 46.1849259 lon 13.7339865 node_type crossroad cluster_id 3
+340 3011155646 0.0 0.0 ellipse lat 46.1855783 lon 13.7338503 node_type crossroad cluster_id 3
+341 610827708 0.0 0.0 ellipse lat 46.1858636 lon 13.7327926 node_type crossroad cluster_id 2
+342 610827710 0.0 0.0 ellipse lat 46.1857197 lon 13.7319654 node_type crossroad cluster_id 2
+343 3011155649 0.0 0.0 ellipse lat 46.1858784 lon 13.7328924 node_type crossroad cluster_id 2
+344 7827739434 0.0 0.0 ellipse lat 46.1831856 lon 13.7329406 node_type crossroad cluster_id 3
+345 3011052492 0.0 0.0 ellipse lat 46.182308 lon 13.7332724 node_type crossroad cluster_id 1
+346 3011027562 0.0 0.0 ellipse lat 46.1823588 lon 13.7332431 node_type crossroad cluster_id 1
+347 872504491 0.0 0.0 ellipse lat 46.1850336 lon 13.7353482 node_type crossroad cluster_id 2
+348 1445113012 0.0 0.0 ellipse lat 46.1854709 lon 13.7357081 node_type crossroad cluster_id 2
+349 1445113013 0.0 0.0 ellipse lat 46.1855187 lon 13.7354113 node_type crossroad cluster_id 2
+350 3011155664 0.0 0.0 ellipse lat 46.1859419 lon 13.7345919 node_type crossroad cluster_id 2
+351 875785775 0.0 0.0 ellipse lat 46.1835622 lon 13.7307819 node_type crossroad cluster_id 3
+352 282173521 0.0 0.0 ellipse lat 46.1839716 lon 13.732247 node_type crossroad cluster_id 3
+353 1445113026 0.0 0.0 ellipse lat 46.1864597 lon 13.7337092 node_type crossroad cluster_id 3
+354 282173525 0.0 0.0 ellipse lat 46.1853047 lon 13.7307221 node_type crossroad cluster_id 2
+355 3011155703 0.0 0.0 ellipse lat 46.184664 lon 13.7302365 node_type crossroad cluster_id 2
+356 262248003 0.0 0.0 ellipse lat 46.1822096 lon 13.731102 node_type crossroad cluster_id 3
+357 3011027564 0.0 0.0 ellipse lat 46.1832927 lon 13.7329153 node_type crossroad cluster_id 3
+358 3011027571 0.0 0.0 ellipse lat 46.183545 lon 13.7350529 node_type crossroad cluster_id 3
+359 3011052490 0.0 0.0 ellipse lat 46.182062 lon 13.7342387 node_type crossroad cluster_id 1
+360 4551138639 0.0 0.0 ellipse lat 46.1827123 lon 13.7355626 node_type crossroad cluster_id 1
+361 1395031129 0.0 0.0 ellipse lat 46.1826777 lon 13.7323991 node_type crossroad cluster_id 1
+362 3011155643 0.0 0.0 ellipse lat 46.1846892 lon 13.732408 node_type crossroad cluster_id 3
+363 3011155648 0.0 0.0 ellipse lat 46.1847546 lon 13.7327687 node_type crossroad cluster_id 3
+364 3011155645 0.0 0.0 ellipse lat 46.1854006 lon 13.7321394 node_type crossroad cluster_id 2
+365 3011155647 0.0 0.0 ellipse lat 46.185454 lon 13.7324446 node_type crossroad cluster_id 2
+366 3011155650 0.0 0.0 ellipse lat 46.1855319 lon 13.7329913 node_type crossroad cluster_id 2
+367 1395031149 0.0 0.0 ellipse lat 46.1835091 lon 13.7361345 node_type crossroad cluster_id 1
+368 3011155669 0.0 0.0 ellipse lat 46.1836988 lon 13.7357353 node_type crossroad cluster_id 1
+369 610827773 0.0 0.0 ellipse lat 46.1825517 lon 13.7354935 node_type crossroad cluster_id 1
+370 3011155721 0.0 0.0 ellipse lat 46.1824992 lon 13.7355564 node_type crossroad cluster_id 1
+371 3011027539 0.0 0.0 ellipse lat 46.1819989 lon 13.7360301 node_type crossroad cluster_id 1
+372 262247998 0.0 0.0 ellipse lat 46.1831968 lon 13.7357349 node_type crossroad cluster_id 1
+373 1445113022 0.0 0.0 ellipse lat 46.1863304 lon 13.7301339 node_type crossroad cluster_id 0
+374 1865141943 0.0 0.0 ellipse lat 46.1832848 lon 13.7356387 node_type crossroad cluster_id 1
+375 282173520 0.0 0.0 ellipse lat 46.183667 lon 13.7328142 node_type crossroad cluster_id 3
+376 8082655350 0.0 0.0 ellipse lat 46.1859187 lon 13.7345019 node_type crossroad cluster_id 2
+377 288865937 0.0 0.0 ellipse lat 46.1869389 lon 13.7313757 node_type crossroad cluster_id 0
+378 1445113048 0.0 0.0 ellipse lat 46.1874627 lon 13.7311551 node_type crossroad cluster_id 0
+379 1445113066 0.0 0.0 ellipse lat 46.1879246 lon 13.7309987 node_type crossroad cluster_id 0
+380 1445113093 0.0 0.0 ellipse lat 46.1901181 lon 13.7307016 node_type crossroad cluster_id 0
+381 4064749890 0.0 0.0 ellipse lat 46.1890186 lon 13.7308902 node_type crossroad cluster_id 0
+382 4064749898 0.0 0.0 ellipse lat 46.1894186 lon 13.7309331 node_type crossroad cluster_id 0
+383 4598504985 0.0 0.0 ellipse lat 46.1872186 lon 13.7312532 node_type crossroad cluster_id 0
+384 875785842 0.0 0.0 ellipse lat 46.1860107 lon 13.7298473 node_type crossroad cluster_id 2
+385 1445113043 0.0 0.0 ellipse lat 46.187052 lon 13.7336706 node_type crossroad cluster_id 3
+386 3011155666 0.0 0.0 ellipse lat 46.1861308 lon 13.7337558 node_type crossroad cluster_id 3
+387 4405006391 0.0 0.0 ellipse lat 46.1868032 lon 13.7336988 node_type crossroad cluster_id 3
+388 1445113039 0.0 0.0 ellipse lat 46.186961 lon 13.7301516 node_type crossroad cluster_id 0
+389 4361522034 0.0 0.0 ellipse lat 46.1835634 lon 13.7371428 node_type crossroad cluster_id 1
+390 3011155724 0.0 0.0 ellipse lat 46.181848 lon 13.7364501 node_type crossroad cluster_id 1
+391 3011025629 0.0 0.0 ellipse lat 46.1838738 lon 13.7367569 node_type crossroad cluster_id 1
+392 1445113041 0.0 0.0 ellipse lat 46.1870398 lon 13.7327909 node_type crossroad cluster_id 0
+393 1445113062 0.0 0.0 ellipse lat 46.1879091 lon 13.7327722 node_type crossroad cluster_id 0
+394 1445113063 0.0 0.0 ellipse lat 46.1879175 lon 13.7330908 node_type crossroad cluster_id 0
+395 1445113079 0.0 0.0 ellipse lat 46.1888634 lon 13.7303672 node_type crossroad cluster_id 0
+396 1445113076 0.0 0.0 ellipse lat 46.1883663 lon 13.7330211 node_type crossroad cluster_id 0
+397 4064749899 0.0 0.0 ellipse lat 46.1894325 lon 13.7315787 node_type crossroad cluster_id 0
+398 4064749900 0.0 0.0 ellipse lat 46.1894392 lon 13.7321682 node_type crossroad cluster_id 0
+399 4064749904 0.0 0.0 ellipse lat 46.1897111 lon 13.7315787 node_type crossroad cluster_id 0
+400 4064747588 0.0 0.0 ellipse lat 46.1889809 lon 13.7313022 node_type crossroad cluster_id 0
+401 4064749905 0.0 0.0 ellipse lat 46.1897806 lon 13.7315962 node_type crossroad cluster_id 0
+402 3011025630 0.0 0.0 ellipse lat 46.1830972 lon 13.7377175 node_type crossroad cluster_id 1
+403 3011025631 0.0 0.0 ellipse lat 46.1836599 lon 13.7387793 node_type crossroad cluster_id 1
+*edges
+1 344 1.0 geo_dist 0.020193154889048263 duration 3 distance 18
+1 119 1.0 geo_dist 0.054011717237173254 duration 8 distance 31
+1 124 1.0 geo_dist 0.041416653472768336 duration 3 distance 18
+2 389 1.0 geo_dist 0.024860991900313833 duration 3 distance 22
+2 159 1.0 geo_dist 0.036339074913469493 duration 15 distance 38
+2 161 1.0 geo_dist 0.061229669620234184 duration 19 distance 64
+3 403 1.0 geo_dist 0.014400829468219502 duration 3 distance 17
+4 345 1.0 geo_dist 0.0449942882924038 duration 7 distance 44
+4 197 1.0 geo_dist 0.05711121112078822 duration 21 distance 61
+4 201 1.0 geo_dist 0.06087961700982005 duration 7 distance 44
+4 203 1.0 geo_dist 0.06280496052066574 duration 21 distance 60
+5 352 1.0 geo_dist 0.02300328085538314 duration 3 distance 20
+5 114 1.0 geo_dist 0.041492404383043836 duration 77 distance 505
+5 126 1.0 geo_dist 0.022441217273203983 duration 81 distance 532
+5 128 1.0 geo_dist 0.045767133562448006 duration 78 distance 511
+5 134 1.0 geo_dist 0.042517565539235566 duration 5 distance 40
+5 135 1.0 geo_dist 0.03062149991915349 duration 3 distance 20
+5 136 1.0 geo_dist 0.010810653888308874 duration 81 distance 532
+6 341 1.0 geo_dist 0.021476393245020063 duration 2 distance 15
+6 8 1.0 geo_dist 0.04003325306820412 duration 17 distance 68
+7 342 1.0 geo_dist 0.040310924865803344 duration 4 distance 30
+7 50 1.0 geo_dist 0.035122828330503494 duration 4 distance 35
+7 211 1.0 geo_dist 0.04524813413479952 duration 1 distance 4
+7 212 1.0 geo_dist 0.056794941173321976 duration 4 distance 34
+7 214 1.0 geo_dist 0.06808070380175131 duration 4 distance 34
+7 230 1.0 geo_dist 0.08380884233361512 duration 51 distance 330
+7 234 1.0 geo_dist 0.046251979085293306 duration 1 distance 11
+8 341 1.0 geo_dist 0.055731649317234545 duration 7 distance 53
+9 353 1.0 geo_dist 0.021999456124664522 duration 2 distance 18
+9 14 1.0 geo_dist 0.032506372248038005 duration 9 distance 52
+9 16 1.0 geo_dist 0.041054167948594344 duration 2 distance 18
+9 18 1.0 geo_dist 0.05652646185158187 duration 21 distance 84
+9 27 1.0 geo_dist 0.05838288749504979 duration 23 distance 104
+9 30 1.0 geo_dist 0.0648388285518775 duration 10 distance 68
+9 46 1.0 geo_dist 0.04588971972519288 duration 8 distance 46
+10 387 1.0 geo_dist 0.06542402224576023 duration 6 distance 50
+10 11 1.0 geo_dist 0.09594148722265032 duration 28 distance 120
+10 24 1.0 geo_dist 0.020204587774565488 duration 0 distance 0
+10 31 1.0 geo_dist 0.08979015041229073 duration 6 distance 50
+10 44 1.0 geo_dist 0.04922245089956541 duration 5 distance 36
+10 47 1.0 geo_dist 0.013928069133426398 duration 0 distance 0
+11 387 1.0 geo_dist 0.03337138465261687 duration 19 distance 70
+11 24 1.0 geo_dist 0.07894361533805012 duration 27 distance 120
+11 31 1.0 geo_dist 0.017725023256970163 duration 19 distance 70
+11 44 1.0 geo_dist 0.04788057028869018 duration 23 distance 84
+11 47 1.0 geo_dist 0.0997639169749789 duration 27 distance 120
+12 385 1.0 geo_dist 0.023345572195182684 duration 3 distance 20
+12 21 1.0 geo_dist 0.01705440573179579 duration 16 distance 49
+12 22 1.0 geo_dist 0.03230969102695886 duration 5 distance 37
+12 23 1.0 geo_dist 0.02505499227168994 duration 2 distance 15
+12 36 1.0 geo_dist 0.06081225508252755 duration 5 distance 37
+12 38 1.0 geo_dist 0.05822044083163146 duration 5 distance 37
+13 394 1.0 geo_dist 0.014533170063046696 duration 7 distance 41
+13 34 1.0 geo_dist 0.02902354121194649 duration 4 distance 29
+13 35 1.0 geo_dist 0.02828680088469827 duration 9 distance 54
+13 41 1.0 geo_dist 0.034439675809751824 duration 4 distance 31
+14 353 1.0 geo_dist 0.045094515002331075 duration 4 distance 34
+14 16 1.0 geo_dist 0.06413747938878406 duration 4 distance 34
+14 18 1.0 geo_dist 0.08017772346526254 duration 25 distance 100
+14 27 1.0 geo_dist 0.08705944547720522 duration 27 distance 120
+14 30 1.0 geo_dist 0.09618122491331985 duration 27 distance 120
+14 46 1.0 geo_dist 0.0775915046258991 duration 25 distance 98
+15 392 1.0 geo_dist 0.02361030557368443 duration 3 distance 23
+15 19 1.0 geo_dist 0.04203330789824588 duration 79 distance 380
+15 26 1.0 geo_dist 0.05654010458510584 duration 16 distance 49
+15 29 1.0 geo_dist 0.06371475905697477 duration 103 distance 534
+15 32 1.0 geo_dist 0.05027109839310102 duration 16 distance 49
+15 49 1.0 geo_dist 0.05036205931706679 duration 103 distance 534
+15 52 1.0 geo_dist 0.042648719180623615 duration 8 distance 49
+15 263 1.0 geo_dist 0.028877974536783348 duration 1 distance 7
+15 264 1.0 geo_dist 0.03163511041707847 duration 16 distance 46
+15 270 1.0 geo_dist 0.04853364273049485 duration 18 distance 63
+16 353 1.0 geo_dist 0.019871087273777996 duration 0 distance 0
+16 18 1.0 geo_dist 0.016123563041331515 duration 19 distance 66
+16 27 1.0 geo_dist 0.02686731817536023 duration 21 distance 86
+16 30 1.0 geo_dist 0.04274364292632306 duration 13 distance 86
+16 46 1.0 geo_dist 0.03176318203175885 duration 11 distance 64
+17 386 1.0 geo_dist 0.023412241550671294 duration 3 distance 23
+17 33 1.0 geo_dist 0.04577730918229472 duration 3 distance 23
+18 353 1.0 geo_dist 0.03592199003174879 duration 12 distance 66
+18 27 1.0 geo_dist 0.018868033432949807 duration 3 distance 20
+18 30 1.0 geo_dist 0.037214819603707136 duration 25 distance 152
+18 46 1.0 geo_dist 0.03402947557625868 duration 23 distance 130
+19 392 1.0 geo_dist 0.055349606808759395 duration 60 distance 403
+19 26 1.0 geo_dist 0.08745531938185684 duration 73 distance 429
+19 29 1.0 geo_dist 0.09262346295612335 duration 62 distance 308
+19 32 1.0 geo_dist 0.0836312191310199 duration 73 distance 429
+19 49 1.0 geo_dist 0.0692354547549183 duration 62 distance 308
+19 52 1.0 geo_dist 0.05319989289197592 duration 65 distance 429
+19 263 1.0 geo_dist 0.07049601648956252 duration 56 distance 373
+19 264 1.0 geo_dist 0.0726006639197248 duration 73 distance 426
+19 270 1.0 geo_dist 0.08999505551625225 duration 75 distance 443
+20 350 1.0 geo_dist 0.030520695648503893 duration 38 distance 142
+20 25 1.0 geo_dist 0.018783884785609255 duration 0 distance 0
+20 28 1.0 geo_dist 0.025942821597363937 duration 0 distance 0
+20 40 1.0 geo_dist 0.009846018466058516 duration 0 distance 0
+20 48 1.0 geo_dist 0.0348813104261331 duration 27 distance 172
+21 385 1.0 geo_dist 0.036657425357397654 duration 11 distance 69
+21 22 1.0 geo_dist 0.04789138813146866 duration 13 distance 86
+21 23 1.0 geo_dist 0.01649628734658097 duration 10 distance 64
+21 36 1.0 geo_dist 0.07020473188893336 duration 13 distance 86
+21 38 1.0 geo_dist 0.065706641602359 duration 13 distance 86
+22 385 1.0 geo_dist 0.013378252159083844 duration 2 distance 17
+22 23 1.0 geo_dist 0.047066141118315884 duration 3 distance 22
+22 36 1.0 geo_dist 0.0382890258610962 duration 0 distance 0
+22 38 1.0 geo_dist 0.04033625711885262 duration 0 distance 0
+23 385 1.0 geo_dist 0.03388142745850346 duration 1 distance 5
+23 36 1.0 geo_dist 0.059945754175545506 duration 3 distance 22
+23 38 1.0 geo_dist 0.05401760226178456 duration 3 distance 22
+24 387 1.0 geo_dist 0.04687012600503427 duration 6 distance 50
+24 31 1.0 geo_dist 0.07099546559049792 duration 6 distance 50
+24 44 1.0 geo_dist 0.03556329983611451 duration 5 distance 36
+24 47 1.0 geo_dist 0.031199895624007136 duration 0 distance 0
+25 350 1.0 geo_dist 0.04701596016469093 duration 38 distance 142
+25 28 1.0 geo_dist 0.007215669870212081 duration 0 distance 0
+25 40 1.0 geo_dist 0.008942841686001764 duration 0 distance 0
+25 48 1.0 geo_dist 0.01612438823901221 duration 27 distance 172
+26 392 1.0 geo_dist 0.033880556587598566 duration 3 distance 26
+26 29 1.0 geo_dist 0.008041160710809006 duration 112 distance 583
+26 32 1.0 geo_dist 0.00798651575355138 duration 0 distance 0
+26 49 1.0 geo_dist 0.02631979916020339 duration 112 distance 583
+26 52 1.0 geo_dist 0.0412239921757408 duration 6 distance 52
+26 263 1.0 geo_dist 0.05310242254562074 duration 10 distance 56
+26 264 1.0 geo_dist 0.036039567680170415 duration 0 distance 3
+26 270 1.0 geo_dist 0.05952431093216752 duration 2 distance 14
+27 353 1.0 geo_dist 0.04227988894160795 duration 14 distance 86
+27 30 1.0 geo_dist 0.018356535822521478 duration 27 distance 172
+27 46 1.0 geo_dist 0.020589254385271007 duration 25 distance 150
+28 350 1.0 geo_dist 0.05333309540676954 duration 38 distance 142
+28 40 1.0 geo_dist 0.01612809793357055 duration 0 distance 0
+28 48 1.0 geo_dist 0.00893951180156749 duration 27 distance 172
+29 392 1.0 geo_dist 0.040569368656581006 duration 82 distance 557
+29 32 1.0 geo_dist 0.01599715138553632 duration 95 distance 583
+29 49 1.0 geo_dist 0.027307094263451827 duration 0 distance 0
+29 52 1.0 geo_dist 0.04369917238589858 duration 87 distance 583
+29 263 1.0 geo_dist 0.06114048861015033 duration 78 distance 527
+29 264 1.0 geo_dist 0.04407530319653361 duration 95 distance 580
+29 270 1.0 geo_dist 0.06710545187567059 duration 97 distance 597
+30 353 1.0 geo_dist 0.053793391038865955 duration 21 distance 86
+30 46 1.0 geo_dist 0.019058043574057323 duration 3 distance 22
+31 387 1.0 geo_dist 0.024375250423317715 duration 0 distance 0
+31 44 1.0 geo_dist 0.046135866369257233 duration 2 distance 14
+31 47 1.0 geo_dist 0.09593215497358788 duration 6 distance 50
+32 392 1.0 geo_dist 0.028722426952574615 duration 3 distance 26
+32 49 1.0 geo_dist 0.028632371136587845 duration 112 distance 583
+32 52 1.0 geo_dist 0.0412172158420735 duration 6 distance 52
+32 263 1.0 geo_dist 0.045157110044254205 duration 10 distance 56
+32 264 1.0 geo_dist 0.028088205047838606 duration 0 distance 3
+32 270 1.0 geo_dist 0.05179776075444019 duration 2 distance 14
+33 386 1.0 geo_dist 0.022423975745697 duration 0 distance 0
+34 394 1.0 geo_dist 0.042170214241038215 duration 11 distance 70
+34 35 1.0 geo_dist 0.023215489535648844 duration 13 distance 83
+34 41 1.0 geo_dist 0.015095413565751841 duration 0 distance 2
+35 394 1.0 geo_dist 0.0342709774930281 duration 2 distance 13
+35 41 1.0 geo_dist 0.013415895091783895 duration 21 distance 85
+36 385 1.0 geo_dist 0.03838127195198959 duration 2 distance 17
+36 38 1.0 geo_dist 0.008927118867342944 duration 0 distance 0
+37 343 1.0 geo_dist 0.027937119500391495 duration 4 distance 28
+38 385 1.0 geo_dist 0.03735665174662121 duration 2 distance 17
+39 376 1.0 geo_dist 0.022197005685564403 duration 37 distance 135
+39 42 1.0 geo_dist 0.0072603700375636635 duration 1 distance 11
+39 51 1.0 geo_dist 0.01743308954168311 duration 2 distance 14
+40 350 1.0 geo_dist 0.03900738298488571 duration 38 distance 142
+40 48 1.0 geo_dist 0.0250586267867537 duration 27 distance 172
+41 394 1.0 geo_dist 0.044150889628304935 duration 11 distance 72
+42 376 1.0 geo_dist 0.02325905234080207 duration 36 distance 124
+42 51 1.0 geo_dist 0.01028428946674447 duration 0 distance 3
+43 377 1.0 geo_dist 0.0550924582682291 duration 7 distance 58
+43 45 1.0 geo_dist 0.03403747307066623 duration 26 distance 117
+43 209 1.0 geo_dist 0.07424940654198918 duration 9 distance 75
+43 215 1.0 geo_dist 0.08209349850964946 duration 10 distance 83
+43 216 1.0 geo_dist 0.06657817733425708 duration 22 distance 90
+43 221 1.0 geo_dist 0.09594437728704201 duration 12 distance 96
+43 227 1.0 geo_dist 0.07650510418871104 duration 24 distance 106
+43 228 1.0 geo_dist 0.0890552778730558 duration 11 distance 90
+43 231 1.0 geo_dist 0.0701193613964941 duration 24 distance 104
+44 387 1.0 geo_dist 0.024417737647246807 duration 2 distance 14
+44 47 1.0 geo_dist 0.051901745980015325 duration 5 distance 36
+45 377 1.0 geo_dist 0.06953247043003397 duration 8 distance 59
+45 209 1.0 geo_dist 0.07919947690679985 duration 18 distance 76
+45 215 1.0 geo_dist 0.08708150038132442 duration 19 distance 84
+45 216 1.0 geo_dist 0.06223502489756671 duration 3 distance 27
+45 221 1.0 geo_dist 0.10072223226028208 duration 21 distance 97
+45 227 1.0 geo_dist 0.06379323610322286 duration 1 distance 11
+45 228 1.0 geo_dist 0.09374719221221407 duration 20 distance 91
+45 231 1.0 geo_dist 0.05827345718958628 duration 2 distance 13
+46 353 1.0 geo_dist 0.03713945480601199 duration 19 distance 64
+47 387 1.0 geo_dist 0.07175932199228842 duration 6 distance 50
+48 350 1.0 geo_dist 0.061816071162919255 duration 47 distance 214
+49 392 1.0 geo_dist 0.028267350509792837 duration 82 distance 557
+49 52 1.0 geo_dist 0.017001855792109905 duration 87 distance 583
+49 263 1.0 geo_dist 0.06060610855581381 duration 78 distance 527
+49 264 1.0 geo_dist 0.046055031413322005 duration 95 distance 580
+49 270 1.0 geo_dist 0.07365753314819243 duration 97 distance 597
+50 342 1.0 geo_dist 0.06964474951571635 duration 8 distance 65
+50 211 1.0 geo_dist 0.0543747136523576 duration 4 distance 31
+50 212 1.0 geo_dist 0.044496320805671466 duration 0 distance 0
+50 214 1.0 geo_dist 0.05839232741697288 duration 0 distance 1
+50 230 1.0 geo_dist 0.07822308483406738 duration 55 distance 365
+50 234 1.0 geo_dist 0.0639821555498352 duration 6 distance 46
+51 376 1.0 geo_dist 0.026122418806018895 duration 36 distance 121
+52 392 1.0 geo_dist 0.026597404870628734 duration 3 distance 26
+52 263 1.0 geo_dist 0.06071025076163466 duration 17 distance 56
+52 264 1.0 geo_dist 0.049641258330377434 duration 6 distance 49
+52 270 1.0 geo_dist 0.0770023832120516 duration 8 distance 66
+53 365 1.0 geo_dist 0.021651289572096798 duration 30 distance 86
+53 56 1.0 geo_dist 0.015996338762106106 duration 32 distance 102
+53 61 1.0 geo_dist 0.03715067683793033 duration 21 distance 79
+54 347 1.0 geo_dist 0.0312808706164407 duration 2 distance 17
+54 84 1.0 geo_dist 0.052687747642830414 duration 4 distance 28
+54 85 1.0 geo_dist 0.062178448456917876 duration 3 distance 24
+55 335 1.0 geo_dist 0.02330936178600863 duration 2 distance 18
+55 69 1.0 geo_dist 0.039359421859497264 duration 18 distance 65
+56 365 1.0 geo_dist 0.02472158400845045 duration 2 distance 16
+56 61 1.0 geo_dist 0.04071343833099544 duration 17 distance 57
+57 364 1.0 geo_dist 0.034293059794409005 duration 5 distance 37
+57 120 1.0 geo_dist 0.05003448777228653 duration 1 distance 11
+57 143 1.0 geo_dist 0.05538863827441811 duration 22 distance 93
+58 366 1.0 geo_dist 0.02966913587515311 duration 45 distance 200
+58 63 1.0 geo_dist 0.05102615921790474 duration 43 distance 190
+58 65 1.0 geo_dist 0.04107321183131824 duration 48 distance 223
+58 76 1.0 geo_dist 0.06371586319018843 duration 44 distance 194
+59 338 1.0 geo_dist 0.031113198445905415 duration 4 distance 29
+60 340 1.0 geo_dist 0.028024416710779505 duration 0 distance 0
+60 62 1.0 geo_dist 0.05810929724842544 duration 4 distance 29
+60 64 1.0 geo_dist 0.04836469404486225 duration 2 distance 18
+60 78 1.0 geo_dist 0.028464941392037924 duration 83 distance 589
+61 365 1.0 geo_dist 0.016340465679710495 duration 8 distance 41
+62 340 1.0 geo_dist 0.03184363272095091 duration 4 distance 29
+62 64 1.0 geo_dist 0.03231311527057162 duration 1 distance 11
+62 78 1.0 geo_dist 0.061762717080276676 duration 93 distance 489
+63 366 1.0 geo_dist 0.022764384322304668 duration 1 distance 10
+63 65 1.0 geo_dist 0.030931879404578196 duration 4 distance 33
+63 76 1.0 geo_dist 0.017725118208264546 duration 0 distance 3
+64 340 1.0 geo_dist 0.023669980250442396 duration 2 distance 18
+64 78 1.0 geo_dist 0.037020060316102325 duration 95 distance 500
+65 366 1.0 geo_dist 0.031083277159349144 duration 3 distance 23
+65 76 1.0 geo_dist 0.03157981314545186 duration 4 distance 30
+66 334 1.0 geo_dist 0.037403899425370195 duration 5 distance 39
+66 72 1.0 geo_dist 0.025011561704623136 duration 3 distance 26
+66 74 1.0 geo_dist 0.013999878240871663 duration 2 distance 15
+66 174 1.0 geo_dist 0.06656935082412005 duration 10 distance 63
+67 339 1.0 geo_dist 0.025141480780639477 duration 3 distance 20
+67 70 1.0 geo_dist 0.04656979293609762 duration 16 distance 41
+67 73 1.0 geo_dist 0.03596238443139014 duration 16 distance 41
+67 75 1.0 geo_dist 0.059852089067621794 duration 19 distance 65
+67 79 1.0 geo_dist 0.03515039186962532 duration 5 distance 36
+67 80 1.0 geo_dist 0.06525474856965398 duration 7 distance 55
+68 363 1.0 geo_dist 0.009992590411656982 duration 1 distance 7
+68 71 1.0 geo_dist 0.01487758491387867 duration 0 distance 0
+68 77 1.0 geo_dist 0.026032584421763632 duration 1 distance 6
+69 335 1.0 geo_dist 0.05633475802708414 duration 6 distance 47
+70 339 1.0 geo_dist 0.023071073999761896 duration 76 distance 352
+70 73 1.0 geo_dist 0.026321117257326634 duration 0 distance 0
+70 75 1.0 geo_dist 0.03200025732614561 duration 3 distance 24
+70 79 1.0 geo_dist 0.03851056523987633 duration 78 distance 368
+70 80 1.0 geo_dist 0.026094137510602525 duration 80 distance 387
+71 363 1.0 geo_dist 0.02267128862231618 duration 1 distance 6
+71 77 1.0 geo_dist 0.040475719777133656 duration 1 distance 5
+72 334 1.0 geo_dist 0.014908673473436926 duration 2 distance 13
+72 74 1.0 geo_dist 0.011012766437967109 duration 1 distance 11
+72 174 1.0 geo_dist 0.04616528786283256 duration 7 distance 37
+73 339 1.0 geo_dist 0.027004368069930007 duration 76 distance 352
+73 75 1.0 geo_dist 0.023957405533690763 duration 3 distance 24
+73 79 1.0 geo_dist 0.049536438076555625 duration 78 distance 368
+73 80 1.0 geo_dist 0.052377479743555715 duration 80 distance 387
+74 334 1.0 geo_dist 0.02416433160388484 duration 3 distance 24
+74 174 1.0 geo_dist 0.054612231433342893 duration 8 distance 48
+75 339 1.0 geo_dist 0.04623387369905374 duration 73 distance 328
+75 79 1.0 geo_dist 0.0673052181220391 duration 75 distance 344
+75 80 1.0 geo_dist 0.05410857897722677 duration 77 distance 363
+76 366 1.0 geo_dist 0.03857846616796027 duration 1 distance 7
+77 363 1.0 geo_dist 0.01836574559551651 duration 0 distance 0
+78 340 1.0 geo_dist 0.03186738853647481 duration 3 distance 25
+79 339 1.0 geo_dist 0.022539247241725135 duration 84 distance 597
+79 80 1.0 geo_dist 0.041690954624806556 duration 2 distance 18
+80 339 1.0 geo_dist 0.04024851100078337 duration 82 distance 579
+81 348 1.0 geo_dist 0.04188330129893116 duration 4 distance 28
+81 82 1.0 geo_dist 0.02025256901273354 duration 1 distance 7
+81 88 1.0 geo_dist 0.06583019720675128 duration 5 distance 39
+82 348 1.0 geo_dist 0.030658420129822218 duration 3 distance 21
+82 88 1.0 geo_dist 0.05110012543024412 duration 4 distance 32
+83 349 1.0 geo_dist 0.027976160573702516 duration 3 distance 22
+84 347 1.0 geo_dist 0.021409671515719257 duration 1 distance 11
+84 85 1.0 geo_dist 0.023549048750267025 duration 7 distance 52
+85 347 1.0 geo_dist 0.03525356905618691 duration 5 distance 41
+86 337 1.0 geo_dist 0.02543571707912952 duration 3 distance 21
+86 89 1.0 geo_dist 0.010617184599364142 duration 1 distance 7
+86 181 1.0 geo_dist 0.03863397179906909 duration 14 distance 39
+87 336 1.0 geo_dist 0.014521688098942744 duration 2 distance 14
+87 179 1.0 geo_dist 0.036155013986141495 duration 8 distance 40
+88 348 1.0 geo_dist 0.02476891110739342 duration 1 distance 11
+89 337 1.0 geo_dist 0.014896913181123683 duration 2 distance 14
+89 181 1.0 geo_dist 0.02887983021210179 duration 13 distance 32
+90 351 1.0 geo_dist 0.0368194775380341 duration 75 distance 506
+90 91 1.0 geo_dist 0.021321001584525337 duration 80 distance 523
+90 117 1.0 geo_dist 0.031014793858071796 duration 82 distance 535
+90 118 1.0 geo_dist 0.03958343615458327 duration 84 distance 461
+90 130 1.0 geo_dist 0.024677416950782766 duration 86 distance 482
+90 137 1.0 geo_dist 0.039146962279571575 duration 2 distance 18
+90 139 1.0 geo_dist 0.030826809940694574 duration 2 distance 19
+90 316 1.0 geo_dist 0.07437848264476035 duration 69 distance 461
+90 317 1.0 geo_dist 0.10054280374584984 duration 71 distance 511
+91 351 1.0 geo_dist 0.01924317046183374 duration 78 distance 527
+91 117 1.0 geo_dist 0.034186633923382635 duration 2 distance 12
+91 118 1.0 geo_dist 0.032029045121286716 duration 87 distance 482
+91 130 1.0 geo_dist 0.01044145658755065 duration 89 distance 503
+91 137 1.0 geo_dist 0.04923664551850635 duration 5 distance 40
+91 139 1.0 geo_dist 0.044015216801728 duration 5 distance 40
+91 316 1.0 geo_dist 0.06523415912566992 duration 72 distance 482
+91 317 1.0 geo_dist 0.09058929188673123 duration 74 distance 532
+92 390 1.0 geo_dist 0.040310802633454476 duration 4 distance 26
+92 101 1.0 geo_dist 0.026929068922824206 duration 0 distance 0
+92 105 1.0 geo_dist 0.0070563497655685955 duration 0 distance 0
+92 111 1.0 geo_dist 0.03552197470990272 duration 17 distance 44
+93 371 1.0 geo_dist 0.029551524064834595 duration 6 distance 39
+93 94 1.0 geo_dist 0.018576654121762563 duration 183 distance 923
+93 95 1.0 geo_dist 0.03901758900539599 duration 19 distance 61
+93 99 1.0 geo_dist 0.011298388012778639 duration 3 distance 19
+93 104 1.0 geo_dist 0.10023272780944754 duration 187 distance 888
+93 112 1.0 geo_dist 0.07918274432788767 duration 173 distance 843
+93 148 1.0 geo_dist 0.03401835467342671 duration 188 distance 954
+94 371 1.0 geo_dist 0.03380991245572471 duration 80 distance 493
+94 95 1.0 geo_dist 0.05445764807807627 duration 77 distance 471
+94 99 1.0 geo_dist 0.023134771639059838 duration 86 distance 513
+94 104 1.0 geo_dist 0.08378507020573901 duration 16 distance 101
+94 112 1.0 geo_dist 0.06103369803486782 duration 25 distance 145
+94 148 1.0 geo_dist 0.02744602600057703 duration 5 distance 31
+95 371 1.0 geo_dist 0.031837707645725424 duration 3 distance 22
+95 99 1.0 geo_dist 0.03132890705527971 duration 9 distance 42
+95 104 1.0 geo_dist 0.12151681029011167 duration 168 distance 827
+95 112 1.0 geo_dist 0.10786720530295493 duration 154 distance 782
+95 148 1.0 geo_dist 0.04975651826860951 duration 169 distance 893
+96 370 1.0 geo_dist 0.03249855162075921 duration 5 distance 30
+96 151 1.0 geo_dist 0.02378561283533157 duration 3 distance 17
+96 154 1.0 geo_dist 0.037365923976089996 duration 8 distance 44
+96 156 1.0 geo_dist 0.06455180051004394 duration 70 distance 421
+97 369 1.0 geo_dist 0.054485422736163955 duration 11 distance 60
+97 98 1.0 geo_dist 0.0310220520400785 duration 3 distance 30
+97 109 1.0 geo_dist 0.02011947657819342 duration 85 distance 426
+97 110 1.0 geo_dist 0.03928718125895711 duration 6 distance 50
+97 149 1.0 geo_dist 0.02860449408415903 duration 4 distance 32
+97 150 1.0 geo_dist 0.01938942058670874 duration 3 distance 23
+97 152 1.0 geo_dist 0.05273960852120121 duration 12 distance 65
+98 369 1.0 geo_dist 0.03753654790245184 duration 8 distance 30
+98 109 1.0 geo_dist 0.022782048687269248 duration 82 distance 396
+98 110 1.0 geo_dist 0.02634840730511603 duration 3 distance 20
+98 149 1.0 geo_dist 0.020498454732411894 duration 0 distance 2
+98 150 1.0 geo_dist 0.018690170796283115 duration 66 distance 379
+98 152 1.0 geo_dist 0.03107202690606563 duration 9 distance 35
+99 371 1.0 geo_dist 0.01868102335200432 duration 3 distance 20
+99 104 1.0 geo_dist 0.09761474561530388 duration 184 distance 869
+99 112 1.0 geo_dist 0.07954806997799227 duration 170 distance 824
+99 148 1.0 geo_dist 0.027211039822979167 duration 185 distance 935
+100 359 1.0 geo_dist 0.043091296458167665 duration 60 distance 343
+100 103 1.0 geo_dist 0.0541456571240589 duration 49 distance 292
+100 107 1.0 geo_dist 0.04731777158547466 duration 47 distance 278
+101 390 1.0 geo_dist 0.024069831969351276 duration 4 distance 26
+101 105 1.0 geo_dist 0.024183230054191786 duration 0 distance 0
+101 111 1.0 geo_dist 0.009061152790083227 duration 17 distance 44
+102 330 1.0 geo_dist 0.08552773394492848 duration 80 distance 323
+102 106 1.0 geo_dist 0.03044315099204945 duration 5 distance 31
+102 108 1.0 geo_dist 0.013017560216107272 duration 2 distance 13
+102 323 1.0 geo_dist 0.05730027130767151 duration 86 distance 367
+102 324 1.0 geo_dist 0.05627922255974797 duration 86 distance 365
+103 359 1.0 geo_dist 0.03758621340381912 duration 11 distance 51
+103 107 1.0 geo_dist 0.02662283893776273 duration 2 distance 14
+104 371 1.0 geo_dist 0.08968374861783412 duration 96 distance 594
+104 112 1.0 geo_dist 0.030610539658852205 duration 9 distance 44
+104 148 1.0 geo_dist 0.07219881129183194 duration 11 distance 70
+105 390 1.0 geo_dist 0.0340237198526359 duration 4 distance 26
+105 111 1.0 geo_dist 0.031961999305824516 duration 17 distance 44
+106 330 1.0 geo_dist 0.05983462996591508 duration 75 distance 292
+106 108 1.0 geo_dist 0.017675944601181628 duration 3 distance 18
+106 323 1.0 geo_dist 0.048424791810071026 duration 81 distance 336
+106 324 1.0 geo_dist 0.04656235641773276 duration 81 distance 334
+107 359 1.0 geo_dist 0.05395495845357237 duration 13 distance 65
+108 330 1.0 geo_dist 0.07325202514861127 duration 78 distance 310
+108 323 1.0 geo_dist 0.049768082579047086 duration 84 distance 354
+108 324 1.0 geo_dist 0.04839815936191835 duration 84 distance 352
+109 369 1.0 geo_dist 0.057734712678049 duration 67 distance 321
+109 110 1.0 geo_dist 0.043886754227427965 duration 62 distance 311
+109 149 1.0 geo_dist 0.03414546801382593 duration 60 distance 293
+109 150 1.0 geo_dist 0.025901023460485444 duration 59 distance 284
+109 152 1.0 geo_dist 0.052768572980306364 duration 68 distance 326
+110 369 1.0 geo_dist 0.015199516973020322 duration 1 distance 10
+110 149 1.0 geo_dist 0.010749004825845222 duration 61 distance 368
+110 150 1.0 geo_dist 0.020204887724118787 duration 60 distance 359
+110 152 1.0 geo_dist 0.015661049753258674 duration 2 distance 15
+111 390 1.0 geo_dist 0.020178576382883964 duration 3 distance 18
+112 371 1.0 geo_dist 0.07716175731708028 duration 109 distance 651
+112 148 1.0 geo_dist 0.05897799819220234 duration 25 distance 114
+113 355 1.0 geo_dist 0.06334797078067711 duration 96 distance 477
+113 116 1.0 geo_dist 0.09055774744952517 duration 89 distance 428
+113 123 1.0 geo_dist 0.030427233401313675 duration 101 distance 514
+113 125 1.0 geo_dist 0.06167563795952375 duration 64 distance 299
+113 140 1.0 geo_dist 0.03858097908672787 duration 63 distance 298
+113 141 1.0 geo_dist 0.0714283474576936 duration 68 distance 336
+113 144 1.0 geo_dist 0.04954507752624436 duration 63 distance 297
+113 146 1.0 geo_dist 0.06220300998285002 duration 96 distance 477
+114 352 1.0 geo_dist 0.06080108618154187 duration 7 distance 59
+114 126 1.0 geo_dist 0.019266067439384443 duration 3 distance 27
+114 128 1.0 geo_dist 0.025799704507494838 duration 1 distance 6
+114 134 1.0 geo_dist 0.04512754665258349 duration 30 distance 120
+114 135 1.0 geo_dist 0.05792549257283525 duration 7 distance 59
+114 136 1.0 geo_dist 0.03080587496697114 duration 3 distance 27
+115 362 1.0 geo_dist 0.08255850086214782 duration 41 distance 198
+116 355 1.0 geo_dist 0.036219264996095096 duration 6 distance 49
+116 123 1.0 geo_dist 0.06042846092108087 duration 11 distance 86
+116 125 1.0 geo_dist 0.07619411206892626 duration 78 distance 415
+116 140 1.0 geo_dist 0.07371050512583628 duration 77 distance 414
+116 141 1.0 geo_dist 0.04245517548816587 duration 82 distance 452
+116 144 1.0 geo_dist 0.07648114791143495 duration 77 distance 413
+116 146 1.0 geo_dist 0.029069685983210303 duration 6 distance 49
+117 351 1.0 geo_dist 0.03210900593580941 duration 76 distance 516
+117 118 1.0 geo_dist 0.06484675751192603 duration 85 distance 471
+117 130 1.0 geo_dist 0.0440868697678883 duration 87 distance 492
+117 137 1.0 geo_dist 0.07011110231277953 duration 4 distance 28
+117 139 1.0 geo_dist 0.061438139561300266 duration 4 distance 28
+117 316 1.0 geo_dist 0.04716989786431292 duration 70 distance 471
+117 317 1.0 geo_dist 0.07287708355838483 duration 72 distance 521
+118 351 1.0 geo_dist 0.04779005498281376 duration 6 distance 45
+118 130 1.0 geo_dist 0.021599221694174574 duration 3 distance 22
+118 137 1.0 geo_dist 0.0340991385661387 duration 23 distance 102
+118 139 1.0 geo_dist 0.036032899376343984 duration 23 distance 102
+118 316 1.0 geo_dist 0.09585070211224965 duration 90 distance 544
+118 317 1.0 geo_dist 0.1202657845448618 duration 92 distance 594
+119 344 1.0 geo_dist 0.0354407492199281 duration 2 distance 13
+119 124 1.0 geo_dist 0.0165187381091945 duration 2 distance 13
+120 364 1.0 geo_dist 0.04015730575187745 duration 3 distance 26
+120 143 1.0 geo_dist 0.027317133737473506 duration 20 distance 82
+121 375 1.0 geo_dist 0.012285037262566025 duration 2 distance 12
+121 129 1.0 geo_dist 0.030070695005282352 duration 2 distance 15
+121 132 1.0 geo_dist 0.028578710329190467 duration 2 distance 19
+122 357 1.0 geo_dist 0.021466688541508405 duration 3 distance 23
+122 127 1.0 geo_dist 0.028937851752857388 duration 1 distance 5
+122 131 1.0 geo_dist 0.030817891868912716 duration 78 distance 503
+122 145 1.0 geo_dist 0.010055013347498877 duration 1 distance 9
+123 355 1.0 geo_dist 0.03790273023991254 duration 100 distance 507
+123 125 1.0 geo_dist 0.048005247825490246 duration 68 distance 329
+123 140 1.0 geo_dist 0.02795308674946283 duration 67 distance 328
+123 141 1.0 geo_dist 0.044294662074603405 duration 72 distance 366
+123 144 1.0 geo_dist 0.03854864440729191 duration 67 distance 327
+123 146 1.0 geo_dist 0.031800535749703464 duration 100 distance 507
+124 344 1.0 geo_dist 0.021403752095735456 duration 0 distance 0
+125 355 1.0 geo_dist 0.07564623565236298 duration 32 distance 178
+125 140 1.0 geo_dist 0.023321852797895976 duration 0 distance 2
+125 141 1.0 geo_dist 0.0346763544486368 duration 5 distance 37
+125 144 1.0 geo_dist 0.012197577119186691 duration 0 distance 2
+125 146 1.0 geo_dist 0.053722819177520385 duration 32 distance 178
+126 352 1.0 geo_dist 0.04180983077194869 duration 4 distance 32
+126 128 1.0 geo_dist 0.028178118825315616 duration 80 distance 523
+126 134 1.0 geo_dist 0.04086458217761032 duration 27 distance 93
+126 135 1.0 geo_dist 0.041133088391372266 duration 4 distance 32
+126 136 1.0 geo_dist 0.011644420840397797 duration 0 distance 0
+127 357 1.0 geo_dist 0.023022186596157245 duration 2 distance 18
+127 131 1.0 geo_dist 0.058109534650998405 duration 77 distance 498
+127 145 1.0 geo_dist 0.029338924514971776 duration 1 distance 5
+128 352 1.0 geo_dist 0.05638508829922613 duration 7 distance 54
+128 134 1.0 geo_dist 0.06712337494007824 duration 30 distance 115
+128 135 1.0 geo_dist 0.046517334009410716 duration 7 distance 54
+128 136 1.0 geo_dist 0.03640984676402407 duration 3 distance 22
+129 375 1.0 geo_dist 0.020021063741483526 duration 6 distance 27
+129 132 1.0 geo_dist 0.015535633190834154 duration 6 distance 34
+130 351 1.0 geo_dist 0.027526380342911147 duration 3 distance 24
+130 137 1.0 geo_dist 0.042609715819726474 duration 20 distance 81
+130 139 1.0 geo_dist 0.03915078922092184 duration 20 distance 81
+130 316 1.0 geo_dist 0.07495437128360197 duration 87 distance 523
+130 317 1.0 geo_dist 0.09993965256293706 duration 89 distance 573
+131 357 1.0 geo_dist 0.040841147124477166 duration 33 distance 216
+131 145 1.0 geo_dist 0.02908663532715855 duration 31 distance 203
+132 375 1.0 geo_dist 0.016321483947023464 duration 1 distance 7
+133 354 1.0 geo_dist 0.03135361955793256 duration 4 distance 30
+133 138 1.0 geo_dist 0.02800780399901156 duration 4 distance 28
+133 142 1.0 geo_dist 0.0319738692202733 duration 13 distance 79
+133 147 1.0 geo_dist 0.034420085806757345 duration 1 distance 4
+133 206 1.0 geo_dist 0.06415973889574639 duration 8 distance 64
+133 207 1.0 geo_dist 0.08726011843397753 duration 32 distance 219
+133 213 1.0 geo_dist 0.04603727609340375 duration 12 distance 70
+133 219 1.0 geo_dist 0.04078704630312258 duration 9 distance 44
+133 220 1.0 geo_dist 0.0796627662609736 duration 13 distance 74
+133 225 1.0 geo_dist 0.05729919952101865 duration 12 distance 66
+133 252 1.0 geo_dist 0.1056672294111928 duration 55 distance 359
+133 253 1.0 geo_dist 0.0868335101522811 duration 20 distance 82
+134 352 1.0 geo_dist 0.0641942479790737 duration 8 distance 61
+134 135 1.0 geo_dist 0.07291302416974539 duration 8 distance 61
+134 136 1.0 geo_dist 0.040587943902932806 duration 77 distance 451
+135 352 1.0 geo_dist 0.0170286328224028 duration 0 distance 0
+135 136 1.0 geo_dist 0.033933449535281004 duration 78 distance 512
+136 352 1.0 geo_dist 0.03126182308186688 duration 4 distance 32
+137 351 1.0 geo_dist 0.06847944515252907 duration 73 distance 488
+137 139 1.0 geo_dist 0.009852746008624683 duration 0 distance 0
+137 316 1.0 geo_dist 0.11227700694530489 duration 67 distance 443
+137 317 1.0 geo_dist 0.13827788535571772 duration 69 distance 493
+138 354 1.0 geo_dist 0.058009531574053357 duration 7 distance 58
+138 142 1.0 geo_dist 0.04395634615977904 duration 16 distance 107
+138 147 1.0 geo_dist 0.046275107573600816 duration 4 distance 32
+138 206 1.0 geo_dist 0.09214782201060048 duration 11 distance 92
+138 207 1.0 geo_dist 0.11223575063535363 duration 35 distance 247
+138 213 1.0 geo_dist 0.07109397423106525 duration 15 distance 98
+138 219 1.0 geo_dist 0.06879119044296922 duration 12 distance 72
+138 220 1.0 geo_dist 0.10598404166428939 duration 16 distance 102
+138 225 1.0 geo_dist 0.08383906289623061 duration 15 distance 94
+138 252 1.0 geo_dist 0.1262442722141238 duration 58 distance 387
+138 253 1.0 geo_dist 0.10598433389131846 duration 23 distance 110
+139 351 1.0 geo_dist 0.0630595812175772 duration 72 distance 487
+139 316 1.0 geo_dist 0.10492530842053893 duration 66 distance 442
+139 317 1.0 geo_dist 0.1310486654092029 duration 68 distance 492
+140 355 1.0 geo_dist 0.062296305534419935 duration 32 distance 179
+140 141 1.0 geo_dist 0.04005413646655633 duration 5 distance 39
+140 144 1.0 geo_dist 0.011643692752641809 duration 0 distance 0
+140 146 1.0 geo_dist 0.046046729200525355 duration 32 distance 179
+141 355 1.0 geo_dist 0.05256051837126305 duration 28 distance 141
+141 144 1.0 geo_dist 0.03807115431716073 duration 5 distance 39
+141 146 1.0 geo_dist 0.02744975681050022 duration 28 distance 141
+142 354 1.0 geo_dist 0.05204273749674913 duration 6 distance 49
+142 147 1.0 geo_dist 0.06618320646010899 duration 20 distance 75
+142 206 1.0 geo_dist 0.0709638401497415 duration 12 distance 83
+142 207 1.0 geo_dist 0.07382445787390936 duration 36 distance 238
+142 213 1.0 geo_dist 0.03672968050622352 duration 1 distance 9
+142 219 1.0 geo_dist 0.05057633029506277 duration 4 distance 35
+142 220 1.0 geo_dist 0.07099345085516487 duration 1 distance 5
+142 225 1.0 geo_dist 0.05156726162029013 duration 2 distance 13
+142 252 1.0 geo_dist 0.12980961254867762 duration 59 distance 378
+142 253 1.0 geo_dist 0.11300446065715351 duration 13 distance 101
+143 364 1.0 geo_dist 0.027563950692006157 duration 9 distance 56
+144 355 1.0 geo_dist 0.07018022571659532 duration 33 distance 180
+144 146 1.0 geo_dist 0.05089962420156912 duration 33 distance 180
+145 357 1.0 geo_dist 0.013785024714050381 duration 2 distance 14
+146 355 1.0 geo_dist 0.025112369939240497 duration 0 distance 0
+147 354 1.0 geo_dist 0.03315861044126679 duration 3 distance 26
+147 206 1.0 geo_dist 0.06862452682009769 duration 7 distance 60
+147 207 1.0 geo_dist 0.10678349420917446 duration 31 distance 215
+147 213 1.0 geo_dist 0.06935589107006301 duration 11 distance 66
+147 219 1.0 geo_dist 0.05038740147267509 duration 8 distance 40
+147 220 1.0 geo_dist 0.0960776863206078 duration 12 distance 70
+147 225 1.0 geo_dist 0.07521997079370654 duration 11 distance 62
+147 252 1.0 geo_dist 0.08098415261623368 duration 54 distance 355
+147 253 1.0 geo_dist 0.06027620461908401 duration 19 distance 78
+148 371 1.0 geo_dist 0.018254265218907256 duration 85 distance 524
+149 369 1.0 geo_dist 0.02591042462530731 duration 7 distance 27
+149 150 1.0 geo_dist 0.009464447057182516 duration 65 distance 376
+149 152 1.0 geo_dist 0.024746166038105886 duration 8 distance 32
+150 369 1.0 geo_dist 0.03532263474393006 duration 8 distance 36
+150 152 1.0 geo_dist 0.0333871944237875 duration 9 distance 41
+151 370 1.0 geo_dist 0.01346004515883081 duration 2 distance 13
+151 154 1.0 geo_dist 0.01404551800126805 duration 5 distance 27
+151 156 1.0 geo_dist 0.050098842606857236 duration 67 distance 404
+152 369 1.0 geo_dist 0.009379896618598055 duration 207 distance 1250
+153 360 1.0 geo_dist 0.010199485609082936 duration 0 distance 2
+153 160 1.0 geo_dist 0.051024414590795535 duration 57 distance 342
+154 370 1.0 geo_dist 0.009984100902318972 duration 202 distance 1241
+154 156 1.0 geo_dist 0.04996017216394989 duration 62 distance 377
+155 402 1.0 geo_dist 0.02768800579030881 duration 3 distance 17
+155 157 1.0 geo_dist 0.038895405581029184 duration 13 distance 24
+156 370 1.0 geo_dist 0.05867469698863647 duration 149 distance 782
+157 402 1.0 geo_dist 0.013337761028096926 duration 1 distance 7
+158 367 1.0 geo_dist 0.053542675701047406 duration 54 distance 168
+158 163 1.0 geo_dist 0.033277763606266525 duration 1 distance 4
+158 167 1.0 geo_dist 0.04320971918225491 duration 52 distance 150
+158 169 1.0 geo_dist 0.07435430808885679 duration 52 distance 149
+158 173 1.0 geo_dist 0.06843780752390224 duration 52 distance 146
+158 187 1.0 geo_dist 0.06586373116168681 duration 55 distance 183
+159 389 1.0 geo_dist 0.02492161801896692 duration 3 distance 16
+159 161 1.0 geo_dist 0.025206086970145068 duration 4 distance 25
+160 360 1.0 geo_dist 0.059799192555652234 duration 154 distance 790
+161 389 1.0 geo_dist 0.04827543830427734 duration 7 distance 42
+162 372 1.0 geo_dist 0.050057288881612184 duration 61 distance 232
+162 164 1.0 geo_dist 0.021957795268951506 duration 1 distance 6
+162 165 1.0 geo_dist 0.02398679112300957 duration 2 distance 10
+163 367 1.0 geo_dist 0.02026878035848963 duration 54 distance 172
+163 167 1.0 geo_dist 0.02050391866202406 duration 52 distance 154
+163 169 1.0 geo_dist 0.04320971689662781 duration 52 distance 153
+163 173 1.0 geo_dist 0.0380231019683324 duration 52 distance 150
+163 187 1.0 geo_dist 0.035267400693593076 duration 55 distance 187
+164 372 1.0 geo_dist 0.03388903428535467 duration 60 distance 226
+164 165 1.0 geo_dist 0.016956872479510565 duration 3 distance 16
+165 372 1.0 geo_dist 0.026738389268208408 duration 62 distance 242
+166 391 1.0 geo_dist 0.026874722586516523 duration 2 distance 19
+166 170 1.0 geo_dist 0.03735577212113774 duration 2 distance 19
+166 189 1.0 geo_dist 0.0632579653405783 duration 29 distance 234
+166 190 1.0 geo_dist 0.026995667864706255 duration 0 distance 0
+166 312 1.0 geo_dist 0.03708696579598518 duration 8 distance 36
+167 367 1.0 geo_dist 0.025389210002146157 duration 2 distance 18
+167 169 1.0 geo_dist 0.033277692154958065 duration 0 distance 1
+167 173 1.0 geo_dist 0.02692253168718282 duration 0 distance 4
+167 187 1.0 geo_dist 0.045888487239379806 duration 3 distance 33
+168 358 1.0 geo_dist 0.011997276139663112 duration 2 distance 15
+168 171 1.0 geo_dist 0.04713688913014366 duration 7 distance 53
+168 175 1.0 geo_dist 0.02310403241498412 duration 4 distance 29
+168 178 1.0 geo_dist 0.04663066398592352 duration 5 distance 38
+168 185 1.0 geo_dist 0.025437497406096833 duration 0 distance 0
+168 313 1.0 geo_dist 0.0554657526382286 duration 6 distance 49
+169 367 1.0 geo_dist 0.027252501797496064 duration 2 distance 20
+169 173 1.0 geo_dist 0.006397117675857843 duration 0 distance 3
+169 187 1.0 geo_dist 0.03956765723551225 duration 3 distance 35
+170 391 1.0 geo_dist 0.011918336278222818 duration 0 distance 0
+170 189 1.0 geo_dist 0.03393103008565747 duration 31 distance 253
+170 190 1.0 geo_dist 0.02717210998730637 duration 2 distance 19
+170 312 1.0 geo_dist 0.028870477258172392 duration 3 distance 17
+171 358 1.0 geo_dist 0.039435075695424156 duration 5 distance 38
+171 175 1.0 geo_dist 0.024044660893551607 duration 3 distance 24
+171 178 1.0 geo_dist 0.03854349991323194 duration 2 distance 15
+171 185 1.0 geo_dist 0.0590623650133396 duration 7 distance 53
+171 313 1.0 geo_dist 0.03656782896029846 duration 1 distance 4
+172 368 1.0 geo_dist 0.022641414402631902 duration 3 distance 21
+172 176 1.0 geo_dist 0.016034148486522085 duration 2 distance 16
+172 177 1.0 geo_dist 0.036410090005221496 duration 5 distance 36
+172 183 1.0 geo_dist 0.035749223695612196 duration 3 distance 26
+172 186 1.0 geo_dist 0.026008605337450943 duration 0 distance 3
+173 367 1.0 geo_dist 0.024081233913043613 duration 2 distance 22
+173 187 1.0 geo_dist 0.03935600272376059 duration 4 distance 38
+174 334 1.0 geo_dist 0.03126121691630714 duration 3 distance 24
+175 358 1.0 geo_dist 0.01700875523175822 duration 2 distance 14
+175 178 1.0 geo_dist 0.036314887592378484 duration 1 distance 9
+175 185 1.0 geo_dist 0.038862655701600406 duration 4 distance 29
+175 313 1.0 geo_dist 0.04132074641857279 duration 3 distance 20
+176 368 1.0 geo_dist 0.012134058729692997 duration 1 distance 5
+176 177 1.0 geo_dist 0.021028373291431132 duration 3 distance 20
+176 183 1.0 geo_dist 0.02837510546145623 duration 1 distance 10
+176 186 1.0 geo_dist 0.030758939775004577 duration 2 distance 13
+177 368 1.0 geo_dist 0.01661281517678917 duration 2 distance 15
+177 183 1.0 geo_dist 0.023562465307865446 duration 1 distance 10
+177 186 1.0 geo_dist 0.04031169565726388 duration 4 distance 33
+178 358 1.0 geo_dist 0.034679408367517 duration 3 distance 23
+178 185 1.0 geo_dist 0.038854920309101745 duration 5 distance 38
+178 313 1.0 geo_dist 0.01121361170770351 duration 1 distance 11
+179 336 1.0 geo_dist 0.03174347463337564 duration 3 distance 26
+180 374 1.0 geo_dist 0.017128276925284805 duration 2 distance 16
+180 182 1.0 geo_dist 0.011715988222871081 duration 1 distance 11
+180 184 1.0 geo_dist 0.0205737421282889 duration 2 distance 12
+180 188 1.0 geo_dist 0.020544713467701183 duration 1 distance 6
+181 337 1.0 geo_dist 0.019024549925906544 duration 2 distance 18
+182 374 1.0 geo_dist 0.006162046412264706 duration 1 distance 5
+182 184 1.0 geo_dist 0.015262708292432405 duration 0 distance 0
+182 188 1.0 geo_dist 0.025228339143154473 duration 2 distance 17
+183 368 1.0 geo_dist 0.01626031914785041 duration 1 distance 6
+183 186 1.0 geo_dist 0.023206999763056107 duration 3 distance 23
+184 374 1.0 geo_dist 0.011880416938333865 duration 1 distance 4
+184 188 1.0 geo_dist 0.018033460353239574 duration 2 distance 18
+185 358 1.0 geo_dist 0.022199968087880162 duration 2 distance 15
+185 313 1.0 geo_dist 0.04996092252844853 duration 6 distance 49
+186 368 1.0 geo_dist 0.024456698864637576 duration 2 distance 18
+187 367 1.0 geo_dist 0.020639373177291462 duration 1 distance 15
+188 374 1.0 geo_dist 0.026116842395002574 duration 3 distance 22
+189 391 1.0 geo_dist 0.04455009077102988 duration 68 distance 465
+189 190 1.0 geo_dist 0.039141212846510315 duration 70 distance 484
+189 312 1.0 geo_dist 0.062475952898234925 duration 81 distance 482
+190 391 1.0 geo_dist 0.025651015534627338 duration 2 distance 19
+190 312 1.0 geo_dist 0.04671381265796544 duration 8 distance 36
+191 332 1.0 geo_dist 0.043698528432272184 duration 0 distance 0
+192 329 1.0 geo_dist 0.05366359538330924 duration 3 distance 25
+192 194 1.0 geo_dist 0.015541530122467824 duration 0 distance 0
+192 195 1.0 geo_dist 0.03786169441432563 duration 1 distance 9
+192 196 1.0 geo_dist 0.05687220580522944 duration 6 distance 46
+192 200 1.0 geo_dist 0.026781850037288897 duration 3 distance 25
+192 204 1.0 geo_dist 0.05088246963523079 duration 3 distance 25
+192 205 1.0 geo_dist 0.044982601357518234 duration 3 distance 25
+193 361 1.0 geo_dist 0.0269934534661277 duration 0 distance 2
+193 198 1.0 geo_dist 0.012032119529180289 duration 2 distance 12
+194 329 1.0 geo_dist 0.041524626859936686 duration 3 distance 25
+194 195 1.0 geo_dist 0.024952864265565897 duration 1 distance 9
+194 196 1.0 geo_dist 0.05101457943500461 duration 6 distance 46
+194 200 1.0 geo_dist 0.026413029711363573 duration 3 distance 25
+194 204 1.0 geo_dist 0.04166565234357331 duration 3 distance 25
+194 205 1.0 geo_dist 0.03484055807329255 duration 3 distance 25
+195 329 1.0 geo_dist 0.016615527805155655 duration 2 distance 16
+195 196 1.0 geo_dist 0.03300396964948827 duration 5 distance 37
+195 200 1.0 geo_dist 0.026832313677571565 duration 2 distance 16
+195 204 1.0 geo_dist 0.019829889475906727 duration 2 distance 16
+195 205 1.0 geo_dist 0.012717358718352835 duration 2 distance 16
+196 329 1.0 geo_dist 0.026241386865908146 duration 3 distance 21
+196 200 1.0 geo_dist 0.03106095416532927 duration 3 distance 21
+196 204 1.0 geo_dist 0.014568250446998878 duration 3 distance 21
+196 205 1.0 geo_dist 0.020589698197693563 duration 3 distance 21
+197 345 1.0 geo_dist 0.02282811611515187 duration 50 distance 176
+197 201 1.0 geo_dist 0.019777705813183662 duration 50 distance 176
+197 203 1.0 geo_dist 0.005819083920260239 duration 64 distance 192
+198 361 1.0 geo_dist 0.02561489508554063 duration 1 distance 10
+199 333 1.0 geo_dist 0.03641104228823129 duration 1 distance 5
+199 202 1.0 geo_dist 0.03131649498414845 duration 4 distance 26
+199 314 1.0 geo_dist 0.020191335506635995 duration 1 distance 6
+200 329 1.0 geo_dist 0.036749588478350456 duration 0 distance 0
+200 204 1.0 geo_dist 0.029095196860741034 duration 0 distance 0
+200 205 1.0 geo_dist 0.025764356583484208 duration 0 distance 0
+201 345 1.0 geo_dist 0.016127787941092254 duration 0 distance 0
+201 203 1.0 geo_dist 0.019232486399645785 duration 2 distance 16
+202 333 1.0 geo_dist 0.02873968336623726 duration 3 distance 22
+202 314 1.0 geo_dist 0.020704972025200895 duration 3 distance 21
+203 345 1.0 geo_dist 0.02621883243315015 duration 50 distance 177
+204 329 1.0 geo_dist 0.012230470373768912 duration 0 distance 0
+204 205 1.0 geo_dist 0.007203017349649994 duration 0 distance 0
+205 329 1.0 geo_dist 0.011134043065898023 duration 0 distance 0
+206 354 1.0 geo_dist 0.03699036595793903 duration 4 distance 34
+206 207 1.0 geo_dist 0.04880037090371028 duration 24 distance 155
+206 213 1.0 geo_dist 0.038225558799567634 duration 18 distance 74
+206 219 1.0 geo_dist 0.023404869963554863 duration 15 distance 48
+206 220 1.0 geo_dist 0.0354434873372142 duration 19 distance 78
+206 225 1.0 geo_dist 0.02739015395327802 duration 18 distance 70
+206 252 1.0 geo_dist 0.07553785644541937 duration 47 distance 295
+206 253 1.0 geo_dist 0.06782082297905632 duration 14 distance 86
+207 354 1.0 geo_dist 0.07407077518513709 duration 40 distance 189
+207 213 1.0 geo_dist 0.04132990944249821 duration 54 distance 229
+207 219 1.0 geo_dist 0.05694047112520206 duration 51 distance 203
+207 220 1.0 geo_dist 0.013442701243027624 duration 55 distance 233
+207 225 1.0 geo_dist 0.031591769695359255 duration 54 distance 225
+207 252 1.0 geo_dist 0.12284046273530114 duration 47 distance 316
+207 253 1.0 geo_dist 0.11659411921106962 duration 50 distance 241
+208 373 1.0 geo_dist 0.04216405655365551 duration 6 distance 46
+208 217 1.0 geo_dist 0.03006934059158042 duration 6 distance 46
+208 223 1.0 geo_dist 0.033264896777587184 duration 1 distance 11
+208 226 1.0 geo_dist 0.02670361794490142 duration 2 distance 14
+208 232 1.0 geo_dist 0.028801377531677 duration 0 distance 0
+208 233 1.0 geo_dist 0.03620696153675439 duration 11 distance 63
+209 377 1.0 geo_dist 0.024958100509692906 duration 2 distance 17
+209 215 1.0 geo_dist 0.00804132244984574 duration 1 distance 8
+209 216 1.0 geo_dist 0.023008701807137114 duration 8 distance 49
+209 221 1.0 geo_dist 0.022032081291216775 duration 3 distance 21
+209 227 1.0 geo_dist 0.03891092989937227 duration 10 distance 65
+209 228 1.0 geo_dist 0.01499721438122252 duration 2 distance 15
+209 231 1.0 geo_dist 0.03711960584383431 duration 10 distance 63
+210 388 1.0 geo_dist 0.041529037139029404 duration 5 distance 40
+210 218 1.0 geo_dist 0.026886579089242735 duration 19 distance 71
+210 222 1.0 geo_dist 0.025254427095249075 duration 3 distance 25
+211 342 1.0 geo_dist 0.03680813911750649 duration 4 distance 34
+211 212 1.0 geo_dist 0.03068180137841198 duration 4 distance 31
+211 214 1.0 geo_dist 0.03320219447095282 duration 4 distance 30
+211 230 1.0 geo_dist 0.04196167171846815 duration 51 distance 334
+211 234 1.0 geo_dist 0.014880248457925915 duration 2 distance 15
+212 342 1.0 geo_dist 0.0655925666428367 duration 8 distance 65
+212 214 1.0 geo_dist 0.013899263764790615 duration 0 distance 0
+212 230 1.0 geo_dist 0.03393547550315633 duration 55 distance 365
+212 234 1.0 geo_dist 0.045561449684046025 duration 6 distance 46
+213 354 1.0 geo_dist 0.039678528921492165 duration 5 distance 40
+213 219 1.0 geo_dist 0.02637272740025869 duration 3 distance 26
+213 220 1.0 geo_dist 0.03534412219183106 duration 1 distance 4
+213 225 1.0 geo_dist 0.01484938395443958 duration 1 distance 4
+213 252 1.0 geo_dist 0.1085692977107116 duration 58 distance 369
+213 253 1.0 geo_dist 0.09596969698623871 duration 12 distance 92
+214 342 1.0 geo_dist 0.06999205108810466 duration 8 distance 64
+214 230 1.0 geo_dist 0.020211798844833095 duration 55 distance 364
+214 234 1.0 geo_dist 0.04717815249644088 duration 6 distance 45
+215 377 1.0 geo_dist 0.031038264986609956 duration 3 distance 25
+215 216 1.0 geo_dist 0.028969075338725142 duration 9 distance 57
+215 221 1.0 geo_dist 0.013998161031700445 duration 2 distance 13
+215 227 1.0 geo_dist 0.042944496394439764 duration 11 distance 73
+215 228 1.0 geo_dist 0.006985281013463751 duration 1 distance 7
+215 231 1.0 geo_dist 0.042184401643004875 duration 11 distance 71
+216 377 1.0 geo_dist 0.03541990026521227 duration 4 distance 32
+216 221 1.0 geo_dist 0.04074448545181699 duration 17 distance 70
+216 227 1.0 geo_dist 0.018044268972258564 duration 2 distance 17
+216 228 1.0 geo_dist 0.034360132750691094 duration 16 distance 64
+216 231 1.0 geo_dist 0.014570368704833673 duration 2 distance 15
+217 373 1.0 geo_dist 0.015151485072140444 duration 0 distance 0
+217 223 1.0 geo_dist 0.03967195904467313 duration 5 distance 36
+217 226 1.0 geo_dist 0.03762304245718744 duration 4 distance 32
+217 232 1.0 geo_dist 0.055406725230992986 duration 6 distance 46
+217 233 1.0 geo_dist 0.025962399921952782 duration 2 distance 17
+218 388 1.0 geo_dist 0.035714451247528145 duration 4 distance 31
+218 222 1.0 geo_dist 0.01812972157800871 duration 9 distance 46
+219 354 1.0 geo_dist 0.01727050734897191 duration 2 distance 14
+219 220 1.0 geo_dist 0.0457284620144342 duration 4 distance 30
+219 225 1.0 geo_dist 0.02594289264860421 duration 3 distance 22
+219 252 1.0 geo_dist 0.08300380306863646 duration 55 distance 343
+219 253 1.0 geo_dist 0.0696438196406349 duration 9 distance 66
+220 354 1.0 geo_dist 0.06299896933685345 duration 6 distance 44
+220 225 1.0 geo_dist 0.022371291445893515 duration 1 distance 8
+220 252 1.0 geo_dist 0.1094691984662825 duration 59 distance 373
+220 253 1.0 geo_dist 0.10318955602570391 duration 13 distance 96
+221 377 1.0 geo_dist 0.04348404096774627 duration 5 distance 38
+221 227 1.0 geo_dist 0.051705044665011184 duration 13 distance 86
+221 228 1.0 geo_dist 0.007048490051493518 duration 1 distance 6
+221 231 1.0 geo_dist 0.05234401448272305 duration 13 distance 84
+222 388 1.0 geo_dist 0.019112403757555702 duration 2 distance 15
+223 373 1.0 geo_dist 0.03995097671661282 duration 5 distance 36
+223 226 1.0 geo_dist 0.05908358399578552 duration 1 distance 4
+223 232 1.0 geo_dist 0.03269689091280002 duration 1 distance 11
+223 233 1.0 geo_dist 0.019608716496295836 duration 10 distance 53
+224 384 1.0 geo_dist 0.0325403344227517 duration 3 distance 23
+224 229 1.0 geo_dist 0.024051654022088066 duration 3 distance 24
+224 246 1.0 geo_dist 0.08214294154161306 duration 19 distance 75
+224 247 1.0 geo_dist 0.1296480823151306 duration 32 distance 182
+224 248 1.0 geo_dist 0.09820990010472228 duration 38 distance 229
+224 249 1.0 geo_dist 0.10025921754875358 duration 21 distance 93
+224 251 1.0 geo_dist 0.12185723663947086 duration 33 distance 190
+224 254 1.0 geo_dist 0.04169676630459835 duration 14 distance 39
+224 256 1.0 geo_dist 0.06552179779043321 duration 39 distance 234
+224 257 1.0 geo_dist 0.11045937229780649 duration 35 distance 205
+224 258 1.0 geo_dist 0.11551252262122724 duration 34 distance 198
+225 354 1.0 geo_dist 0.042734197365553166 duration 5 distance 36
+225 252 1.0 geo_dist 0.10184843731893412 duration 58 distance 365
+225 253 1.0 geo_dist 0.09170644504523946 duration 12 distance 88
+226 373 1.0 geo_dist 0.05277441600571759 duration 4 distance 32
+226 232 1.0 geo_dist 0.051600984997663725 duration 2 distance 14
+226 233 1.0 geo_dist 0.05663374958341581 duration 9 distance 49
+227 377 1.0 geo_dist 0.0533721944145982 duration 6 distance 48
+227 228 1.0 geo_dist 0.046601876625915674 duration 18 distance 80
+227 231 1.0 geo_dist 0.0063935040324349934 duration 0 distance 2
+228 377 1.0 geo_dist 0.03732315747820136 duration 4 distance 32
+228 231 1.0 geo_dist 0.04665482462702139 duration 12 distance 78
+229 384 1.0 geo_dist 0.04792409396716037 duration 6 distance 47
+229 246 1.0 geo_dist 0.08183987486725991 duration 22 distance 99
+229 247 1.0 geo_dist 0.12545962293044238 duration 35 distance 206
+229 248 1.0 geo_dist 0.08921782937492802 duration 41 distance 253
+229 249 1.0 geo_dist 0.10086946377750786 duration 24 distance 117
+229 251 1.0 geo_dist 0.117308205087957 duration 36 distance 214
+229 254 1.0 geo_dist 0.04657548846932938 duration 17 distance 63
+229 256 1.0 geo_dist 0.06126105958080802 duration 42 distance 258
+229 257 1.0 geo_dist 0.10449333241619377 duration 38 distance 229
+229 258 1.0 geo_dist 0.11047043524991196 duration 37 distance 222
+230 342 1.0 geo_dist 0.07681729567618557 duration 54 distance 356
+230 234 1.0 geo_dist 0.05239331915914649 duration 51 distance 337
+231 377 1.0 geo_dist 0.0489211263774369 duration 6 distance 46
+232 373 1.0 geo_dist 0.06345591130928119 duration 6 distance 46
+232 233 1.0 geo_dist 0.04839084105612052 duration 11 distance 63
+233 373 1.0 geo_dist 0.021225245072236266 duration 2 distance 17
+234 342 1.0 geo_dist 0.024450868213835932 duration 2 distance 19
+235 327 1.0 geo_dist 0.023422204025952607 duration 2 distance 12
+235 239 1.0 geo_dist 0.012717061469793102 duration 2 distance 12
+236 326 1.0 geo_dist 0.03169998988872912 duration 0 distance 0
+236 238 1.0 geo_dist 0.028094170188620236 duration 3 distance 22
+237 325 1.0 geo_dist 0.03429745709044196 duration 3 distance 17
+238 326 1.0 geo_dist 0.02404980265600855 duration 3 distance 22
+239 327 1.0 geo_dist 0.026860371554032765 duration 0 distance 0
+240 328 1.0 geo_dist 0.06247664105727582 duration 53 distance 323
+240 241 1.0 geo_dist 0.02098295665478427 duration 0 distance 0
+240 242 1.0 geo_dist 0.0053769907938971346 duration 0 distance 0
+240 243 1.0 geo_dist 0.011641816945087098 duration 0 distance 0
+240 244 1.0 geo_dist 0.016966339658397826 duration 0 distance 0
+240 245 1.0 geo_dist 0.005818655677522861 duration 1 distance 10
+240 250 1.0 geo_dist 0.04600669798528119 duration 2 distance 18
+240 255 1.0 geo_dist 0.038521520433448024 duration 2 distance 15
+241 328 1.0 geo_dist 0.08323228304373997 duration 53 distance 323
+241 242 1.0 geo_dist 0.015619861778913505 duration 0 distance 0
+241 243 1.0 geo_dist 0.009467155103751956 duration 0 distance 0
+241 244 1.0 geo_dist 0.004114483452916205 duration 0 distance 0
+241 245 1.0 geo_dist 0.026780384454302253 duration 1 distance 10
+241 250 1.0 geo_dist 0.025029950392461565 duration 2 distance 18
+241 255 1.0 geo_dist 0.017778304623331014 duration 2 distance 15
+242 328 1.0 geo_dist 0.06782467752335464 duration 53 distance 323
+242 243 1.0 geo_dist 0.006392061940379282 duration 0 distance 0
+242 244 1.0 geo_dist 0.011636233705298395 duration 0 distance 0
+242 245 1.0 geo_dist 0.011160525542659368 duration 1 distance 10
+242 250 1.0 geo_dist 0.040635621585604624 duration 2 distance 18
+242 255 1.0 geo_dist 0.03322870130360163 duration 2 distance 15
+243 328 1.0 geo_dist 0.07376533465395738 duration 53 distance 323
+243 244 1.0 geo_dist 0.0053730247099386085 duration 0 distance 0
+243 245 1.0 geo_dist 0.017460464989525387 duration 1 distance 10
+243 250 1.0 geo_dist 0.03447033783308358 duration 2 distance 18
+243 255 1.0 geo_dist 0.02687982719028289 duration 2 distance 15
+244 328 1.0 geo_dist 0.0791279969622769 duration 53 distance 323
+244 245 1.0 geo_dist 0.022779735860961284 duration 1 distance 10
+244 250 1.0 geo_dist 0.02909745835477628 duration 2 distance 18
+244 255 1.0 geo_dist 0.021601162535872753 duration 2 distance 15
+245 328 1.0 geo_dist 0.05688449896989423 duration 52 distance 312
+245 250 1.0 geo_dist 0.051791519600367014 duration 4 distance 28
+245 255 1.0 geo_dist 0.04434009006982811 duration 3 distance 25
+246 384 1.0 geo_dist 0.05811646897104349 duration 7 distance 52
+246 247 1.0 geo_dist 0.04878448314560995 duration 14 distance 107
+246 248 1.0 geo_dist 0.03438369362094461 duration 20 distance 155
+246 249 1.0 geo_dist 0.019052579326053528 duration 2 distance 19
+246 251 1.0 geo_dist 0.04174412166469649 duration 15 distance 115
+246 254 1.0 geo_dist 0.04075712985562698 duration 5 distance 36
+246 256 1.0 geo_dist 0.022308972970159897 duration 20 distance 159
+246 257 1.0 geo_dist 0.03401358317655827 duration 17 distance 130
+246 258 1.0 geo_dist 0.03660667671805451 duration 16 distance 123
+247 384 1.0 geo_dist 0.10688938352463127 duration 20 distance 159
+247 248 1.0 geo_dist 0.04090784445387311 duration 6 distance 48
+247 249 1.0 geo_dist 0.03535628957985996 duration 11 distance 88
+247 251 1.0 geo_dist 0.008226240230771105 duration 1 distance 8
+247 254 1.0 geo_dist 0.08909093034381577 duration 18 distance 143
+247 256 1.0 geo_dist 0.0647280780666238 duration 7 distance 52
+247 257 1.0 geo_dist 0.022035169517909032 duration 3 distance 23
+247 258 1.0 geo_dist 0.015263496487817437 duration 2 distance 16
+248 384 1.0 geo_dist 0.08310432910773219 duration 26 distance 206
+248 249 1.0 geo_dist 0.03997639806367691 duration 17 distance 136
+248 251 1.0 geo_dist 0.03305158064931179 duration 5 distance 40
+248 254 1.0 geo_dist 0.06265483461489947 duration 25 distance 191
+248 256 1.0 geo_dist 0.034480893827083935 duration 1 distance 4
+248 257 1.0 geo_dist 0.019189061720851736 duration 3 distance 24
+248 258 1.0 geo_dist 0.026235652615370086 duration 4 distance 31
+249 384 1.0 geo_dist 0.07402166254059149 duration 9 distance 70
+249 251 1.0 geo_dist 0.03038264761725534 duration 12 distance 96
+249 254 1.0 geo_dist 0.05857799621656508 duration 7 distance 55
+249 256 1.0 geo_dist 0.040943713204261725 duration 18 distance 140
+249 257 1.0 geo_dist 0.029438706869563923 duration 14 distance 112
+249 258 1.0 geo_dist 0.028094834593397122 duration 13 distance 105
+250 328 1.0 geo_dist 0.10817631389449658 duration 56 distance 341
+250 255 1.0 geo_dist 0.009036593880319462 duration 0 distance 3
+251 384 1.0 geo_dist 0.09980961215871201 duration 21 distance 167
+251 254 1.0 geo_dist 0.08160018047224386 duration 19 distance 151
+251 256 1.0 geo_dist 0.05672792786261306 duration 6 distance 44
+251 257 1.0 geo_dist 0.013963410545969161 duration 2 distance 15
+251 258 1.0 geo_dist 0.007057381372577763 duration 1 distance 8
+252 354 1.0 geo_dist 0.07780743418023855 duration 44 distance 329
+252 253 1.0 geo_dist 0.02105575566972681 duration 54 distance 381
+253 354 1.0 geo_dist 0.06122678361417765 duration 88 distance 492
+254 384 1.0 geo_dist 0.020670909862095098 duration 2 distance 16
+254 256 1.0 geo_dist 0.02818405268199908 duration 25 distance 195
+254 257 1.0 geo_dist 0.07139606712363859 duration 21 distance 166
+254 258 1.0 geo_dist 0.07567119789256842 duration 20 distance 159
+255 328 1.0 geo_dist 0.10011432464570261 duration 55 distance 338
+256 384 1.0 geo_dist 0.04872263918590262 duration 27 distance 211
+256 257 1.0 geo_dist 0.044939610697415346 duration 4 distance 29
+256 258 1.0 geo_dist 0.05016857881061981 duration 5 distance 36
+257 384 1.0 geo_dist 0.09062979665727221 duration 23 distance 182
+257 258 1.0 geo_dist 0.0070472763949779174 duration 1 distance 7
+258 384 1.0 geo_dist 0.09432384970991405 duration 22 distance 175
+259 393 1.0 geo_dist 0.048959816484691075 duration 7 distance 51
+259 261 1.0 geo_dist 0.02405158395854492 duration 3 distance 23
+259 262 1.0 geo_dist 0.02188815777861092 duration 1 distance 9
+259 266 1.0 geo_dist 0.05614551197341122 duration 25 distance 110
+260 378 1.0 geo_dist 0.019791585873921217 duration 0 distance 0
+260 268 1.0 geo_dist 0.024594227871237086 duration 3 distance 21
+261 393 1.0 geo_dist 0.03172242425657346 duration 4 distance 28
+261 262 1.0 geo_dist 0.019091518681518024 duration 2 distance 14
+261 266 1.0 geo_dist 0.038808772199364495 duration 22 distance 87
+262 393 1.0 geo_dist 0.05080791133958726 duration 5 distance 42
+262 266 1.0 geo_dist 0.03534999740327317 duration 23 distance 101
+263 392 1.0 geo_dist 0.034240104989526184 duration 4 distance 30
+263 264 1.0 geo_dist 0.017069463013448076 duration 17 distance 53
+263 270 1.0 geo_dist 0.01965658418289985 duration 19 distance 70
+264 392 1.0 geo_dist 0.02379878055461905 duration 3 distance 23
+264 270 1.0 geo_dist 0.02776387697108176 duration 2 distance 17
+265 379 1.0 geo_dist 0.04985855127957849 duration 6 distance 50
+265 269 1.0 geo_dist 0.02693181198415082 duration 3 distance 27
+266 393 1.0 geo_dist 0.05892898633011045 duration 8 distance 59
+267 383 1.0 geo_dist 0.01806563335807131 duration 1 distance 11
+267 271 1.0 geo_dist 0.025554589652650922 duration 17 distance 63
+268 378 1.0 geo_dist 0.025263500870710644 duration 3 distance 21
+269 379 1.0 geo_dist 0.025127529916123506 duration 3 distance 23
+270 392 1.0 geo_dist 0.050560572852623865 duration 5 distance 40
+271 383 1.0 geo_dist 0.02712539577690554 duration 9 distance 52
+272 398 1.0 geo_dist 0.035077661227869796 duration 3 distance 21
+272 273 1.0 geo_dist 0.03106032322711276 duration 2 distance 17
+272 275 1.0 geo_dist 0.027085561889438486 duration 4 distance 33
+272 277 1.0 geo_dist 0.028171714878397154 duration 4 distance 33
+272 278 1.0 geo_dist 0.01970511422478842 duration 2 distance 17
+272 279 1.0 geo_dist 0.028168566274880593 duration 97 distance 543
+272 291 1.0 geo_dist 0.014837200334513787 duration 1 distance 7
+272 297 1.0 geo_dist 0.056323344046665495 duration 4 distance 34
+272 301 1.0 geo_dist 0.04542963125422756 duration 0 distance 1
+272 306 1.0 geo_dist 0.053688022268214605 duration 3 distance 27
+272 309 1.0 geo_dist 0.048745557244558695 duration 4 distance 33
+273 398 1.0 geo_dist 0.023384859397791224 duration 1 distance 5
+273 275 1.0 geo_dist 0.0573421423157727 duration 6 distance 49
+273 277 1.0 geo_dist 0.057034651464065354 duration 6 distance 49
+273 278 1.0 geo_dist 0.019967458702938496 duration 0 distance 0
+273 279 1.0 geo_dist 0.059223324539351606 duration 94 distance 526
+273 291 1.0 geo_dist 0.025719474975819404 duration 1 distance 10
+273 297 1.0 geo_dist 0.037125847945508085 duration 2 distance 17
+273 301 1.0 geo_dist 0.05227795351653233 duration 2 distance 18
+273 306 1.0 geo_dist 0.030975281089126037 duration 1 distance 10
+273 309 1.0 geo_dist 0.06947073588356918 duration 6 distance 49
+274 396 1.0 geo_dist 0.060712430328768156 duration 6 distance 46
+274 276 1.0 geo_dist 0.00720193256079072 duration 1 distance 11
+275 398 1.0 geo_dist 0.05399146475219614 duration 7 distance 54
+275 277 1.0 geo_dist 0.005983920021275348 duration 0 distance 0
+275 278 1.0 geo_dist 0.046121392330280106 duration 6 distance 49
+275 279 1.0 geo_dist 0.009980719244843762 duration 101 distance 576
+275 291 1.0 geo_dist 0.03418045465487541 duration 5 distance 39
+275 297 1.0 geo_dist 0.07459377759692007 duration 9 distance 67
+275 301 1.0 geo_dist 0.047322037377258354 duration 4 distance 31
+275 306 1.0 geo_dist 0.0742874703267799 duration 8 distance 60
+275 309 1.0 geo_dist 0.033648742625081954 duration 0 distance 0
+276 396 1.0 geo_dist 0.06534633967678635 duration 7 distance 57
+277 398 1.0 geo_dist 0.051267521883193806 duration 7 distance 54
+277 278 1.0 geo_dist 0.04777951634240535 duration 6 distance 49
+277 279 1.0 geo_dist 0.0159646368950058 duration 101 distance 576
+277 291 1.0 geo_dist 0.03257625275399942 duration 5 distance 39
+277 297 1.0 geo_dist 0.07132583568000533 duration 9 distance 67
+277 301 1.0 geo_dist 0.04197778114411495 duration 4 distance 31
+277 306 1.0 geo_dist 0.07159211386235113 duration 8 distance 60
+277 309 1.0 geo_dist 0.02782270848697703 duration 0 distance 0
+278 398 1.0 geo_dist 0.037009388810181794 duration 1 distance 5
+278 279 1.0 geo_dist 0.045031530937076514 duration 94 distance 526
+278 291 1.0 geo_dist 0.0255142968732939 duration 1 distance 10
+278 297 1.0 geo_dist 0.05523702373740619 duration 2 distance 17
+278 301 1.0 geo_dist 0.058489221452815175 duration 2 distance 18
+278 306 1.0 geo_dist 0.050053868162574296 duration 1 distance 10
+278 309 1.0 geo_dist 0.06743484039694579 duration 6 distance 49
+279 398 1.0 geo_dist 0.05961286795410312 duration 73 distance 522
+279 291 1.0 geo_dist 0.03881986173046148 duration 75 distance 537
+279 297 1.0 geo_dist 0.08074839147055374 duration 71 distance 509
+279 301 1.0 geo_dist 0.05652579238497895 duration 76 distance 545
+279 306 1.0 geo_dist 0.07959429580085954 duration 72 distance 516
+279 309 1.0 geo_dist 0.04345987198045849 duration 80 distance 576
+280 380 1.0 geo_dist 0.025561245092298596 duration 3 distance 21
+280 281 1.0 geo_dist 0.03935310283881437 duration 28 distance 89
+280 293 1.0 geo_dist 0.00897947783132277 duration 1 distance 4
+280 311 1.0 geo_dist 0.02905434462510575 duration 1 distance 4
+281 380 1.0 geo_dist 0.03736915848004167 duration 13 distance 68
+281 293 1.0 geo_dist 0.04693172353262411 duration 16 distance 93
+281 311 1.0 geo_dist 0.01553114883476358 duration 15 distance 85
+282 381 1.0 geo_dist 0.03058402609128541 duration 30 distance 95
+283 397 1.0 geo_dist 0.018792147115764588 duration 1 distance 9
+283 286 1.0 geo_dist 0.019199363283759468 duration 2 distance 17
+283 287 1.0 geo_dist 0.017196214917799813 duration 8 distance 59
+283 292 1.0 geo_dist 0.031037284540200494 duration 0 distance 0
+284 399 1.0 geo_dist 0.033841137309092544 duration 20 distance 80
+284 288 1.0 geo_dist 0.04922773296891871 duration 22 distance 93
+284 295 1.0 geo_dist 0.05687947574054067 duration 23 distance 101
+284 298 1.0 geo_dist 0.022435688294851822 duration 18 distance 65
+285 382 1.0 geo_dist 0.0264184631087973 duration 3 distance 22
+285 296 1.0 geo_dist 0.04814347091296146 duration 40 distance 209
+285 302 1.0 geo_dist 0.057203523555431394 duration 36 distance 177
+285 304 1.0 geo_dist 0.04913269188235271 duration 38 distance 194
+285 310 1.0 geo_dist 0.028022232510764297 duration 0 distance 0
+286 397 1.0 geo_dist 0.027078558283851542 duration 1 distance 8
+286 287 1.0 geo_dist 0.027388866236658895 duration 10 distance 76
+286 292 1.0 geo_dist 0.0438722520877694 duration 2 distance 18
+287 397 1.0 geo_dist 0.03589235436170628 duration 9 distance 68
+287 292 1.0 geo_dist 0.045914706689069225 duration 7 distance 58
+288 399 1.0 geo_dist 0.020410051763030512 duration 2 distance 13
+288 295 1.0 geo_dist 0.007978301855742796 duration 1 distance 8
+288 298 1.0 geo_dist 0.028091402398065117 duration 4 distance 28
+289 401 1.0 geo_dist 0.03283262062096833 duration 24 distance 105
+289 290 1.0 geo_dist 0.02058426664882844 duration 2 distance 16
+289 294 1.0 geo_dist 0.012708653445909416 duration 1 distance 11
+290 401 1.0 geo_dist 0.012299837365787524 duration 22 distance 89
+290 294 1.0 geo_dist 0.008049620303537288 duration 1 distance 5
+291 398 1.0 geo_dist 0.021049069934562636 duration 2 distance 15
+291 297 1.0 geo_dist 0.042402180215609736 duration 4 distance 28
+291 301 1.0 geo_dist 0.033170141269975265 duration 1 distance 8
+291 306 1.0 geo_dist 0.04078132188830385 duration 3 distance 21
+291 309 1.0 geo_dist 0.04429001930412365 duration 5 distance 39
+292 397 1.0 geo_dist 0.017187177265176122 duration 1 distance 10
+293 380 1.0 geo_dist 0.03360224522750414 duration 3 distance 25
+293 311 1.0 geo_dist 0.03776742167597058 duration 1 distance 8
+294 401 1.0 geo_dist 0.020344007334326893 duration 23 distance 94
+295 399 1.0 geo_dist 0.026241240554843667 duration 3 distance 21
+295 298 1.0 geo_dist 0.03603445882141924 duration 5 distance 36
+296 382 1.0 geo_dist 0.031826441658888156 duration 26 distance 173
+296 302 1.0 geo_dist 0.03307875340101378 duration 4 distance 32
+296 304 1.0 geo_dist 0.016007989920719865 duration 2 distance 15
+296 310 1.0 geo_dist 0.05816035138396906 duration 39 distance 195
+297 398 1.0 geo_dist 0.02136369188845888 duration 2 distance 13
+297 301 1.0 geo_dist 0.04102678369421505 duration 5 distance 36
+297 306 1.0 geo_dist 0.008053418848078225 duration 1 distance 7
+297 309 1.0 geo_dist 0.06876726520273567 duration 9 distance 67
+298 399 1.0 geo_dist 0.019556386730657047 duration 2 distance 15
+299 400 1.0 geo_dist 0.02015882283633785 duration 19 distance 72
+300 395 1.0 geo_dist 0.04756620754195167 duration 6 distance 45
+300 303 1.0 geo_dist 0.022571376462087372 duration 3 distance 24
+300 305 1.0 geo_dist 0.0573003638039679 duration 9 distance 63
+300 307 1.0 geo_dist 0.04204606482949391 duration 16 distance 61
+300 308 1.0 geo_dist 0.040808075016145674 duration 6 distance 45
+301 398 1.0 geo_dist 0.03112343023294637 duration 3 distance 23
+301 306 1.0 geo_dist 0.045570186880320336 duration 4 distance 28
+301 309 1.0 geo_dist 0.028795701292761353 duration 4 distance 31
+302 382 1.0 geo_dist 0.03084247351281614 duration 31 distance 205
+302 304 1.0 geo_dist 0.01712670907949473 duration 2 distance 17
+302 310 1.0 geo_dist 0.04986503054419487 duration 42 distance 177
+303 395 1.0 geo_dist 0.02772146595662265 duration 3 distance 21
+303 305 1.0 geo_dist 0.03479463966494294 duration 6 distance 39
+303 307 1.0 geo_dist 0.027973130157694783 duration 13 distance 37
+303 308 1.0 geo_dist 0.018253807112961935 duration 3 distance 21
+304 382 1.0 geo_dist 0.025683688664798653 duration 28 distance 188
+304 310 1.0 geo_dist 0.05081038162077514 duration 41 distance 210
+305 395 1.0 geo_dist 0.02418809831924059 duration 2 distance 18
+305 307 1.0 geo_dist 0.03793902418034431 duration 6 distance 34
+305 308 1.0 geo_dist 0.017001733941610486 duration 2 distance 18
+306 398 1.0 geo_dist 0.020331869486659573 duration 1 distance 6
+306 309 1.0 geo_dist 0.07210660822022429 duration 8 distance 60
+307 395 1.0 geo_dist 0.014297475535079384 duration 2 distance 16
+307 308 1.0 geo_dist 0.02600817450961796 duration 2 distance 16
+308 395 1.0 geo_dist 0.016444408296874855 duration 0 distance 0
+309 398 1.0 geo_dist 0.05409529144705764 duration 7 distance 54
+310 382 1.0 geo_dist 0.026383192030081225 duration 3 distance 22
+311 380 1.0 geo_dist 0.02183903063202951 duration 2 distance 17
+312 391 1.0 geo_dist 0.02172675779731787 duration 3 distance 17
+313 358 1.0 geo_dist 0.04349634646264202 duration 4 distance 34
+314 333 1.0 geo_dist 0.01675474932723226 duration 0 distance 1
+315 356 1.0 geo_dist 0.07329424350070453 duration 78 distance 524
+315 318 1.0 geo_dist 0.027301532211106493 duration 86 distance 606
+315 319 1.0 geo_dist 0.04398645344160086 duration 77 distance 500
+315 320 1.0 geo_dist 0.04953027796591516 duration 78 distance 527
+316 351 1.0 geo_dist 0.048132521548575426 duration 6 distance 45
+316 317 1.0 geo_dist 0.02616744359072642 duration 85 distance 594
+317 351 1.0 geo_dist 0.07257032454560954 duration 61 distance 359
+318 356 1.0 geo_dist 0.055456699733640424 duration 10 distance 82
+318 319 1.0 geo_dist 0.04028095401374983 duration 43 distance 218
+318 320 1.0 geo_dist 0.03247731756499364 duration 10 distance 80
+319 356 1.0 geo_dist 0.03724073537627673 duration 84 distance 568
+319 320 1.0 geo_dist 0.021958543504711714 duration 84 distance 571
+320 356 1.0 geo_dist 0.023967641181713666 duration 0 distance 3
+321 331 1.0 geo_dist 0.023941509796909392 duration 78 distance 516
+322 346 1.0 geo_dist 0.02731330696742114 duration 4 distance 29
+323 330 1.0 geo_dist 0.04707057217749781 duration 6 distance 44
+323 324 1.0 geo_dist 0.0021274190000249897 duration 0 distance 2
+324 330 1.0 geo_dist 0.045711534922241094 duration 5 distance 42
+325 326 1.0 geo_dist 0.04351251687656044 duration 7 distance 41
+325 356 1.0 geo_dist 0.2483565695380145 duration 112 distance 689
+325 327 1.0 geo_dist 0.10163397958068301 duration 15 distance 108
+326 327 1.0 geo_dist 0.05942922310910868 duration 8 distance 67
+326 356 1.0 geo_dist 0.2912076627483298 duration 119 distance 729
+327 356 1.0 geo_dist 0.3499903277909506 duration 118 distance 762
+328 384 1.0 geo_dist 0.1903003341586221 duration 24 distance 189
+329 330 1.0 geo_dist 0.05090091214871766 duration 6 distance 50
+329 345 1.0 geo_dist 0.053987359674367845 duration 38 distance 137
+329 359 1.0 geo_dist 0.04334643523145591 duration 5 distance 39
+330 332 1.0 geo_dist 0.14153598888104874 duration 109 distance 686
+331 333 1.0 geo_dist 0.060640156513244385 duration 10 distance 63
+331 361 1.0 geo_dist 0.052681443364450055 duration 8 distance 60
+331 356 1.0 geo_dist 0.060124934282362374 duration 6 distance 54
+331 351 1.0 geo_dist 0.14235309985975195 duration 43 distance 203
+332 333 1.0 geo_dist 0.016503455966356644 duration 3 distance 17
+334 338 1.0 geo_dist 0.07043624313177937 duration 10 distance 75
+334 335 1.0 geo_dist 0.1133265116927027 duration 14 distance 109
+334 339 1.0 geo_dist 0.07156940309529816 duration 9 distance 70
+334 372 1.0 geo_dist 0.17427300180501665 duration 51 distance 252
+334 344 1.0 geo_dist 0.15222733729555993 duration 35 distance 203
+334 346 1.0 geo_dist 0.22479370369206852 duration 59 distance 323
+334 361 1.0 geo_dist 0.22244502210001116 duration 46 distance 312
+335 375 1.0 geo_dist 0.047051979118610296 duration 6 distance 47
+335 362 1.0 geo_dist 0.07091325629669434 duration 9 distance 69
+335 352 1.0 geo_dist 0.03477093717793377 duration 6 distance 43
+336 337 1.0 geo_dist 0.054023598833633266 duration 8 distance 60
+336 368 1.0 geo_dist 0.07231874233038665 duration 9 distance 70
+336 391 1.0 geo_dist 0.08774282426552615 duration 68 distance 465
+336 403 1.0 geo_dist 0.2386217006464995 duration 85 distance 492
+336 390 1.0 geo_dist 0.28161812484002163 duration 134 distance 817
+336 348 1.0 geo_dist 0.12569578289588246 duration 31 distance 215
+337 338 1.0 geo_dist 0.009074662147368285 duration 0 distance 0
+338 358 1.0 geo_dist 0.08434915815154154 duration 11 distance 85
+339 340 1.0 geo_dist 0.0733204032095853 duration 9 distance 71
+339 363 1.0 geo_dist 0.09569661753787531 duration 12 distance 96
+340 366 1.0 geo_dist 0.06635022265638951 duration 9 distance 67
+340 343 1.0 geo_dist 0.08096604383261564 duration 24 distance 112
+340 386 1.0 geo_dist 0.061883844829815064 duration 9 distance 65
+340 376 1.0 geo_dist 0.0628600246224365 duration 15 distance 94
+341 343 1.0 geo_dist 0.00785960768719831 duration 0 distance 0
+341 342 1.0 geo_dist 0.06568022790710215 duration 9 distance 67
+342 364 1.0 geo_dist 0.03793842700503452 duration 4 distance 32
+342 377 1.0 geo_dist 0.1430124809642685 duration 19 distance 145
+342 354 1.0 geo_dist 0.10628983358801639 duration 14 distance 111
+343 366 1.0 geo_dist 0.03928641739639187 duration 41 distance 166
+343 386 1.0 geo_dist 0.07217172129055067 duration 25 distance 103
+343 376 1.0 geo_dist 0.12402335839102402 duration 17 distance 132
+344 357 1.0 geo_dist 0.012070994403629286 duration 0 distance 0
+344 346 1.0 geo_dist 0.09486952254078876 duration 30 distance 112
+344 361 1.0 geo_dist 0.07021778007763597 duration 19 distance 101
+344 372 1.0 geo_dist 0.21519409784487123 duration 53 distance 277
+345 359 1.0 geo_dist 0.07928772139092188 duration 19 distance 95
+345 346 1.0 geo_dist 0.006084357855079133 duration 0 distance 0
+346 361 1.0 geo_dist 0.07404662797852424 duration 33 distance 107
+346 372 1.0 geo_dist 0.21333632579335804 duration 42 distance 283
+347 348 1.0 geo_dist 0.055982602831714474 duration 8 distance 64
+348 349 1.0 geo_dist 0.023466021577852512 duration 4 distance 33
+348 391 1.0 geo_dist 0.19514360253874488 duration 103 distance 581
+348 403 1.0 geo_dist 0.31066600347397705 duration 132 distance 707
+348 390 1.0 geo_dist 0.40700568606981663 duration 165 distance 879
+349 350 1.0 geo_dist 0.07872334127154512 duration 14 distance 110
+350 376 1.0 geo_dist 0.007395429738102197 duration 1 distance 7
+351 352 1.0 geo_dist 0.12166996047004616 duration 16 distance 124
+351 355 1.0 geo_dist 0.12955043478272388 duration 77 distance 408
+352 354 1.0 geo_dist 0.18914800360639752 duration 25 distance 194
+352 375 1.0 geo_dist 0.05527952903872896 duration 10 distance 61
+353 386 1.0 geo_dist 0.03675906882151668 duration 5 distance 36
+353 387 1.0 geo_dist 0.03821584012486729 duration 5 distance 36
+354 384 1.0 geo_dist 0.1034641781716765 duration 13 distance 101
+354 355 1.0 geo_dist 0.08048034728820079 duration 12 distance 90
+357 375 1.0 geo_dist 0.042355062949207455 duration 6 distance 47
+359 369 1.0 geo_dist 0.11092834313171002 duration 19 distance 117
+360 369 1.0 geo_dist 0.018639291632611365 duration 205 distance 1236
+360 372 1.0 geo_dist 0.055500357807401035 duration 8 distance 65
+361 372 1.0 geo_dist 0.2633017050987722 duration 34 distance 272
+362 364 1.0 geo_dist 0.08178768100239431 duration 12 distance 90
+362 363 1.0 geo_dist 0.028713666896182197 duration 74 distance 344
+363 365 1.0 geo_dist 0.08169971126988766 duration 25 distance 143
+364 365 1.0 geo_dist 0.024241585628564297 duration 3 distance 24
+365 366 1.0 geo_dist 0.042982314696939944 duration 6 distance 43
+367 368 1.0 geo_dist 0.03728693919905196 duration 17 distance 123
+367 391 1.0 geo_dist 0.06279278315649564 duration 5 distance 59
+367 372 1.0 geo_dist 0.04640755633316044 duration 4 distance 40
+368 374 1.0 geo_dist 0.046646174919731394 duration 6 distance 46
+369 370 1.0 geo_dist 0.007587164577353343 duration 203 distance 1244
+370 371 1.0 geo_dist 0.06653990632695019 duration 73 distance 452
+371 389 1.0 geo_dist 0.19397282258607776 duration 33 distance 213
+371 390 1.0 geo_dist 0.036440798522470765 duration 6 distance 39
+373 384 1.0 geo_dist 0.04185226340996216 duration 5 distance 42
+373 388 1.0 geo_dist 0.07015477459642196 duration 9 distance 71
+376 386 1.0 geo_dist 0.06210961899712455 duration 13 distance 85
+377 383 1.0 geo_dist 0.03250964667679199 duration 4 distance 30
+377 388 1.0 geo_dist 0.09429417731209742 duration 12 distance 94
+377 392 1.0 geo_dist 0.10955413773625243 duration 15 distance 114
+378 383 1.0 geo_dist 0.02818249712119807 duration 4 distance 30
+378 379 1.0 geo_dist 0.052769756371352755 duration 7 distance 53
+378 388 1.0 geo_dist 0.09531747296853058 duration 23 distance 154
+379 393 1.0 geo_dist 0.13657729643219532 duration 18 distance 139
+379 400 1.0 geo_dist 0.11979384527344168 duration 16 distance 122
+379 381 1.0 geo_dist 0.12197191907066972 duration 16 distance 122
+379 395 1.0 geo_dist 0.11518988768683278 duration 29 distance 144
+380 382 1.0 geo_dist 0.07982116888296481 duration 11 distance 82
+380 395 1.0 geo_dist 0.14191562104863148 duration 27 distance 190
+381 382 1.0 geo_dist 0.04461439797977147 duration 6 distance 44
+381 400 1.0 geo_dist 0.03200091782655894 duration 0 distance 0
+381 395 1.0 geo_dist 0.04381625174209369 duration 11 distance 64
+382 397 1.0 geo_dist 0.04973638906323337 duration 6 distance 49
+385 387 1.0 geo_dist 0.027759051370005682 duration 5 distance 39
+389 391 1.0 geo_dist 0.04555426062575216 duration 7 distance 46
+389 402 1.0 geo_dist 0.06817428345866923 duration 10 distance 65
+390 403 1.0 geo_dist 0.2698007528969683 duration 79 distance 424
+390 391 1.0 geo_dist 0.22656471578233994 duration 59 distance 298
+391 403 1.0 geo_dist 0.1575512403976335 duration 40 distance 321
+392 393 1.0 geo_dist 0.09670281589794547 duration 13 distance 103
+393 394 1.0 geo_dist 0.024551228755826045 duration 3 distance 24
+394 396 1.0 geo_dist 0.05020764503579375 duration 10 distance 56
+395 400 1.0 geo_dist 0.07317395218232893 duration 18 distance 64
+397 398 1.0 geo_dist 0.045398660960392426 duration 5 distance 42
+397 399 1.0 geo_dist 0.030988631536899465 duration 0 distance 0
+399 401 1.0 geo_dist 0.007847040105365678 duration 0 distance 1
+402 403 1.0 geo_dist 0.10297395690011758 duration 17 distance 107
