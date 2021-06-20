@@ -89,3 +89,7 @@ with an actual api key:
 ```
 HERE_API_KEY={API_KEY}
 ```
+
+For running `cluster-utils.py` you need to install full metis library and python wrapper for metis.<br>
+To install metis check: http://glaros.dtc.umn.edu/gkhome/metis/metis/download (if using Mac OS, you can just run `brew install metis`).<br>
+For installing python wrapper for metis you can use: `pip install metis`. 
