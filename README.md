@@ -36,6 +36,7 @@ To setup the environment for this project, follow these instructions:
     ```shell script
     # Anaconda environment
     conda env create --file environment.yml
+   
     # pip environment
     pip install -r requirements-local.txt
     ```
