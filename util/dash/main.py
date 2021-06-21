@@ -11,7 +11,7 @@ import pickle
 
 def _updateGraphCity(filename):
     G = nx.read_pajek(f'data/graphs/{filename}.net')
-    title = f"{filename.replace('.net', '').replace('-', ' ').upper()} PLOT"
+    title = f"{filename.replace('.net', '').replace('-', ' ').upper()} CITY INFRASTRUCTURE NETWORK"
     edge_x = []
     edge_y = []
     for edge in G.edges():
@@ -46,7 +46,7 @@ def _updateGraphCity(filename):
             if G.nodes[node]['node_type'] == 'crossroad':
                 texts.append(f'Type: crossroad, <br>Lon:  {round(float(G.nodes[node]["lon"]), 4)}, Lat: {round(float(G.nodes[node]["lat"]), 4)}')
             else:
-                texts.append(f'Type: address, <br>City: {G.nodes[node]["obcina"]},<br> Street: {G.nodes[node]["ulica"]} {G.nodes[node]["hisna_st"]}, <br>Lon:  {round(float(G.nodes[node]["lon"]), 4)}, Lat: {round(float(G.nodes[node]["lat"]), 4)}')
+                texts.append(f'Type: household, <br>City: {G.nodes[node]["obcina"]},<br> Street: {G.nodes[node]["ulica"]} {G.nodes[node]["hisna_st"]}, <br>Lon:  {round(float(G.nodes[node]["lon"]), 4)}, Lat: {round(float(G.nodes[node]["lat"]), 4)}')
 
         traces.append(go.Scatter(
             x=node_x, y=node_y,
@@ -68,13 +68,14 @@ def _updateGraphCity(filename):
                         xaxis=dict(showgrid=True, zeroline=True, showticklabels=False),
                         yaxis=dict(showgrid=True, zeroline=True, showticklabels=False))
                     )
-
+    fig.update_layout(height=600, legend=dict(font=dict(size=20)))
     return fig
 
-def _updateGraphPartition(net, alg, mu, sigma):
+
+def _updateGraphPartition(net, alg):
     G = nx.read_pajek(f'data/graphs/with_communities/{net}-{alg}.net')
 
-    title = f"{net.replace('-', ' ').upper()} PARTITIONING ({alg.replace('-', ' ').upper()})"
+    title = f"{net.replace('-', ' ').upper()} PARTITIONING USING {alg.replace('-', ' ').upper()}"
     edge_x = []
     edge_y = []
     for edge in G.edges():
@@ -110,7 +111,7 @@ def _updateGraphPartition(net, alg, mu, sigma):
             if G.nodes[node]['node_type'] == 'crossroad':
                 texts.append(f'Type: crossroad, <br>Lon:  {round(float(G.nodes[node]["lon"]), 4)}, Lat: {round(float(G.nodes[node]["lat"]), 4)}')
             else:
-                texts.append(f'Type: address, <br>City: {G.nodes[node]["obcina"]},<br> Street: {G.nodes[node]["ulica"]} {G.nodes[node]["hisna_st"]}, <br>Lon:  {round(float(G.nodes[node]["lon"]), 4)}, Lat: {round(float(G.nodes[node]["lat"]), 4)}')
+                texts.append(f'Type: household, <br>City: {G.nodes[node]["obcina"]},<br> Street: {G.nodes[node]["ulica"]} {G.nodes[node]["hisna_st"]}, <br>Lon:  {round(float(G.nodes[node]["lon"]), 4)}, Lat: {round(float(G.nodes[node]["lat"]), 4)}')
 
         traces.append(go.Scatter(
             x=node_x, y=node_y,
@@ -132,12 +133,16 @@ def _updateGraphPartition(net, alg, mu, sigma):
                         xaxis=dict(showgrid=True, zeroline=True, showticklabels=False),
                         yaxis=dict(showgrid=True, zeroline=True, showticklabels=False))
                     )
+    fig.update_layout(height=600, legend=dict(font=dict(size=20)))
 
-    cached_file = f"cache/{net}-{alg}-{mu}-{sigma}.pickle"
+    cached_file = f"cache/div-{net}-{alg}.pickle"
+    cached_fig = f"cache/fig-{net}-{alg}.pickle"
 
     try:
         with open(cached_file, "rb") as cached:
             children = pickle.load(cached)
+        with open(cached_fig, "rb") as out_fig:
+            fig = pickle.load(out_fig)
     except IOError:
 
         children = [html.H5('Partition traversal results')]
@@ -146,25 +151,26 @@ def _updateGraphPartition(net, alg, mu, sigma):
             distanceMatrix = help.distance_matrix(G)
             optimalRoute, optimalPrice = help.optimalTraversal(G, subgraph_nodes, distanceMatrix)
 
-            optimalPriceRecWait = sum(np.random.normal(mu, sigma, len(subgraph_nodes)))
+            # optimalPriceRecWait = sum(np.random.normal(mu, sigma, len(subgraph_nodes)))
 
             hoursOpt = math.floor(optimalPrice / 3600)
-            hoursRecWait = math.floor(optimalPriceRecWait / 3600)
+            # hoursRecWait = math.floor(optimalPriceRecWait / 3600)
             minOpt = math.floor((optimalPrice - hoursOpt * 3600) / 60)
-            minRecWait = math.floor((optimalPriceRecWait - hoursRecWait * 3600) / 60)
+            # minRecWait = math.floor((optimalPriceRecWait - hoursRecWait * 3600) / 60)
             secondsOpt = round(optimalPrice - 3600 * hoursOpt - 60 * minOpt, 2)
-            secondsRecWait = round(optimalPriceRecWait - 3600 * hoursRecWait - 60 * minRecWait, 2)
+            # secondsRecWait = round(optimalPriceRecWait - 3600 * hoursRecWait - 60 * minRecWait, 2)
 
             children.append(html.Div(children=[
                 html.Div(f"Partition {type}:"),
                 html.Ul(children=[
-                            html.Li(f"number of houses: {len(list(filter(lambda x: x['node_type'] == 'address', [G.nodes[node] for node in subgraph_nodes])))},"),
+                            html.Li(f"number of houses: {len(list(filter(lambda x: x['node_type'] == 'household', [G.nodes[node] for node in subgraph_nodes])))},"),
                             html.Li(f"duration driving: {hoursOpt} h {minOpt} min {secondsOpt} sec"),
-                            html.Li(f"duration waiting for recipient: {hoursRecWait} h {minRecWait} min {secondsRecWait} sec"),
+                            # html.Li(f"duration waiting for recipient: {hoursRecWait} h {minRecWait} min {secondsRecWait} sec"),
                         ])
             ]))
 
             with open(cached_file, "wb") as out:
                 pickle.dump(children, out)
-
+            with open(cached_fig, "wb") as out_fig:
+                pickle.dump(fig, out_fig)
     return fig, children
