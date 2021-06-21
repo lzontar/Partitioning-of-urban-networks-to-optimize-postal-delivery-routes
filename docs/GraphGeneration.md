@@ -84,10 +84,17 @@ Once you have generated the data from the OverStreetMap API, you should run seve
 1. First run `python data-generation.py`. The script returns your first network with nodes and edges connected.
 2. To get the real distance and duration needed to travel an edge you should also run `python road-distance.py` (important: see the instructions below to set you API key for running `road-distance.py`).
 
-## How to run
-For running `road-distance.py` you need to set HERE Api key in environment variables.
+## Road distances
+For running `road-distance.py` you need to set [HERE](https://developer.here.com/) Api key in environment variables.
 To do that, create `.env` file and add the following line, where you replace `API_KEY`
 with an actual api key:
 ```
 HERE_API_KEY={API_KEY}
 ```
+After setting the api key, you can run the script with:
+```shell script
+python road-distance.py -n <GRAPH_NAME>
+# example: python road-distance.py -n "Škofja Loka"
+```
+Where you replace `<GRAPH_NAME>` with the name of the graph, for which you would like to calculate the distances.
+Repository contains graphs for the following Slovenian cities: `Pungert`, `Tolmin`, `Škofja Loka`.

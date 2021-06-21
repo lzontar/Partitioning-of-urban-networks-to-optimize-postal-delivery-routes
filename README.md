@@ -12,9 +12,9 @@ Project report is available at: [report.pdf](report.pdf)
 
 Repository currently only has one branch, the `master` branch.
 
-### The source folder ###
+### Structure
 
-The source folder contains multiple subfolders:
+The repository contains multiple subfolders:
 * `cache/` - the cache folder contains cached files for multiple procedures to increase 
 interactivity of the interactive dashboard. 
 * `data/` - the data folder contains all the datasets in `.csv` and Pajek format. 
@@ -25,9 +25,10 @@ interactivity of the interactive dashboard.
 * `scripts/` - the scripts folder contains all the Python scripts used for data exploration and initial analyses.
 * `assets/` - the assets folder contains assets used in the interactive dashboard.
 
-### The documentation folder ###
-In this folder you will find a more comprehensive documentation of our project.
-
+### Documentation
+In `docs` you will find a more comprehensive documentation of our project:
+* generation of graphs: [Graph generation](./docs/GraphGeneration.md)
+* running scripts for graph partitioning: [Graph partitioning](./docs/GraphPartitioning.md)
 
 ## Environment setup
 To setup the environment for this project, follow these instructions:
