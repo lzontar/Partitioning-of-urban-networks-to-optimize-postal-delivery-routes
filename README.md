@@ -1,18 +1,12 @@
 # Partitioning of urban networks to optimize postal delivery routes
 
-
-## About this repository ##
-
 This is the repository used for our Introduction to network analysis course at UL-FRI. 
 
 Deploy of our project is available at: [https://delivery-sys-opt.herokuapp.com/](https://delivery-sys-opt.herokuapp.com/)
 
 Project report is available at: [report.pdf](report.pdf)
-## Branching ##
 
-Repository currently only has one branch, the `master` branch.
-
-### Structure
+## Structure
 
 The repository contains multiple subfolders:
 * `cache/` - the cache folder contains cached files for multiple procedures to increase 
@@ -25,7 +19,7 @@ interactivity of the interactive dashboard.
 * `scripts/` - the scripts folder contains all the Python scripts used for data exploration and initial analyses.
 * `assets/` - the assets folder contains assets used in the interactive dashboard.
 
-### Documentation
+## Documentation
 In `docs` you will find a more comprehensive documentation of our project:
 * generation of graphs: [Graph generation](./docs/GraphGeneration.md)
 * running scripts for graph partitioning: [Graph partitioning](./docs/GraphPartitioning.md)
