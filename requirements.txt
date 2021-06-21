@@ -123,3 +123,4 @@ Werkzeug==2.0.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 networkx==2.5.1
+utm==0.7.0

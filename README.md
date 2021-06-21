@@ -1,16 +1,27 @@
 # Partitioning of urban networks to optimize postal delivery routes
 
-## Network structure
-Here, we present the structure of our network, which will represent the city road infrastructure.
 
-**Nodes** will represent crossroads. Each node will contain information about:
-* its GPS coordinates: longitude and latitude,
-* a list of nearby houses to which this crossroad is the closest crossroad.
+## About this repository ##
 
-**Edges** represent connections or combination of roads between two crossroads. 
-Each edge is weighted by distance (in km) and time needed to get from one crossroad to another.
- 
- 
+This is the repository used for our Introduction to network analysis course at UL-FRI. 
+
+## Branching ##
+
+Repository currently only has one branch, the `master` branch.
+
+### The source folder ###
+
+The source folder contains multiple subfolders:
+* `cache/` - the cache folder contains cached files for multiple procedures to increase 
+interactivity of the interactive dashboard. 
+* `data/` - the data folder contains all the datasets in `.csv` and Pajek format. 
+* `util/` - the lib folder contains helper functions and classes. It is additionally broken down to:
+    * `dash/` - the dashboard folder contains helper functions for the interactive dashboard. Here, we also specify all the tabs and how they function.
+    * `lib/` - the lib folder contains the general helper methods and classes.
+* `notebooks/` - the notebooks folder contains all the Jupyter notebooks used for data exploration and initial analyses.
+* `scripts/` - the scripts folder contains all the Python scripts used for data exploration and initial analyses.
+* `assets/` - the assets folder contains assets used in the interactive dashboard.
+
 ##### Fetch crossroads
 ```
 <!-- Only select the type of ways you are interested in -->
