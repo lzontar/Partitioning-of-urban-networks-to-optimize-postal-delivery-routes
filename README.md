@@ -5,6 +5,9 @@
 
 This is the repository used for our Introduction to network analysis course at UL-FRI. 
 
+Deploy of our project is available at: [https://delivery-sys-opt.herokuapp.com/](https://delivery-sys-opt.herokuapp.com/)
+
+Project report is available at: [report.pdf](report.pdf)
 ## Branching ##
 
 Repository currently only has one branch, the `master` branch.
@@ -22,85 +25,33 @@ interactivity of the interactive dashboard.
 * `scripts/` - the scripts folder contains all the Python scripts used for data exploration and initial analyses.
 * `assets/` - the assets folder contains assets used in the interactive dashboard.
 
-##### Fetch crossroads
-```
-<!-- Only select the type of ways you are interested in -->
-<query type="way" into="relevant_ways">
-  <has-kv k="highway"/>
-  <has-kv k="highway" modv="not" regv="footway|cycleway|path|service|track"/>
-  <bbox-query {{bbox}}/>
-</query>
+### The documentation folder ###
+In this folder you will find a more comprehensive documentation of our project.
 
-<!-- Now find all intersection nodes for each way independently -->
-<foreach from="relevant_ways" into="this_way">  
 
-  <!-- Get all ways which are linked to this way -->
-  <recurse from="this_way" type="way-node" into="this_ways_nodes"/>
-  <recurse from="this_ways_nodes" type="node-way" into="linked_ways"/>
-  <!-- Again, only select the ways you are interested in, see beginning -->
-  <query type="way" into="linked_ways">
-    <item set="linked_ways"/>
-    <has-kv k="highway"/>
-    <has-kv k="highway" modv="not" regv="footway|cycleway|path|service|track"/>
-  </query>
+## Environment setup
+To setup the environment for this project, follow these instructions:
 
-  <!-- Get all linked ways without the current way --> 
-  <difference into="linked_ways_only">
-    <item set="linked_ways"/>
-    <item set="this_way"/>
-  </difference>
-  <recurse from="linked_ways_only" type="way-node" into="linked_ways_only_nodes"/>
+1. Install [Python version 3.8 or higher](https://www.python.org/downloads/) and [Anaconda](https://www.anaconda.com/products/individual).
+2. Assuming you have `git` already installed, clone this repository to the desired destination:
+    ```shell script
+    git clone https://github.com/lzontar/Partitioning-of-urban-networks-to-optimize-postal-delivery-routes.git
+    ```
+3. Move to the folder, where you cloned this repository and import the environment from the config file using `pip` or `conda`:
+    ```shell script
+    # Anaconda environment
+    conda env create --file environment.yml
+    # pip environment
+    pip install -r requirements-local.txt
+    ```
+4. If using Anaconda, activate environment: 
+    ```shell script
+    conda activate Projekt
+    ```
+5. To try out our interactive dashboard in root of the project execute:
+    ```
+    python Dashboard.py 
+    ```
+    Open your browser at [http://127.0.0.1:3010/](http://127.0.0.1:3010/) to access the interactive dashboard.
 
-  <!-- Return all intersection nodes -->
-  <query type="node">
-    <item set="linked_ways_only_nodes"/>
-    <item set="this_ways_nodes"/>
-  </query>
-  <print/>
-</foreach>
-```
-##### Fetch nodes
-```
-/*
-This query looks for nodes, ways and relations 
-with the given key.
-Choose your region and hit the Run button above!
-*/
-[timeout:100000];
-// gather results
-(
-  // query part for: “"addr:housenumber"=*”
-  node["addr:housenumber"]({{bbox}});
-  way["addr:housenumber"]({{bbox}});
-  relation["addr:housenumber"]({{bbox}});
-);
-// print results
-out body;
->;
-out skel qt;
-```
-##### Fetch ways
-```
-[timeout:25];
-// gather results
-(
-  // query part for: “highway=*”
-  way["highway"]({{bbox}});
-);
-// print results
-out body;
->;
-out skel qt;
-```
-
-## How to run
-For running `road-distance.py` you need to set HERE Api key in environment variables.
-To do that, create `.env` file and add the following line, where you replace `API_KEY`
-with an actual api key:
-```
-HERE_API_KEY={API_KEY}
-```
-
-For running `cluster-utils.py` you need to install full metis library and python wrapper for metis.<br>
-To install metis check: http://glaros.dtc.umn.edu/gkhome/metis/metis/download (if using Mac OS, you can just run `brew install metis`).<br>
-For installing python wrapper for metis you can use: `pip install metis`. 
+6. Explore the repository by yourself or use our documentation for better understanding.
