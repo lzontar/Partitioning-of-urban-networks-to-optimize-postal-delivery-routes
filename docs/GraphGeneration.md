@@ -80,9 +80,9 @@ out body;
 out skel qt;
 ```
 
-TODO: DEJTA PLIS TOLE DOKONČAT, do tu je pomoje ok.
-
 Once you have generated the data from the OverStreetMap API, you should run several scripts:
+1. First run `python data-generation.py`. The script returns your first network with nodes and edges connected.
+2. To get the real distance and duration needed to travel an edge you should also run `python road-distance.py` (important: see the instructions below to set you API key for running `road-distance.py`).
 
 ## How to run
 For running `road-distance.py` you need to set HERE Api key in environment variables.

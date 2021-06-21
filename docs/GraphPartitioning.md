@@ -11,3 +11,4 @@ After installing all the requirements, we can nov run our scripts for graph part
 
 Short description of scripts:
 In script `clustering-utils.py` there is an implementation of 7 graph partitioning algorithms. When running the script, we need to pass a parameter that tells the program with which graph we are working with. When the script finishes, it saves 7 new graphs into `data/graphs/with_communites`, where from each file name we can see with which algorithm was generated. The clusters to whom nodes belong are added as attribute in the graph with name `cluster_id`.
+Similarly work also `kmeans-clustering.py` and `kmeans-clustering-size.py`, where the first script applies kmeans clustering on the graph and uses the distance information of edges. And the second one does the same, but also tries to make final clusters of the same size.
